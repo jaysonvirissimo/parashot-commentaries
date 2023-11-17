@@ -10,4 +10,32 @@
     <grapheme>Bereshit</grapheme>
     <phoneme>bəʁeˈʃit</phoneme>
   </lexeme>
+  <lexeme>
+    <grapheme>Elohim</grapheme>
+    <phoneme>ɛloˈhim</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Hamaschiach</grapheme>
+    <phoneme>hamaˈʃiaħ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Hakodesh</grapheme>
+    <phoneme>haˈko.deʃ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Hashem</grapheme>
+    <phoneme>haˈʃem</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Tamidim</grapheme>
+    <phoneme>talˈmidim</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Chavah</grapheme>
+    <phoneme>χaˈva</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Tanakh</grapheme>
+    <phoneme>taˈnaχ</phoneme>
+  </lexeme>
 </lexicon>
