@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Pearls of Torah</title>
+    <link>https://github.com/jaysonvirissimo/parashot-commentaries</link>
+    <language>en-US</language>
+    <copyright>TODO</copyright>
+    <itunes:author>TODO</itunes:author>
+    <itunes:summary>TODO</itunes:summary>
+    <description>TODO</description>
+    <itunes:owner>
+      <itunes:name>Lizette Virissimo</itunes:name>
+      <itunes:email>TODO</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/images/commentary.jpeg"/>
+    <itunes:category text="Torah"/>
+
+    <item>
+      <title>Bereshit</title>
+      <guid>https://github.com/jaysonvirissimo/the-lusiads/raw/main/audio/bereshit.m4a</guid>
+      <pubDate>Sun, 19 Nov 2023 22:00:00 -0700</pubDate>
+      <description>
+       TODO
+      </description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/bereshit.m4a" length="23174119" type="audio/mp4"/>
+    </item>
+  </channel>
+</rss>
