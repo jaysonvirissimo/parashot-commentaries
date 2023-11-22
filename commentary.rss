@@ -4,29 +4,27 @@
     <title>Pearls of Torah</title>
     <link>https://github.com/jaysonvirissimo/parashot-commentaries</link>
     <language>en-US</language>
-    <copyright>TODO</copyright>
-    <itunes:author>TODO</itunes:author>
-    <itunes:summary>a torah commentary reading podcast</itunes:summary>
+    <copyright>Richard A. Elofer</copyright>
+    <itunes:author>Sweetjulian.co</itunes:author>
+    <itunes:summary>A torah commentary reading podcast</itunes:summary>
     <description>Welcome to the “Pearls of Torah" podcast, where we dive deep into the timeless wisdom of the Torah. I'm your host, Lizette, a messianic artist and a firm believer in the whole Bible. We'll be reading from “Bible Commentary Based on Jewish Sources and thought" by Dr. Richard A Elofer, uncovering the profound truths within its pages. Join me on this enlightening journey as we explore the Torah from a Messianic perspective.
-Read along with us at home, church or anywhere. Find the Author's books on Amazon. 
+Read along with us at home, church or anywhere. Find the Author's books on Amazon.
 Connect with us at sweetjulian.co where I you can find:
 original messianic artwork
 children's books
 torah homeschool printables</description>
     <itunes:owner>
-      <itunes:name>Lizette Virissimo</itunes:name>
-      <itunes:email>TODO</itunes:email>
+      <itunes:name>Lizette</itunes:name>
+      <itunes:email>xoxo.ltd@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/images/commentary.jpeg"/>
-    <itunes:category text="Torah"/>
+    <itunes:category text="Religion &amp; Spirituality"/>
 
     <item>
       <title>Bereshit</title>
       <guid>https://github.com/jaysonvirissimo/the-lusiads/raw/main/audio/bereshit.m4a</guid>
       <pubDate>Sun, 19 Nov 2023 22:00:00 -0700</pubDate>
-      <description>
-       TODO
-      </description>
+      <description>Commentary on Torah portion "Bereshit" (Genesis 1:1-6:8)</description>
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/bereshit.m4a" length="23174119" type="audio/mp4"/>
     </item>
   </channel>
