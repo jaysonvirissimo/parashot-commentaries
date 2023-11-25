@@ -39,8 +39,8 @@
     <phoneme>taˈnaχ</phoneme>
   </lexeme>
   <lexeme>
-    <grapheme>LECH-LECHA</grapheme>
-    <phoneme>ˈlɛχ lɛˈχa</phoneme>
+    <grapheme>Lech-Lecha</grapheme>
+    <phoneme>ˈleχ ˈleχa</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>Avraham</grapheme>
@@ -289,31 +289,25 @@
   <lexeme>
     <grapheme>Noach</grapheme>
     <phoneme>Noˈaχ</phoneme>
-</lexeme>
-
-<lexeme>
+  </lexeme>
+  <lexeme>
     <grapheme>Cham</grapheme>
     <phoneme>xam</phoneme>
-</lexeme>
-
-<lexeme>
+  </lexeme>
+  <lexeme>
     <grapheme>Ani</grapheme>
     <phoneme>ani</phoneme>
-</lexeme>
-
-<lexeme>
+  </lexeme>
+  <lexeme>
     <grapheme>Anochi</grapheme>
     <phoneme>anoˈχi</phoneme>
-</lexeme>
-
-<lexeme>
+  </lexeme>
+  <lexeme>
     <grapheme>Adonai</grapheme>
     <phoneme>adoˈnai</phoneme>
-</lexeme>
-
-<lexeme>
+  </lexeme>
+  <lexeme>
     <grapheme>Chanoch</grapheme>
     <phoneme>χaˈnox</phoneme>
-</lexeme>
-
+  </lexeme>
 </lexicon>
