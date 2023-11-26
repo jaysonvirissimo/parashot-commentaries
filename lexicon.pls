@@ -310,4 +310,20 @@
     <grapheme>Chanoch</grapheme>
     <phoneme>χaˈnox</phoneme>
   </lexeme>
+  <lexeme>
+    <grapheme>Chamas</grapheme>
+    <phoneme>χaˈmas</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Teshuvah</grapheme>
+    <phoneme>tɛʃuˈva</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Bereishit</grapheme>
+    <phoneme>bəʁeˈʃit</phoneme>
+  <lexeme>
+    <grapheme>Tsedakah</grapheme>
+    <phoneme>tseˈda.ka</phoneme>
+  </lexeme>
+  </lexeme>    
 </lexicon>
