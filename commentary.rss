@@ -28,10 +28,17 @@
 
     <item>
       <title>Bereshit</title>
-      <guid>https://github.com/jaysonvirissimo/the-lusiads/raw/main/audio/bereshit.m4a</guid>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/bereshit.m4a</guid>
       <pubDate>Sun, 19 Nov 2023 22:00:00 -0700</pubDate>
       <description>Commentary on Torah portion "Bereshit" (Genesis 1:1-6:8)</description>
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/bereshit.m4a" length="23174119" type="audio/mp4"/>
+    </item>
+    <item>
+      <title>Noach</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/noach.m4a</guid>
+      <pubDate>Sun, 26 Nov 2023 20:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Noach" (Genesis 6:9-11:32)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/noach.m4a" length="21843183" type="audio/mp4"/>
     </item>
   </channel>
 </rss>
