@@ -8,6 +8,7 @@
       xml:lang="en-US">
   <lexeme>
     <grapheme>Bereshit</grapheme>
+    <grapheme>Bereishit</grapheme>
     <phoneme>bəʁeˈʃit</phoneme>
   </lexeme>
   <lexeme>
@@ -309,5 +310,33 @@
   <lexeme>
     <grapheme>Chanoch</grapheme>
     <phoneme>χaˈnox</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Chamas</grapheme>
+    <phoneme>χaˈmas</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Teshuvah</grapheme>
+    <phoneme>tɛʃuˈva</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Tsedakah</grapheme>
+    <phoneme>tseˈda.ka</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Mabul</grapheme>
+    <phoneme>maˈbul</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Noachides</grapheme>
+    <phoneme>Noaχiˈdes</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Tahor</grapheme>
+    <phoneme>taˈhor</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Ish</grapheme>
+    <phoneme>iʃ</phoneme>
   </lexeme>
 </lexicon>
