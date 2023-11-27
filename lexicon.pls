@@ -339,4 +339,8 @@
     <grapheme>Ish</grapheme>
     <phoneme>iʃ</phoneme>
   </lexeme>
+  <lexeme>
+    <grapheme>Nachem</grapheme>
+    <phoneme>naˈχem</phoneme>
+  </lexeme>
 </lexicon>
