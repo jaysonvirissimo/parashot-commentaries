@@ -341,6 +341,7 @@
   </lexeme>
   <lexeme>
     <grapheme>Nachem</grapheme>
+    <grapheme>nachem</grapheme>
     <phoneme>naˈχem</phoneme>
   </lexeme>
 </lexicon>
