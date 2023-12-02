@@ -347,113 +347,93 @@
   <lexeme>
     <grapheme>Yitschak</grapheme>
     <phoneme>jiˈtsχak</phoneme>
-</lexeme>
-
-<lexeme>
+  </lexeme>
+  <lexeme>
     <grapheme>Eisav</grapheme>
     <phoneme>eɪˈsɑːv</phoneme>
-</lexeme>
-
-<lexeme>
+  </lexeme>
+  <lexeme>
     <grapheme>Rivkah</grapheme>
     <phoneme>ˈrɪvkə</phoneme>
-</lexeme>
-
-<lexeme>
+  </lexeme>
+  <lexeme>
     <grapheme>na'arah</grapheme>
     <phoneme>naʔaˈra</phoneme>
-</lexeme>
-
-<lexeme>
+  </lexeme>
+  <lexeme>
     <grapheme>Yaakov</grapheme>
     <phoneme>jaˈʔaːkov</phoneme>
-</lexeme>
-
-<lexeme>
+  </lexeme>
+  <lexeme>
     <grapheme>'etar</grapheme>
     <phoneme>ʔɛˈtar</phoneme>
-</lexeme>
-
-<lexeme>
+  </lexeme>
+  <lexeme>
     <grapheme>Tefilah</grapheme>
     <phoneme>tɛfiˈla</phoneme>
-</lexeme>
-
-<lexeme>
+  </lexeme>
+  <lexeme>
     <grapheme>Vaye'etar</grapheme>
     <phoneme>vaˌjeʔɛˈtar</phoneme>
-</lexeme>
-
-<lexeme>
+  </lexeme>
+  <lexeme>
     <grapheme>ki-tsayid befiyv</grapheme>
     <phoneme>ki tsajiːd beˈfiːv</phoneme>
-</lexeme>
-
-<lexeme>
+  </lexeme>
+  <lexeme>
     <grapheme>eikev</grapheme>
     <phoneme>eiˈkev</phoneme>
-</lexeme>
-
-<lexeme>
+  </lexeme>
+  <lexeme>
     <grapheme>yadah tsa'id</grapheme>
     <phoneme>jaˈdaχ tsaˈid</phoneme>
-</lexeme>
-
-<lexeme>
+  </lexeme>
+  <lexeme>
     <grapheme>Ish sadeh</grapheme>
     <phoneme>iʃ saˈdɛ</phoneme>
-</lexeme>
-
-<lexeme>
+  </lexeme>
+  <lexeme>
     <grapheme>Ish Tam</grapheme>
     <phoneme>iʃ tɑm</phoneme>
-</lexeme>
-
-<lexeme>
+  </lexeme>
+  <lexeme>
     <grapheme>Haggadah</grapheme>
     <phoneme>ˌhæɡəˈdɑː</phoneme>
-</lexeme>
-
-<lexeme>
+  </lexeme>
+  <lexeme>
     <grapheme>chayom</grapheme>
     <phoneme>χaˈjom</phoneme>
-</lexeme>
-
-<lexeme>
+  </lexeme>
+  <lexeme>
     <grapheme>Gerar</grapheme>
     <phoneme>ɡɛˈrar</phoneme>
-</lexeme>
-
-<lexeme>
+  </lexeme>
+  <lexeme>
     <grapheme>shomer</grapheme>
     <phoneme>ʃoˈmɛr</phoneme>
-</lexeme>
-
-<lexeme>
+  </lexeme>
+  <lexeme>
     <grapheme>Tanach</grapheme>
     <phoneme>ˈtɑnɑx</phoneme>
-</lexeme>
-
-<lexeme>
+  </lexeme>
+  <lexeme>
     <grapheme>berachot</grapheme>
     <phoneme>bɛˈraχɔt</phoneme>
-</lexeme>
-
-<lexeme>
+  </lexeme>
+  <lexeme>
     <grapheme>amrah</grapheme>
     <phoneme>amˈra</phoneme>
-</lexeme>
-
-<lexeme>
+  </lexeme>
+  <lexeme>
     <grapheme>lemor</grapheme>
     <phoneme>lɛˈmor</phoneme>
-</lexeme>
-
-<lexeme>
+  </lexeme>
+  <lexeme>
     <grapheme>PADDAN Aram</grapheme>
     <phoneme>ˌpædən ˈærəm</phoneme>
-</lexeme>
-<lexeme>
+  </lexeme>
+  <lexeme>
     <grapheme>El Shaddai</grapheme>
     <phoneme>ɛl ʃæˈdaɪ</phoneme>
+  </lexeme>
 </lexicon>
