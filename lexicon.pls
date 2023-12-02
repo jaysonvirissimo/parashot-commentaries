@@ -83,8 +83,8 @@
     <phoneme>beˈʁɛχ</phoneme>
   </lexeme>
   <lexeme>
-    <grapheme>vayevarech</grapheme>
-    <phoneme>va je.vaˈʁɛχ</phoneme>
+    <grapheme>Vayevarech</grapheme>
+    <phoneme>vaɪˈvɑreɪx</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>Nisayon</grapheme>
