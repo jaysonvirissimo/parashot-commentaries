@@ -41,6 +41,7 @@
   </lexeme>
   <lexeme>
     <grapheme>Lech-Lecha</grapheme>
+    <grapheme>Lech-Lecha</grapheme>
     <phoneme>ˈleχ ˈleχa</phoneme>
   </lexeme>
   <lexeme>
@@ -149,6 +150,7 @@
   </lexeme>
   <lexeme>
     <grapheme>VAYERA</grapheme>
+    <grapheme>Vayera</grapheme>
     <phoneme>vaˈje.ʁa</phoneme>
   </lexeme>
   <lexeme>
@@ -213,6 +215,7 @@
   </lexeme>
   <lexeme>
     <grapheme>CHAYEI</grapheme>
+    <grapheme>Chayei</grapheme>
     <phoneme>χaˈjei</phoneme>
   </lexeme>
   <lexeme>
@@ -435,5 +438,14 @@
   <lexeme>
     <grapheme>El Shaddai</grapheme>
     <phoneme>ɛl ʃæˈdaɪ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Halacha</grapheme>
+    <phoneme>hɑˈlɑxə</phoneme>
+  </lexeme>
+
+  <lexeme>
+    <grapheme>Siddur</grapheme>
+    <phoneme>ˈsɪdər</phoneme>
   </lexeme>
 </lexicon>
