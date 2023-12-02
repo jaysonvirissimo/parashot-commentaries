@@ -37,11 +37,17 @@
   </lexeme>
   <lexeme>
     <grapheme>Tanakh</grapheme>
+    <grapheme>Tanach</grapheme>
     <phoneme>taˈnaχ</phoneme>
   </lexeme>
   <lexeme>
+    <grapheme>Lech</grapheme>
+    <phoneme>ˈleχ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>LECH-LECHA</grapheme>
     <grapheme>Lech-Lecha</grapheme>
-    <grapheme>Lech-Lecha</grapheme>
+    <grapheme>Lech Lecha</grapheme>
     <phoneme>ˈleχ ˈleχa</phoneme>
   </lexeme>
   <lexeme>
@@ -416,10 +422,6 @@
     <phoneme>ʃoˈmɛr</phoneme>
   </lexeme>
   <lexeme>
-    <grapheme>Tanach</grapheme>
-    <phoneme>ˈtɑnɑx</phoneme>
-  </lexeme>
-  <lexeme>
     <grapheme>berachot</grapheme>
     <phoneme>bɛˈraχɔt</phoneme>
   </lexeme>
@@ -443,7 +445,6 @@
     <grapheme>Halacha</grapheme>
     <phoneme>hɑˈlɑxə</phoneme>
   </lexeme>
-
   <lexeme>
     <grapheme>Siddur</grapheme>
     <phoneme>ˈsɪdər</phoneme>
