@@ -323,14 +323,15 @@
   </lexeme>
   <lexeme>
     <grapheme>Chamas</grapheme>
+    <grapheme>chamas</grapheme>
     <phoneme>χaˈmas</phoneme>
   </lexeme>
   <lexeme>
-    <grapheme>Teshuvah</grapheme>
+    <grapheme>teshuvah</grapheme>
     <phoneme>tɛʃuˈva</phoneme>
   </lexeme>
   <lexeme>
-    <grapheme>Tsedakah</grapheme>
+    <grapheme>tsedakah</grapheme>
     <phoneme>tseˈda.ka</phoneme>
   </lexeme>
   <lexeme>
@@ -339,7 +340,7 @@
   </lexeme>
   <lexeme>
     <grapheme>Noachides</grapheme>
-    <phoneme>Noaχiˈdes</phoneme>
+    <phoneme>noʊˈaɪ.dz</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>Tahor</grapheme>
@@ -436,6 +437,7 @@
   </lexeme>
   <lexeme>
     <grapheme>PADDAN Aram</grapheme>
+    <grapheme>Paddan Aram</grapheme>
     <phoneme>ˌpædən ˈærəm</phoneme>
   </lexeme>
   <lexeme>
