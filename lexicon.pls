@@ -325,11 +325,11 @@
     <phoneme>χaˈmas</phoneme>
   </lexeme>
   <lexeme>
-    <grapheme>Teshuvah</grapheme>
+    <grapheme>teshuvah</grapheme>
     <phoneme>tɛʃuˈva</phoneme>
   </lexeme>
   <lexeme>
-    <grapheme>Tsedakah</grapheme>
+    <grapheme>tsedakah</grapheme>
     <phoneme>tseˈda.ka</phoneme>
   </lexeme>
   <lexeme>
@@ -674,20 +674,8 @@
     <phoneme>χaˈzak</phoneme>
   </lexeme>
   <lexeme>
-    <grapheme>Cephas</grapheme>
-    <phoneme>ˈsefas</phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>Kefa</grapheme>
-    <phoneme>ˈkefa</phoneme>
-  </lexeme>
-  <lexeme>
     <grapheme>Chachamim</grapheme>
     <phoneme>χaχaˈmim</phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>Chaldea</grapheme>
-    <phoneme>χalˈdea</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>Chesed</grapheme>
@@ -708,10 +696,6 @@
   <lexeme>
     <grapheme>Chuppah</grapheme>
     <phoneme>χuˈpa</phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>Denarius</grapheme>
-    <phoneme>deˈnaʁius</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>Chalom</grapheme>
@@ -880,10 +864,6 @@
   <lexeme>
     <grapheme>Haggadah</grapheme>
     <phoneme>hagaˈda</phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>Hagiographa</grapheme>
-    <phoneme>hagioˈgʁafa</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>Hakever</grapheme>
