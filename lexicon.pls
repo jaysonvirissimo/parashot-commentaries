@@ -452,4 +452,672 @@
     <grapheme>Siddur</grapheme>
     <phoneme>ˈsɪdər</phoneme>
   </lexeme>
+  <lexeme>
+    <grapheme>Asenath</grapheme>
+    <phoneme>əˈsɛnəθ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Aseret Hadibrot</grapheme>
+    <phoneme>ʔɑˈsɛʁɛt hɑdiˈbʁot</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Asher</grapheme>
+    <phoneme>ˈɑʃɛʁ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Asoukh Shamen</grapheme>
+    <phoneme>ɑˈsuːx ʃɑˈmɛn</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Assyria</grapheme>
+    <phoneme>əˈsɪrɪə</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Baal</grapheme>
+    <phoneme>baːʕal</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Balsam</grapheme>
+    <phoneme>ˈbɑlsəm</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Banim</grapheme>
+    <phoneme>baˈnim</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Bar Mitzvah</grapheme>
+    <phoneme>ˈbɑr ˈmɪtsvɑ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Barechu</grapheme>
+    <phoneme>baˈʁeχu</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Bara</grapheme>
+    <phoneme>ˈbɑʁa</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Av</grapheme>
+    <phoneme>ʔav</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Aver</grapheme>
+    <phoneme>ʔaˈveʁ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Avi</grapheme>
+    <phoneme>ʔaˈvi</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Avodat Kodesh</grapheme>
+    <phoneme>ʔavoˈdat koˈdeʃ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Avot</grapheme>
+    <phoneme>ʔaˈvot</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Abbot</grapheme>
+    <phoneme>ˈæbət</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Baruch</grapheme>
+    <phoneme>baˈʁuχ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>haba</grapheme>
+    <phoneme>haˈba</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Basar</grapheme>
+    <phoneme>baˈsaʁ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Bat Mitzvah</grapheme>
+    <phoneme>ˈbat ˈmɪtsva</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Avram</grapheme>
+    <phoneme>ˈavʁam</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Bavel</grapheme>
+    <phoneme>baˈvel</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Avrech</grapheme>
+    <phoneme>ʔavˈʁeχ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Ba Bayamim</grapheme>
+    <phoneme>ba baˈjamim</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Ba'al Hachalomot</grapheme>
+    <phoneme>baˈʔal haχaˈlomot</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Bechora</grapheme>
+    <phoneme>beˈχoʁa</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Bethabara</grapheme>
+    <phoneme>bethaˈbara</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Beer Lahai-Roi</grapheme>
+    <phoneme>beˈʔeʁ laˈχai ʁoi</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Beer Sheva</grapheme>
+    <phoneme>beˈʔeʁ ˈʃeva</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Besorah</grapheme>
+    <phoneme>beˈsoʁa</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Beer</grapheme>
+    <phoneme>beˈʔeʁ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Beit Hamikdash</grapheme>
+    <phoneme>beit haˈmikdaʃ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Beit-El or Beth-El</grapheme>
+    <phoneme>beit ˈʔel</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Ben Zikunim</grapheme>
+    <phoneme>ben ziˈkunim</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Ben-Adam</grapheme>
+    <phoneme>ben ˈadam</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Ben-Elohim</grapheme>
+    <phoneme>ben eˈlohim</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Ben-Oni</grapheme>
+    <phoneme>ben ˈoni</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Benyamin</grapheme>
+    <phoneme>benˈjamin</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Berachot</grapheme>
+    <phoneme>beˈraχot</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Bereishit</grapheme>
+    <phoneme>beˈʁeiʃit</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Bethuel</grapheme>
+    <phoneme>beˈtʰuel</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Bikur Cholim</grapheme>
+    <phoneme>biˈkuʁ χoˈlim</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Bilhah</grapheme>
+    <phoneme>ˈbilha</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Bnei</grapheme>
+    <phoneme>ˈbnei</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Bo</grapheme>
+    <phoneme>bo</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Boreh</grapheme>
+    <phoneme>boˈʁeh</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Brachah</grapheme>
+    <phoneme>bʁaˈχa</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>B'rit Chadashah</grapheme>
+    <phoneme>bʁit χadaˈʃa</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Brith</grapheme>
+    <phoneme>bʁit</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Chavah</grapheme>
+    <phoneme>χaˈva</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Chaver</grapheme>
+    <phoneme>χaˈveʁ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Briut</grapheme>
+    <phoneme>bʁiˈut</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Chayei</grapheme>
+    <phoneme>χaˈjei</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>b'shem Adonai</grapheme>
+    <phoneme>bəˈʃem adoˈnai</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Chazak</grapheme>
+    <phoneme>χaˈzak</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Chachamim</grapheme>
+    <phoneme>χaχaˈmim</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Chesed</grapheme>
+    <phoneme>χeˈsed</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Chochma</grapheme>
+    <phoneme>χoχˈma</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Chukim</grapheme>
+    <phoneme>χuˈkim</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Chumash</grapheme>
+    <phoneme>χuˈmaʃ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Chuppah</grapheme>
+    <phoneme>χuˈpa</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Chalom</grapheme>
+    <phoneme>χaˈlom</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Chamas</grapheme>
+    <phoneme>χaˈmas</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Chanoch</grapheme>
+    <phoneme>χaˈnoχ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Charan</grapheme>
+    <phoneme>χaˈʁan</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Charon-Af</grapheme>
+    <phoneme>χaʁon ˈaf</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Chassidut</grapheme>
+    <phoneme>χasiˈdut</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Chatah</grapheme>
+    <phoneme>χaˈta</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Drasha</grapheme>
+    <phoneme>dʁaˈʃa</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Chatan</grapheme>
+    <phoneme>χaˈtan</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Chattah</grapheme>
+    <phoneme>χaˈta</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Eber</grapheme>
+    <phoneme>ˈeber</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Echad</grapheme>
+    <phoneme>ˈeχad</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Eikev</grapheme>
+    <phoneme>ˈeikev</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Eliyahu Hanavi</grapheme>
+    <phoneme>eliˈjahu hanaˈvi</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Eloha</grapheme>
+    <phoneme>eˈloha</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Eloah</grapheme>
+    <phoneme>eˈloah</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Edom</grapheme>
+    <phoneme>ˈedom</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>'Edut</grapheme>
+    <phoneme>ˈedut</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Emet</grapheme>
+    <phoneme>eˈmet</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Eisav</grapheme>
+    <phoneme>ˈeisav</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Esav</grapheme>
+    <phoneme>ˈesav</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>El Shaddai</grapheme>
+    <phoneme>el ʃadˈdai</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>El'azar</grapheme>
+    <phoneme>elˈazar</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Elazar</grapheme>
+    <phoneme>elˈazar</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Eleh</grapheme>
+    <phoneme>ˈeleh</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Ephraim</grapheme>
+    <phoneme>ˈefraim</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Ephrath</grapheme>
+    <phoneme>ˈefrat</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Ephron</grapheme>
+    <phoneme>ˈefron</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Eleh toldot</grapheme>
+    <phoneme>ˈeleh toˈlod</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Eretz Yisrael</grapheme>
+    <phoneme>eˈretz jisʁaˈel</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Esav or Eisav</grapheme>
+    <phoneme>ˈesav oʁ ˈeisav</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Etz</grapheme>
+    <phoneme>etz</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Galil</grapheme>
+    <phoneme>gaˈlil</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Galut</grapheme>
+    <phoneme>gaˈlut</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Gan Eden</grapheme>
+    <phoneme>gan ˈeden</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Gideon</grapheme>
+    <phoneme>giˈdeon</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Ha'aretz</grapheme>
+    <phoneme>haʔaˈretz</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Habakar</grapheme>
+    <phoneme>habaˈkar</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Ha'eguel</grapheme>
+    <phoneme>haʔeˈguel</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Haftarah</grapheme>
+    <phoneme>haftaˈʁah</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Hagar</grapheme>
+    <phoneme>haˈgar</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Haggadah</grapheme>
+    <phoneme>hagaˈda</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Hakever</grapheme>
+    <phoneme>hakeˈveʁ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Halacha</grapheme>
+    <phoneme>halaˈχa</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Halakha</grapheme>
+    <phoneme>halaˈχa</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>HaMakom</grapheme>
+    <phoneme>hamaˈkom</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>HaMashiach</grapheme>
+    <phoneme>hamaˈʃiaχ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Hamon goyim</grapheme>
+    <phoneme>hamon ˈgojim</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>HaNatzrati</grapheme>
+    <phoneme>hanat͡sˈʁati</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>HaNevua</grapheme>
+    <phoneme>haneˈvua</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>HaSatan</grapheme>
+    <phoneme>hasaˈtan</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Hashamayim</grapheme>
+    <phoneme>haʃamaˈjim</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Hashem</grapheme>
+    <phoneme>haˈʃem</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Hashem Elohim</grapheme>
+    <phoneme>haˈʃem eˈlohim</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Hashem tzilcha</grapheme>
+    <phoneme>haˈʃem t͡silkˈa</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Hashem-Tzva'ot</grapheme>
+    <phoneme>haˈʃem t͡svaˈot</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>HaTsadik</grapheme>
+    <phoneme>hatsaˈdik</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Hayah</grapheme>
+    <phoneme>haˈjah</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Hayom</grapheme>
+    <phoneme>haˈjom</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Hebron</grapheme>
+    <phoneme>heˈbʁon</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Hei</grapheme>
+    <phoneme>hei</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Hey</grapheme>
+    <phoneme>hei</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Her'ah oti Elohim</grapheme>
+    <phoneme>heʁaʔ oti eˈlohim</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Herani Hashem</grapheme>
+    <phoneme>heʁani haˈʃem</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Ivri</grapheme>
+    <phoneme>ˈivri</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Heth</grapheme>
+    <phoneme>ˈheth</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Hevel</grapheme>
+    <phoneme>ˈhevel</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Hinei</grapheme>
+    <phoneme>hiˈnei</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Hoshia-na</grapheme>
+    <phoneme>hoʃiˈa-na</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Idumea</grapheme>
+    <phoneme>iˈdumea</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Ish</grapheme>
+    <phoneme>iʃ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Ish Sadeh</grapheme>
+    <phoneme>iʃ saˈdeh</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Ish Tam</grapheme>
+    <phoneme>iʃ tam</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Issachar</grapheme>
+    <phoneme>iˈsachar</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Kadosh</grapheme>
+    <phoneme>kaˈdoʃ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Kaful</grapheme>
+    <phoneme>ˈkaful</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Kallah</grapheme>
+    <phoneme>kaˈlah</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Kavanah</grapheme>
+    <phoneme>kaˈvanah</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Kayin</grapheme>
+    <phoneme>ˈkayin</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Kayom</grapheme>
+    <phoneme>kaˈjom</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Kedar</grapheme>
+    <phoneme>ˈkedar</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Kedoshim</grapheme>
+    <phoneme>keˈdoʃim</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Kedusha</grapheme>
+    <phoneme>keˈduʃa</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Kehilah</grapheme>
+    <phoneme>keˈhila</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Kenan</grapheme>
+    <phoneme>ˈkenan</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Kephalé</grapheme>
+    <phoneme>kefaˈle</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Keruvim</grapheme>
+    <phoneme>keˈruvim</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Keturah</grapheme>
+    <phoneme>keˈtura</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Ketuvim</grapheme>
+    <phoneme>keˈtuvim</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Ketz</grapheme>
+    <phoneme>ketz</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Kaitz</grapheme>
+    <phoneme>ˈkaitz</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Ki ein mispar</grapheme>
+    <phoneme>ki ein misˈpaʁ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Kiddush</grapheme>
+    <phoneme>ˈkiddush</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Kiriat-Arba</grapheme>
+    <phoneme>kiʁiˈat ˈarba</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Ki-tsayid befiyv</grapheme>
+    <phoneme>ki tsaˈjid beˈfijv</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Kodesh</grapheme>
+    <phoneme>ˈkodesh</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Kohelet</grapheme>
+    <phoneme>koˈhelet</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Kotel</grapheme>
+    <phoneme>koˈtel</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Lahai-Roi</grapheme>
+    <phoneme>laˈhai ʁoi</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Lahamiyto</grapheme>
+    <phoneme>lahamˈijto</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Lashon</grapheme>
+    <phoneme>laˈʃon</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Lashon Hakodesh</grapheme>
+    <phoneme>laˈʃon hakoˈdeʃ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Lashon Hara</grapheme>
+    <phoneme>laˈʃon ˈhara</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Lashuach</grapheme>
+    <phoneme>laˈʃuaχ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Lavan</grapheme>
+    <phoneme>ˈlavan</phoneme>
+  </lexeme>
 </lexicon>
