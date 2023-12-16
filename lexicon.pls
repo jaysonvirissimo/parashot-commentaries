@@ -41,13 +41,14 @@
     <phoneme>taˈnaχ</phoneme>
   </lexeme>
   <lexeme>
-    <grapheme>Lech</grapheme>
+    <grapheme>lech</grapheme>
     <phoneme>ˈleχ</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>LECH-LECHA</grapheme>
     <grapheme>Lech-Lecha</grapheme>
     <grapheme>Lech Lecha</grapheme>
+    <grapheme>lech lecha</grapheme>
     <grapheme>'Lech Lecha</grapheme>
     <phoneme>ˈleχˈleχa</phoneme>
   </lexeme>
