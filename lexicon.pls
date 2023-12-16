@@ -42,10 +42,12 @@
   </lexeme>
   <lexeme>
     <grapheme>lech</grapheme>
+    <grapheme>Lech</grapheme>
     <phoneme>ˈleχ</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>lecha</grapheme>
+    <grapheme>Lecha</grapheme>
     <phoneme>ˈleχa</phoneme>
   </lexeme>
   <lexeme>
