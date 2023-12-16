@@ -47,5 +47,12 @@
       <description>Commentary on Torah portion "Toldot" (Genesis 25:19-28:9)</description>
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/toldot.mp3" length="50483955" type="audio/mp3"/>
     </item>
+    <item>
+      <title>Vayetze</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayetze.mp3</guid>
+      <pubDate>Fri, 24 Nov 2023 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Vayetze" (28:10-32:3)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayetze.mp3" length="49604568" type="audio/mp3"/>
+    </item>
   </channel>
 </rss>
