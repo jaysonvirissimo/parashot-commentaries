@@ -34,6 +34,13 @@
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/noach.mp3" length="45039200" type="audio/mp3"/>
     </item>
     <item>
+      <title>Lech-Lecha</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/lech-lecha.mp3</guid>
+      <pubDate>Fri, 27 Oct 2023 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Lech-Lecha" (Genesis 12:1-17:27)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/lech-lecha.mp3" length="57260745" type="audio/mp3"/>
+    </item>
+    <item>
       <title>Vayera</title>
       <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayera.mp3</guid>
       <pubDate>Fri, 03 Nov 2023 18:00:00 -0700</pubDate>
