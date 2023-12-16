@@ -49,7 +49,7 @@
     <grapheme>Lech-Lecha</grapheme>
     <grapheme>Lech Lecha</grapheme>
     <grapheme>'Lech Lecha</grapheme>
-    <phoneme>ˈleχ ˈleχa</phoneme>
+    <phoneme>ˈleχˈleχa</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>Avraham</grapheme>
