@@ -200,6 +200,7 @@
   <lexeme>
     <grapheme>CHAYEI</grapheme>
     <grapheme>Chayei</grapheme>
+    <grapheme>chayei</grapheme>
     <phoneme>χaˈjei</phoneme>
   </lexeme>
   <lexeme>
