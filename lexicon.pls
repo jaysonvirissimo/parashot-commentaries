@@ -45,6 +45,10 @@
     <phoneme>ˈleχ</phoneme>
   </lexeme>
   <lexeme>
+    <grapheme>lecha</grapheme>
+    <phoneme>ˈleχa</phoneme>
+  </lexeme>
+  <lexeme>
     <grapheme>LECH-LECHA</grapheme>
     <grapheme>Lech-Lecha</grapheme>
     <grapheme>Lech Lecha</grapheme>
