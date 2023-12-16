@@ -92,16 +92,8 @@
     <phoneme>ni.saˈjon</phoneme>
   </lexeme>
   <lexeme>
-    <grapheme>nes</grapheme>
-    <phoneme>nes</phoneme>
-  </lexeme>
-  <lexeme>
     <grapheme>Akeidat</grapheme>
     <phoneme>a.ˈkei.dat</phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>Levi</grapheme>
-    <phoneme>ˈlɛvi</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>Akeidah</grapheme>
@@ -130,18 +122,6 @@
   <lexeme>
     <grapheme>Kasdim</grapheme>
     <phoneme>ˈkas.dim</phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>Charan</grapheme>
-    <phoneme>χaˈran</phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>Lot</grapheme>
-    <phoneme>lot</phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>Haran</grapheme>
-    <phoneme>χaˈran</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>Mitzraim</grapheme>
@@ -191,10 +171,6 @@
   <lexeme>
     <grapheme>Kadosh</grapheme>
     <phoneme>kaˈdoʃ</phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>Abimelech</grapheme>
-    <phoneme>ˌabɪˈmelɛχ</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>chesed</grapheme>
@@ -681,10 +657,6 @@
     <phoneme>χaχaˈmim</phoneme>
   </lexeme>
   <lexeme>
-    <grapheme>Chesed</grapheme>
-    <phoneme>χeˈsed</phoneme>
-  </lexeme>
-  <lexeme>
     <grapheme>Chochma</grapheme>
     <phoneme>χoχˈma</phoneme>
   </lexeme>
@@ -705,15 +677,12 @@
     <phoneme>χaˈlom</phoneme>
   </lexeme>
   <lexeme>
-    <grapheme>Chamas</grapheme>
-    <phoneme>χaˈmas</phoneme>
-  </lexeme>
-  <lexeme>
     <grapheme>Chanoch</grapheme>
     <phoneme>χaˈnoχ</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>Charan</grapheme>
+    <grapheme>Haran</grapheme>
     <phoneme>χaˈʁan</phoneme>
   </lexeme>
   <lexeme>
@@ -763,10 +732,6 @@
   <lexeme>
     <grapheme>Eloah</grapheme>
     <phoneme>eˈloah</phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>Edom</grapheme>
-    <phoneme>ˈedom</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>'Edut</grapheme>
@@ -823,10 +788,6 @@
   <lexeme>
     <grapheme>Esav or Eisav</grapheme>
     <phoneme>ˈesav oʁ ˈeisav</phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>Etz</grapheme>
-    <phoneme>etz</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>Galil</grapheme>
@@ -941,14 +902,6 @@
     <phoneme>heˈbʁon</phoneme>
   </lexeme>
   <lexeme>
-    <grapheme>Hei</grapheme>
-    <phoneme>hei</phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>Hey</grapheme>
-    <phoneme>hei</phoneme>
-  </lexeme>
-  <lexeme>
     <grapheme>Her'ah oti Elohim</grapheme>
     <phoneme>heʁaʔ oti eˈlohim</phoneme>
   </lexeme>
@@ -981,20 +934,12 @@
     <phoneme>iˈdumea</phoneme>
   </lexeme>
   <lexeme>
-    <grapheme>Ish</grapheme>
-    <phoneme>iʃ</phoneme>
-  </lexeme>
-  <lexeme>
     <grapheme>Ish Sadeh</grapheme>
     <phoneme>iʃ saˈdeh</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>Ish Tam</grapheme>
     <phoneme>iʃ tam</phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>Issachar</grapheme>
-    <phoneme>iˈsachar</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>Kadosh</grapheme>
@@ -1057,10 +1002,6 @@
     <phoneme>keˈtuvim</phoneme>
   </lexeme>
   <lexeme>
-    <grapheme>Ketz</grapheme>
-    <phoneme>ketz</phoneme>
-  </lexeme>
-  <lexeme>
     <grapheme>Kaitz</grapheme>
     <phoneme>ˈkaitz</phoneme>
   </lexeme>
@@ -1079,10 +1020,6 @@
   <lexeme>
     <grapheme>Ki-tsayid befiyv</grapheme>
     <phoneme>ki tsaˈjid beˈfijv</phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>Kodesh</grapheme>
-    <phoneme>ˈkodesh</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>Kohelet</grapheme>
@@ -1121,10 +1058,6 @@
     <phoneme>ˈlavan</phoneme>
   </lexeme>
   <lexeme>
-    <grapheme>Lech Lecha</grapheme>
-    <phoneme>ˈleχ ˈleχa</phoneme>
-  </lexeme>
-  <lexeme>
     <grapheme>Lechem</grapheme>
     <phoneme>ˈleχem</phoneme>
   </lexeme>
@@ -1135,10 +1068,6 @@
   <lexeme>
     <grapheme>LeShalom</grapheme>
     <phoneme>leʃaˈlom</phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>Levi</grapheme>
-    <phoneme>ˈlevi</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>Lishmor</grapheme>
@@ -1205,10 +1134,6 @@
     <phoneme>matˈtatyahu</phoneme>
   </lexeme>
   <lexeme>
-    <grapheme>Matzah</grapheme>
-    <phoneme>ˈmatza</phoneme>
-  </lexeme>
-  <lexeme>
     <grapheme>Matzeva</grapheme>
     <phoneme>matˈzeva</phoneme>
   </lexeme>
@@ -1271,10 +1196,6 @@
   <lexeme>
     <grapheme>Mitzraim</grapheme>
     <phoneme>ˈmit͡sʁajim</phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>Molech</grapheme>
-    <phoneme>ˈmoleχ</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>Moreh</grapheme>
@@ -1381,20 +1302,12 @@
     <phoneme>niˈsayon</phoneme>
   </lexeme>
   <lexeme>
-    <grapheme>Noach</grapheme>
-    <phoneme>ˈnoaχ</phoneme>
-  </lexeme>
-  <lexeme>
     <grapheme>Noachide</grapheme>
     <phoneme>ˈnoʊəˌxaɪd</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>Nochal</grapheme>
     <phoneme>ˈnoχal</phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>Obadiah</grapheme>
-    <phoneme>obaˈdja</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>Ohel</grapheme>
@@ -1465,10 +1378,6 @@
     <phoneme>rabˈboni</phoneme>
   </lexeme>
   <lexeme>
-    <grapheme>Rachel</grapheme>
-    <phoneme>ˈraχel</phoneme>
-  </lexeme>
-  <lexeme>
     <grapheme>Rakot</grapheme>
     <phoneme>ˈrakot</phoneme>
   </lexeme>
@@ -1483,14 +1392,6 @@
   <lexeme>
     <grapheme>Poretz</grapheme>
     <phoneme>poˈretz</phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>Porneia</grapheme>
-    <phoneme>porˈneja</phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>Potiphar</grapheme>
-    <phoneme>poˈtifar</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>Potipherah</grapheme>
@@ -1573,10 +1474,6 @@
     <phoneme>ʃaˈbat</phoneme>
   </lexeme>
   <lexeme>
-    <grapheme>Shem</grapheme>
-    <phoneme>ʃem</phoneme>
-  </lexeme>
-  <lexeme>
     <grapheme>Shema Yisrael</grapheme>
     <phoneme>ʃeˈma jisʁaˈel</phoneme>
   </lexeme>
@@ -1637,24 +1534,12 @@
     <phoneme>ˈtalmid</phoneme>
   </lexeme>
   <lexeme>
-    <grapheme>Talmud</grapheme>
-    <phoneme>ˈtalmud</phoneme>
-  </lexeme>
-  <lexeme>
     <grapheme>Shomer</grapheme>
     <phoneme>ʃoˈmeʁ</phoneme>
   </lexeme>
   <lexeme>
-    <grapheme>Shunammite</grapheme>
-    <phoneme>ʃunaˈmit</phoneme>
-  </lexeme>
-  <lexeme>
     <grapheme>Siddur</grapheme>
     <phoneme>siˈduʁ</phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>Tam</grapheme>
-    <phoneme>tam</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>Tamar</grapheme>
@@ -1671,10 +1556,6 @@
   <lexeme>
     <grapheme>Tamim</grapheme>
     <phoneme>taˈmim</phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>Targum</grapheme>
-    <phoneme>ˈtaʁgum</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>Tefillah</grapheme>
@@ -1809,10 +1690,6 @@
     <phoneme>jeˈhoʃua</phoneme>
   </lexeme>
   <lexeme>
-    <grapheme>Yehuda</grapheme>
-    <phoneme>jeˈhuda</phoneme>
-  </lexeme>
-  <lexeme>
     <grapheme>Yereicho</grapheme>
     <phoneme>jeˈʁeiχo</phoneme>
   </lexeme>
@@ -1833,20 +1710,12 @@
     <phoneme>jeˈʃua</phoneme>
   </lexeme>
   <lexeme>
-    <grapheme>Yeshua bar Yosef</grapheme>
-    <phoneme>jeˈʃua baʁ joˈsef</phoneme>
-  </lexeme>
-  <lexeme>
     <grapheme>Yishmael</grapheme>
     <phoneme>jiʃˈmael</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>Yithro</grapheme>
     <phoneme>ˈjitʁo</phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>Yitschak</grapheme>
-    <phoneme>ˈjitʃak</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>Yochanan</grapheme>
@@ -1857,16 +1726,8 @@
     <phoneme>ˈjom ˈeχad</phoneme>
   </lexeme>
   <lexeme>
-    <grapheme>Yom Kippur</grapheme>
-    <phoneme>ˈjom kiˈpuʁ</phoneme>
-  </lexeme>
-  <lexeme>
     <grapheme>Yosef</grapheme>
     <phoneme>ˈjosef</phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>Yosef ben Yaakov</grapheme>
-    <phoneme>ˈjosef ben ˈjaʔakov</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>Yov</grapheme>
@@ -1879,10 +1740,6 @@
   <lexeme>
     <grapheme>Zarecha</grapheme>
     <phoneme>zaˈʁeχa</phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>Zealots</grapheme>
-    <phoneme>ˈzalots</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>Zebulun</grapheme>
@@ -1899,9 +1756,5 @@
   <lexeme>
     <grapheme>Zoar</grapheme>
     <phoneme>ˈzoaʁ</phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>Zona</grapheme>
-    <phoneme>ˈzona</phoneme>
   </lexeme>
 </lexicon>
