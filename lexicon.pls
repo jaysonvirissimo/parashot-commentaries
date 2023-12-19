@@ -1154,6 +1154,10 @@
     <phoneme>melχitˈsedek</phoneme>
   </lexeme>
   <lexeme>
+    <grapheme>Miketz</grapheme>
+    <phoneme>miˈket͡s</phoneme>
+  </lexeme>
+  <lexeme>
     <grapheme>Mikveh</grapheme>
     <phoneme>miˈkve</phoneme>
   </lexeme>
