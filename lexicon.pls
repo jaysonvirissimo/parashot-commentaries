@@ -24,10 +24,6 @@
     <phoneme>haˈko.deʃ</phoneme>
   </lexeme>
   <lexeme>
-    <grapheme>Hashem</grapheme>
-    <phoneme>haˈʃem</phoneme>
-  </lexeme>
-  <lexeme>
     <grapheme>Tamidim</grapheme>
     <phoneme>talˈmidim</phoneme>
   </lexeme>
@@ -348,10 +344,6 @@
     <phoneme>eɪˈsɑːv</phoneme>
   </lexeme>
   <lexeme>
-    <grapheme>Rivkah</grapheme>
-    <phoneme>ˈrɪvkə</phoneme>
-  </lexeme>
-  <lexeme>
     <grapheme>na'arah</grapheme>
     <phoneme>naʔaˈra</phoneme>
   </lexeme>
@@ -597,10 +589,6 @@
     <phoneme>beˈraχot</phoneme>
   </lexeme>
   <lexeme>
-    <grapheme>Bereishit</grapheme>
-    <phoneme>beˈʁeiʃit</phoneme>
-  </lexeme>
-  <lexeme>
     <grapheme>Bethuel</grapheme>
     <phoneme>beˈtʰuel</phoneme>
   </lexeme>
@@ -635,10 +623,6 @@
   <lexeme>
     <grapheme>Brith</grapheme>
     <phoneme>bʁit</phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>Chavah</grapheme>
-    <phoneme>χaˈva</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>Chaver</grapheme>
@@ -1422,10 +1406,6 @@
     <phoneme>ˈriʃon</phoneme>
   </lexeme>
   <lexeme>
-    <grapheme>Rivkah</grapheme>
-    <phoneme>ˈrivka</phoneme>
-  </lexeme>
-  <lexeme>
     <grapheme>Rosh Hashanah</grapheme>
     <phoneme>roʃ haˈʃana</phoneme>
   </lexeme>
@@ -1678,10 +1658,6 @@
     <phoneme>ˈviʃeʁent</phoneme>
   </lexeme>
   <lexeme>
-    <grapheme>Yaakov</grapheme>
-    <phoneme>ˈjaʔakov</phoneme>
-  </lexeme>
-  <lexeme>
     <grapheme>Yaakov Avinu</grapheme>
     <phoneme>ˈjaʔakov aviˈnu</phoneme>
   </lexeme>
@@ -1768,5 +1744,13 @@
   <lexeme>
     <grapheme>Zoar</grapheme>
     <phoneme>ˈzoaʁ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>chaf-y'rẽchô</grapheme>
+    <phoneme>χaf jəˈʁeχo</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>yōtṣ'ē y rēchô</grapheme>
+    <phoneme>jot͡se jəˈʁeχo</phoneme>
   </lexeme>
 </lexicon>
