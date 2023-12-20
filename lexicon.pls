@@ -633,10 +633,6 @@
     <phoneme>bʁiˈut</phoneme>
   </lexeme>
   <lexeme>
-    <grapheme>Chayei</grapheme>
-    <phoneme>χaˈjei</phoneme>
-  </lexeme>
-  <lexeme>
     <grapheme>b'shem Adonai</grapheme>
     <phoneme>bəˈʃem adoˈnai</phoneme>
   </lexeme>
