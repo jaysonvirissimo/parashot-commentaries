@@ -1606,6 +1606,7 @@
     <phoneme>tsiˈpoʁa</phoneme>
   </lexeme>
   <lexeme>
+    <grapheme>Tzafnat Pa'neach</grapheme>
     <grapheme>Tzafnat-Pa'neach</grapheme>
     <phoneme>tsafˈnat paˈneaχ</phoneme>
   </lexeme>
