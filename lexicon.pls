@@ -1753,4 +1753,9 @@
     <grapheme>yōtṣ'ē y rēchô</grapheme>
     <phoneme>jot͡se jəˈʁeχo</phoneme>
   </lexeme>
+  <lexeme>
+    <grapheme>Tachat Yereichi</grapheme>
+    <grapheme>tachat yereichi</grapheme>
+    <phoneme>taˈχat jɛˈʁeχi</phoneme>
+  </lexeme>
 </lexicon>
