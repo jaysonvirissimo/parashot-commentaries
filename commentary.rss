@@ -82,5 +82,12 @@
       <description>Commentary on Torah portion "Miketz" (41:1-44:17)</description>
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/miketz.m4a" length="24200119" type="audio/mp4"/>
     </item>
+    <item>
+      <title>Vayigash</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayigash.m4a</guid>
+      <pubDate>Fri, 22 Dec 2023 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Vayigash" (44:18-47:27)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayigash.m4a" length="20383538" type="audio/mp4"/>
+    </item>
   </channel>
 </rss>
