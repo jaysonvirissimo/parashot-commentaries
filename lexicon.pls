@@ -1755,4 +1755,9 @@
     <grapheme>tachat yereichi</grapheme>
     <phoneme>taˈχat jɛˈʁeχi</phoneme>
   </lexeme>
+  <lexeme>
+    <grapheme>'Alma</grapheme>
+    <grapheme>'almâ</grapheme>
+    <phoneme>ʕalˈma</phoneme>
+  </lexeme>
 </lexicon>
