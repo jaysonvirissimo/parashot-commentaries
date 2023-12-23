@@ -275,7 +275,8 @@
   </lexeme>
   <lexeme>
     <grapheme>chupah</grapheme>
-    <phoneme>xuˈpa</phoneme>
+    <grapheme>Chupah</grapheme>
+    <phoneme>χuˈpa</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>Noach</grapheme>
@@ -655,10 +656,6 @@
   <lexeme>
     <grapheme>Chumash</grapheme>
     <phoneme>χuˈmaʃ</phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>Chuppah</grapheme>
-    <phoneme>χuˈpa</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>Chalom</grapheme>
