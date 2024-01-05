@@ -65,43 +65,50 @@
       <title>Vayetze</title>
       <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayetze.mp3</guid>
       <pubDate>Fri, 24 Nov 2023 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Vayetze" (28:10-32:3)</description>
+      <description>Commentary on Torah portion "Vayetze" (Genesis 28:10-32:3)</description>
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayetze.mp3" length="49604568" type="audio/mp3"/>
     </item>
     <item>
       <title>Vayishlach</title>
       <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayishlach.m4a</guid>
       <pubDate>Fri, 01 Dec 2023 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Vayishlach" (32:4-36:43)</description>
+      <description>Commentary on Torah portion "Vayishlach" (Genesis 32:4-36:43)</description>
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayishlach.m4a" length="25110277" type="audio/mp4"/>
     </item>
     <item>
       <title>Vayeshev</title>
       <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayeshev.m4a</guid>
       <pubDate>Fri, 08 Dec 2023 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Vayeshev" (37:1-40:23)</description>
+      <description>Commentary on Torah portion "Vayeshev" (Genesis 37:1-40:23)</description>
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayeshev.m4a" length="31115075" type="audio/mp4"/>
     </item>
     <item>
       <title>Miketz</title>
       <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/miketz.m4a</guid>
       <pubDate>Fri, 15 Dec 2023 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Miketz" (41:1-44:17)</description>
+      <description>Commentary on Torah portion "Miketz" (Genesis 41:1-44:17)</description>
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/miketz.m4a" length="24281921 " type="audio/mp4"/>
     </item>
     <item>
       <title>Vayigash</title>
       <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayigash.m4a</guid>
       <pubDate>Fri, 22 Dec 2023 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Vayigash" (44:18-47:27)</description>
+      <description>Commentary on Torah portion "Vayigash" (Genesis 44:18-47:27)</description>
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayigash.m4a" length="20383538" type="audio/mp4"/>
     </item>
     <item>
       <title>Vayechi</title>
       <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayechi.m4a</guid>
       <pubDate>Fri, 29 Dec 2023 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Vayechi" (47:28-50:26)</description>
+      <description>Commentary on Torah portion "Vayechi" (Genesis 47:28-50:26)</description>
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayechi.m4a" length="20754636" type="audio/mp4"/>
+    </item>
+    <item>
+      <title>Shemot</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/shemot.m4a</guid>
+      <pubDate>Fri, 05 Jan 2023 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Shemot" (Exodus 1:1-6:1)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/shemot.m4a" length="30328862" type="audio/mp4"/>
     </item>
   </channel>
 </rss>
