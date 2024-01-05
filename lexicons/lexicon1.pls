@@ -17,6 +17,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      &apos;Etsah
+    </grapheme>
+    <phoneme>
+      ˈʔetsa
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       &apos;Lech Lecha
     </grapheme>
     <phoneme>
@@ -45,6 +53,14 @@
     </grapheme>
     <phoneme>
       ˈæbət
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Abib
+    </grapheme>
+    <phoneme>
+      ʔaˈbib
     </phoneme>
   </lexeme>
   <lexeme>
@@ -81,6 +97,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Aggadic
+    </grapheme>
+    <phoneme>
+      ʔaɡˈɡa.dik
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Akeidah
     </grapheme>
     <phoneme>
@@ -97,6 +121,70 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Akiva
+    </grapheme>
+    <phoneme>
+      ʔaˈki.va
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Aliyah
+    </grapheme>
+    <phoneme>
+      ʔaliˈja
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Aliyoth
+    </grapheme>
+    <phoneme>
+      ʔaliˈjot
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Am
+    </grapheme>
+    <phoneme>
+      ʕam
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Amen
+    </grapheme>
+    <phoneme>
+      ʔaˈmen
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Amidah
+    </grapheme>
+    <phoneme>
+      ʔaˈmida
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Amoraim
+    </grapheme>
+    <phoneme>
+      ʔamoʁaˈʔim
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Anathoth
+    </grapheme>
+    <phoneme>
+      ʔanaˈtot
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Ani
     </grapheme>
     <phoneme>
@@ -105,10 +193,34 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Ani Maamin
+    </grapheme>
+    <phoneme>
+      ʔani ma.aˈmin
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Anochi
     </grapheme>
     <phoneme>
-      anoˈχi
+      ʔanoˈχi
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Ariel
+    </grapheme>
+    <phoneme>
+      ariˈel
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Aron
+    </grapheme>
+    <phoneme>
+      ˈaron
     </phoneme>
   </lexeme>
   <lexeme>
@@ -137,6 +249,22 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Asherah
+    </grapheme>
+    <phoneme>
+      aʃeˈra
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Ashkenazim
+    </grapheme>
+    <phoneme>
+      aʃkenaˈzim
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Asoukh Shamen
     </grapheme>
     <phoneme>
@@ -145,10 +273,34 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Asseret Hadibrot
+    </grapheme>
+    <phoneme>
+      aˌsereˈt hadibˈrot
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Assyria
     </grapheme>
     <phoneme>
       əˈsɪrɪə
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Astarte
+    </grapheme>
+    <phoneme>
+      asˈtarte
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Ata Tsodek
+    </grapheme>
+    <phoneme>
+      ata tsoˈdek
     </phoneme>
   </lexeme>
   <lexeme>
@@ -177,6 +329,30 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Avihu
+    </grapheme>
+    <phoneme>
+      aviˈhu
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Avinu Malkeinu
+    </grapheme>
+    <phoneme>
+      aviˈnu malkeˈnu
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Avodah
+    </grapheme>
+    <phoneme>
+      ʔavoˈda
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Avodat Kodesh
     </grapheme>
     <phoneme>
@@ -189,6 +365,14 @@
     </grapheme>
     <phoneme>
       ʔaˈvot
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Avot DeRabbi Natan
+    </grapheme>
+    <phoneme>
+      ʔavot deʁabˈbi naˈtan
     </phoneme>
   </lexeme>
   <lexeme>
@@ -217,7 +401,31 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Az Yashir
+    </grapheme>
+    <phoneme>
+      ʔaz jaˈʃiʁ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Azazel
+    </grapheme>
+    <phoneme>
+      ʔazaˈzel
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       B&apos;rit Chadashah
+    </grapheme>
+    <phoneme>
+      bʁit χadaˈʃa
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      B&apos;rith Chadashah
     </grapheme>
     <phoneme>
       bʁit χadaˈʃa
@@ -249,6 +457,30 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Baal Koreh
+    </grapheme>
+    <phoneme>
+      baˈal koˈʁe
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Baal-Zephon
+    </grapheme>
+    <phoneme>
+      baˈal ˈtsefon
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Bakar
+    </grapheme>
+    <phoneme>
+      baˈkaʁ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Balsam
     </grapheme>
     <phoneme>
@@ -257,10 +489,34 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Bamidbar
+    </grapheme>
+    <phoneme>
+      bamiˈd͡baʁ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Banim
     </grapheme>
     <phoneme>
       baˈnim
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Bar Abbas
+    </grapheme>
+    <phoneme>
+      baʁ aˈbas
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Bar Mitsvah
+    </grapheme>
+    <phoneme>
+      baʁ mitsˈva
     </phoneme>
   </lexeme>
   <lexeme>
@@ -313,10 +569,34 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Batiyah
+    </grapheme>
+    <phoneme>
+      baˈtija
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Bavel
     </grapheme>
     <phoneme>
       baˈvel
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Bavli
+    </grapheme>
+    <phoneme>
+      ˈbavli
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Be-Emet
+    </grapheme>
+    <phoneme>
+      be eˈmet
     </phoneme>
   </lexeme>
   <lexeme>
@@ -353,6 +633,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Beit HaMikdash
+    </grapheme>
+    <phoneme>
+      beit haˈmikdaʃ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Beit Hamikdash
     </grapheme>
     <phoneme>
@@ -361,7 +649,7 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      Beit-El or Beth-El
+      Beit-El
     </grapheme>
     <phoneme>
       beit ˈʔel
@@ -369,7 +657,39 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Beit-Lechem Ephrathah
+    </grapheme>
+    <phoneme>
+      beit ˈleχem efˈʁata
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Ben Zikunim
+    </grapheme>
+    <phoneme>
+      ben ziˈkunim
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Ben adam lachavero
+    </grapheme>
+    <phoneme>
+      ben aˈdam laχaˈveʁo
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Ben adam lamakom
+    </grapheme>
+    <phoneme>
+      ben aˈdam lamaˈkom
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Ben zikunim
     </grapheme>
     <phoneme>
       ben ziˈkunim
@@ -441,10 +761,58 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Beshallach
+    </grapheme>
+    <phoneme>
+      beʃaˈlaχ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Besorah
     </grapheme>
     <phoneme>
-      beˈsoʁa
+      besoˈʁa
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Beth HaRishon
+    </grapheme>
+    <phoneme>
+      bet haʁiˈʃon
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Beth Mishpat
+    </grapheme>
+    <phoneme>
+      bet miʃˈpat
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Beth Sheni
+    </grapheme>
+    <phoneme>
+      bet ʃeˈni
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Beth-Av
+    </grapheme>
+    <phoneme>
+      bet ˈav
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Beth-El
+    </grapheme>
+    <phoneme>
+      beit ˈʔel
     </phoneme>
   </lexeme>
   <lexeme>
@@ -465,6 +833,30 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Betocho
+    </grapheme>
+    <phoneme>
+      beˈtoχo
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Betokham
+    </grapheme>
+    <phoneme>
+      beˈtoχam
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Bezalel
+    </grapheme>
+    <phoneme>
+      bezaˈlel
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Bikur Cholim
     </grapheme>
     <phoneme>
@@ -481,10 +873,34 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Bimah
+    </grapheme>
+    <phoneme>
+      ˈbima
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Binah
+    </grapheme>
+    <phoneme>
+      biˈna
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Bitachon
+    </grapheme>
+    <phoneme>
+      bitaˈχon
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Bnei
     </grapheme>
     <phoneme>
-      ˈbnei
+      bneɪ
     </phoneme>
   </lexeme>
   <lexeme>
@@ -529,10 +945,26 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Bul
+    </grapheme>
+    <phoneme>
+      bul
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       CHAYEI
     </grapheme>
     <phoneme>
       χaˈjei
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Chabad
+    </grapheme>
+    <phoneme>
+      χaˈbad
     </phoneme>
   </lexeme>
   <lexeme>
@@ -545,10 +977,26 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Chag
+    </grapheme>
+    <phoneme>
+      χaɡ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Chaim
     </grapheme>
     <phoneme>
-      χaˈjim
+      χaˈim
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Challah
+    </grapheme>
+    <phoneme>
+      χaˈla
     </phoneme>
   </lexeme>
   <lexeme>
@@ -577,6 +1025,22 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Chamesh
+    </grapheme>
+    <phoneme>
+      ˈχameʃ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Chametz
+    </grapheme>
+    <phoneme>
+      χaˈmets
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Chanoch
     </grapheme>
     <phoneme>
@@ -597,6 +1061,14 @@
     </grapheme>
     <phoneme>
       χaʁon ˈaf
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Chassidic
+    </grapheme>
+    <phoneme>
+      χasiˈdik
     </phoneme>
   </lexeme>
   <lexeme>
@@ -673,10 +1145,42 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Chesed
+    </grapheme>
+    <phoneme>
+      ˈχesed
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Cheshbon
+    </grapheme>
+    <phoneme>
+      ˈχeʃbon
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Cheshvan
+    </grapheme>
+    <phoneme>
+      ˈχeʃvan
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Chet
     </grapheme>
     <phoneme>
-      xɛt
+      χet
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Chevra Kadisha
+    </grapheme>
+    <phoneme>
+      ˈχevʁa kaˈdiʃa
     </phoneme>
   </lexeme>
   <lexeme>
@@ -689,10 +1193,42 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Cholent
+    </grapheme>
+    <phoneme>
+      ˈχolen(t)
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Chorev
+    </grapheme>
+    <phoneme>
+      ˈχoʁev
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Choshen
+    </grapheme>
+    <phoneme>
+      ˈχoʃen
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Choten
+    </grapheme>
+    <phoneme>
+      ˈχoten
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Chukim
     </grapheme>
     <phoneme>
-      χuˈkim
+      ˈχukim
     </phoneme>
   </lexeme>
   <lexeme>
@@ -700,7 +1236,7 @@
       Chumash
     </grapheme>
     <phoneme>
-      χuˈmaʃ
+      ˈχumaʃ
     </phoneme>
   </lexeme>
   <lexeme>
@@ -709,6 +1245,54 @@
     </grapheme>
     <phoneme>
       χuˈpa
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Cohanim
+    </grapheme>
+    <phoneme>
+      koʔaˈnim
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Cohen
+    </grapheme>
+    <phoneme>
+      ˈkoʔen
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Daat Zkenim
+    </grapheme>
+    <phoneme>
+      daˈʕat ˈzkenim
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Dafina
+    </grapheme>
+    <phoneme>
+      daˈfina
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Dayeinu
+    </grapheme>
+    <phoneme>
+      daˈyeinu
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Devarim
+    </grapheme>
+    <phoneme>
+      dəvaˈʁim
     </phoneme>
   </lexeme>
   <lexeme>
@@ -732,7 +1316,23 @@
       Echad
     </grapheme>
     <phoneme>
-      ˈeχad
+      eˈχad
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Eidut
+    </grapheme>
+    <phoneme>
+      eiˈdut
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Eigel Hazahav
+    </grapheme>
+    <phoneme>
+      ˈeɪgel haˈzahav
     </phoneme>
   </lexeme>
   <lexeme>
@@ -748,7 +1348,15 @@
       Eisav
     </grapheme>
     <phoneme>
-      ˈeisav
+      ˈesav oʁ ˈeisav
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Eish
+    </grapheme>
+    <phoneme>
+      eʃ
     </phoneme>
   </lexeme>
   <lexeme>
@@ -772,7 +1380,15 @@
       Elazar
     </grapheme>
     <phoneme>
-      elˈazar
+      elʔaˈzaʁ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Elecha
+    </grapheme>
+    <phoneme>
+      eleˈχa
     </phoneme>
   </lexeme>
   <lexeme>
@@ -780,7 +1396,7 @@
       Eleh
     </grapheme>
     <phoneme>
-      ˈeleh
+      ˈele
     </phoneme>
   </lexeme>
   <lexeme>
@@ -789,6 +1405,22 @@
     </grapheme>
     <phoneme>
       ˈeleh toˈlod
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Eliezer
+    </grapheme>
+    <phoneme>
+      eliˈʔezer
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Elim
+    </grapheme>
+    <phoneme>
+      ˈelim
     </phoneme>
   </lexeme>
   <lexeme>
@@ -820,7 +1452,15 @@
       Elohim
     </grapheme>
     <phoneme>
-      ɛloˈhim
+      eˈlohim
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Elul
+    </grapheme>
+    <phoneme>
+      eˈlul
     </phoneme>
   </lexeme>
   <lexeme>
@@ -829,6 +1469,14 @@
     </grapheme>
     <phoneme>
       eˈmet
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Enosh
+    </grapheme>
+    <phoneme>
+      ˈenoʃ
     </phoneme>
   </lexeme>
   <lexeme>
@@ -868,7 +1516,7 @@
       Eretz Yisrael
     </grapheme>
     <phoneme>
-      eˈretz jisʁaˈel
+      eˈrets jiˈsʁael
     </phoneme>
   </lexeme>
   <lexeme>
@@ -876,15 +1524,47 @@
       Esav
     </grapheme>
     <phoneme>
-      ˈesav
+      ˈesav oʁ ˈeisav
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      Esav or Eisav
+      Et Yaakov
     </grapheme>
     <phoneme>
-      ˈesav oʁ ˈeisav
+      et jaˈʔakov
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Ethanim
+    </grapheme>
+    <phoneme>
+      eˈtanɪm
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Ezekiel
+    </grapheme>
+    <phoneme>
+      jeˈχezˈkel
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Ezra
+    </grapheme>
+    <phoneme>
+      ˈezra
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Gabriel
+    </grapheme>
+    <phoneme>
+      ɡabʁiˈel
     </phoneme>
   </lexeme>
   <lexeme>
@@ -900,7 +1580,15 @@
       Galut
     </grapheme>
     <phoneme>
-      gaˈlut
+      ɡaˈlut
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Gamaliel
+    </grapheme>
+    <phoneme>
+      ɡamaliˈel
     </phoneme>
   </lexeme>
   <lexeme>
@@ -913,6 +1601,46 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Gat Sh&apos;manim
+    </grapheme>
+    <phoneme>
+      ɡat ʃmaˈnim
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Gehenna
+    </grapheme>
+    <phoneme>
+      ɡeˈhena
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Gemara
+    </grapheme>
+    <phoneme>
+      ɡeˈmaʁa
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Gematria
+    </grapheme>
+    <phoneme>
+      ɡemaˈtʁija
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Gemilut Chasadim
+    </grapheme>
+    <phoneme>
+      ɡemilut χasaˈdim
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Gerar
     </grapheme>
     <phoneme>
@@ -921,10 +1649,26 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Gevurah
+    </grapheme>
+    <phoneme>
+      ɡevuˈʁa
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Gideon
     </grapheme>
     <phoneme>
       giˈdeon
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Goel
+    </grapheme>
+    <phoneme>
+      ɡoˈel
     </phoneme>
   </lexeme>
   <lexeme>
@@ -941,6 +1685,14 @@
     </grapheme>
     <phoneme>
       haʔeˈguel
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      HaChodesh
+    </grapheme>
+    <phoneme>
+      haχoˈdeʃ
     </phoneme>
   </lexeme>
   <lexeme>
@@ -980,7 +1732,7 @@
       HaSatan
     </grapheme>
     <phoneme>
-      hasaˈtan
+      haˈsatan
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1001,10 +1753,34 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Habakkuk
+    </grapheme>
+    <phoneme>
+      χabaˈkuk
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Habanot
+    </grapheme>
+    <phoneme>
+      χabaˈnot
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Hadlakah
+    </grapheme>
+    <phoneme>
+      hadlaˈka
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Haftarah
     </grapheme>
     <phoneme>
-      haftaˈʁah
+      hafˈtaʁa
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1049,10 +1825,26 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Halachah
+    </grapheme>
+    <phoneme>
+      halaˈχa
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Halakha
     </grapheme>
     <phoneme>
       halaˈχa
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Hallel
+    </grapheme>
+    <phoneme>
+      haˈlel
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1065,6 +1857,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Hamatbil
+    </grapheme>
+    <phoneme>
+      hamatˈbil
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Hamon goyim
     </grapheme>
     <phoneme>
@@ -1073,10 +1873,26 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Hamotsi
+    </grapheme>
+    <phoneme>
+      hamoˈtsi
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Haran
     </grapheme>
     <phoneme>
       χaˈʁan
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Haredi
+    </grapheme>
+    <phoneme>
+      χaˈʁedi
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1105,6 +1921,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Hashem Tzva&apos;ot
+    </grapheme>
+    <phoneme>
+      haʃem tsvaˈʔot
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Hashem tzilcha
     </grapheme>
     <phoneme>
@@ -1117,6 +1941,22 @@
     </grapheme>
     <phoneme>
       haˈʃem t͡svaˈot
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Hasidic
+    </grapheme>
+    <phoneme>
+      χasiˈdik
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Hatsil
+    </grapheme>
+    <phoneme>
+      haˈtsil
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1209,6 +2049,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Im Yaakov
+    </grapheme>
+    <phoneme>
+      im jaˈʔakov/ ;
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Ish
     </grapheme>
     <phoneme>
@@ -1241,10 +2089,58 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Ishat
+    </grapheme>
+    <phoneme>
+      iˈʃat
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Itamar
+    </grapheme>
+    <phoneme>
+      itaˈmaʁ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Ivri
     </grapheme>
     <phoneme>
       ˈivri
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Iyar
+    </grapheme>
+    <phoneme>
+      iˈjaʁ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Izevel
+    </grapheme>
+    <phoneme>
+      izˈevel
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Jerushalmi
+    </grapheme>
+    <phoneme>
+      jeʁuˈʃalmi
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Kabbalah
+    </grapheme>
+    <phoneme>
+      kabbaˈla
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1265,6 +2161,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Kahal
+    </grapheme>
+    <phoneme>
+      kaˈhal
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Kaitz
     </grapheme>
     <phoneme>
@@ -1281,6 +2185,22 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Kapparah
+    </grapheme>
+    <phoneme>
+      kapaˈʁa
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Kapporet
+    </grapheme>
+    <phoneme>
+      kapoˈʁet
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Kasdim
     </grapheme>
     <phoneme>
@@ -1289,10 +2209,26 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Kashrut
+    </grapheme>
+    <phoneme>
+      kaʃˈrut
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Kavanah
     </grapheme>
     <phoneme>
       kaˈvanah
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Kavod
+    </grapheme>
+    <phoneme>
+      kaˈvod
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1324,7 +2260,7 @@
       Kedoshim
     </grapheme>
     <phoneme>
-      keˈdoʃim
+      kədoˈʃim
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1340,7 +2276,7 @@
       Kehilah
     </grapheme>
     <phoneme>
-      keˈhila
+      kehiˈla
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1361,10 +2297,34 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Keriat HaTorah
+    </grapheme>
+    <phoneme>
+      keʁiat haˈtoʁa
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Keruv
+    </grapheme>
+    <phoneme>
+      ˈkeʁuv
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Keruvim
     </grapheme>
     <phoneme>
       keˈruvim
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Kethoret
+    </grapheme>
+    <phoneme>
+      keˈtoʁet
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1393,6 +2353,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Ki-Tissa
+    </grapheme>
+    <phoneme>
+      ki tisˈsa
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Ki-tsayid befiyv
     </grapheme>
     <phoneme>
@@ -1409,6 +2377,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Kippur
+    </grapheme>
+    <phoneme>
+      ˈkipuʁ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Kiriat-Arba
     </grapheme>
     <phoneme>
@@ -1417,10 +2393,58 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Klal Yisrael
+    </grapheme>
+    <phoneme>
+      klal jiˈsʁael
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Kochavim
+    </grapheme>
+    <phoneme>
+      koˈχavim
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Kodesh
+    </grapheme>
+    <phoneme>
+      koˈdeʃ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Kohath
+    </grapheme>
+    <phoneme>
+      koˈhat
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Kohelet
     </grapheme>
     <phoneme>
       koˈhelet
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Kol
+    </grapheme>
+    <phoneme>
+      kol
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Korban Tsavor
+    </grapheme>
+    <phoneme>
+      koʁban tsaˈvoʁ
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1453,6 +2477,14 @@
     </grapheme>
     <phoneme>
       lahamˈijto
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Lapid
+    </grapheme>
+    <phoneme>
+      ˈlapid
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1493,6 +2525,14 @@
     </grapheme>
     <phoneme>
       ˈlavan
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Le-YHWH
+    </grapheme>
+    <phoneme>
+      le jhvh
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1545,10 +2585,42 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Ledoroth miyad
+    </grapheme>
+    <phoneme>
+      leˈdoʁot miˈjad
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Lekavod
+    </grapheme>
+    <phoneme>
+      lekaˈvod
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Lekhahano-li
+    </grapheme>
+    <phoneme>
+      leχahanoˈli
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Lemor
     </grapheme>
     <phoneme>
       leˈmor
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Levi&apos;im
+    </grapheme>
+    <phoneme>
+      leviˈim
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1569,6 +2641,22 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Lubavitch
+    </grapheme>
+    <phoneme>
+      lubaˈvitʃ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Lulav
+    </grapheme>
+    <phoneme>
+      luˈlav
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       M&apos;gurim
     </grapheme>
     <phoneme>
@@ -1581,6 +2669,14 @@
     </grapheme>
     <phoneme>
       maχˈpɛ.la
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Ma&apos;ariv
+    </grapheme>
+    <phoneme>
+      maʔaˈʁiv
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1612,7 +2708,7 @@
       Maariv
     </grapheme>
     <phoneme>
-      maʔaˈriv
+      maʔaˈʁiv
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1633,6 +2729,22 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Madyan
+    </grapheme>
+    <phoneme>
+      maˈdjan
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Magdala
+    </grapheme>
+    <phoneme>
+      magˈdala
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Mahalalel
     </grapheme>
     <phoneme>
@@ -1644,7 +2756,23 @@
       Mal&apos;ach
     </grapheme>
     <phoneme>
-      malˈaχ
+      maˈlaχ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Malach
+    </grapheme>
+    <phoneme>
+      maˈlaχ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Malachi
+    </grapheme>
+    <phoneme>
+      malaˈχi
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1657,10 +2785,50 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Malchut Hashem
+    </grapheme>
+    <phoneme>
+      malˈχut haʃem
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Mamre&apos;s
     </grapheme>
     <phoneme>
       ˈmam.rɛs
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Mann hu
+    </grapheme>
+    <phoneme>
+      man hu
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Marah
+    </grapheme>
+    <phoneme>
+      maˈʁa
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Maror
+    </grapheme>
+    <phoneme>
+      maˈʁoʁ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Masah
+    </grapheme>
+    <phoneme>
+      maˈsa
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1677,6 +2845,22 @@
     </grapheme>
     <phoneme>
       maˈʃiaχ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Mashiach ben David
+    </grapheme>
+    <phoneme>
+      maˈʃiaχ ben daˈvid
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Mashiach ben Yosef
+    </grapheme>
+    <phoneme>
+      maˈʃiaχ ben joˈsef
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1701,6 +2885,38 @@
     </grapheme>
     <phoneme>
       maˈsoʁet
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Mass Hachnassa
+    </grapheme>
+    <phoneme>
+      mas xaχˈnasa
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Matsil
+    </grapheme>
+    <phoneme>
+      maˈtsil
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Mattatyahu
+    </grapheme>
+    <phoneme>
+      matˈtatyahu
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Mattityahu
+    </grapheme>
+    <phoneme>
+      matitˈjahu
     </phoneme>
   </lexeme>
 </lexicon>
