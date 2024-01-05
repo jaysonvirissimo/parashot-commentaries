@@ -30,13 +30,10 @@ end
 file_path = File.join(File.dirname(__FILE__), '..', 'pronunciation-guide.json')
 pronunciation_guide = JSON.parse(File.read(file_path))
 
-# Splitting the words into two groups
-half_size = pronunciation_guide.size / 2
-first_half, second_half = pronunciation_guide.each_slice(half_size).to_a
-
-# Creating two PLS files
+# Split the words across multiple PLS files
 lexicons_dir = File.join(File.dirname(__FILE__), '..', 'lexicons')
-Dir.mkdir(lexicons_dir) unless Dir.exist?(lexicons_dir)
-
-create_pls_file(File.join(lexicons_dir, 'lexicon1.pls'), first_half.to_h)
-create_pls_file(File.join(lexicons_dir, 'lexicon2.pls'), second_half.to_h)
+number = 3
+fraction = pronunciation_guide.size / number
+pronunciation_guide.each_slice(fraction).to_a.each_with_index do |array, index|
+  create_pls_file(File.join(lexicons_dir, "lexicon-#{index + 1}.pls"), array.to_h)
+end
