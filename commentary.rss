@@ -110,5 +110,12 @@
       <description>Commentary on Torah portion "Shemot" (Exodus 1:1-6:1)</description>
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/shemot.m4a" length="30302412" type="audio/mp4"/>
     </item>
+    <item>
+      <title>Vaera</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vaera.m4a</guid>
+      <pubDate>Fri, 12 Jan 2024 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Vaera" (Exodus 6:2-9:35)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vaera.m4a" length="24079345" type="audio/mp4"/>
+    </item>
   </channel>
 </rss>
