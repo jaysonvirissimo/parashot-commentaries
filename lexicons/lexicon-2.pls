@@ -1,6 +1,14 @@
 <lexicon version='1.0' xmlns='http://www.w3.org/2005/01/pronunciation-lexicon' alphabet='ipa' xml:lang='en-US'>
   <lexeme>
     <grapheme>
+      Hashem-Tzva&apos;ot
+    </grapheme>
+    <phoneme>
+      haˈʃem t͡svaˈot
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Hasidic
     </grapheme>
     <phoneme>
@@ -1933,14 +1941,6 @@
     </grapheme>
     <phoneme>
       ʁabˈbenu
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      Rabboni
-    </grapheme>
-    <phoneme>
-      rabˈboni
     </phoneme>
   </lexeme>
 </lexicon>
