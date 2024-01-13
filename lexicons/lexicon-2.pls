@@ -1937,10 +1937,10 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      Rabbi
+      Rabboni
     </grapheme>
     <phoneme>
-      ˈʁabi
+      rabˈboni
     </phoneme>
   </lexeme>
 </lexicon>
