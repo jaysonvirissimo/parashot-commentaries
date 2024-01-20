@@ -117,5 +117,12 @@
       <description>Commentary on Torah portion "Vaera" (Exodus 6:2-9:35)</description>
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vaera.m4a" length="24079345" type="audio/mp4"/>
     </item>
+    <item>
+      <title>Bo</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vaera.m4a</guid>
+      <pubDate>Fri, 19 Jan 2024 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Bo" (Exodus 10:1-13:16)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/bo.m4a" length="28602843 " type="audio/mp4"/>
+    </item>
   </channel>
 </rss>
