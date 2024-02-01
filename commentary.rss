@@ -131,5 +131,12 @@
       <description>Commentary on Torah portion "Beshalach" (Exodus 13:17-17:16)</description>
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/beshalach.m4a" length="25737609" type="audio/mp4"/>
     </item>
+    <item>
+      <title>Yitro</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/yitro.m4a</guid>
+      <pubDate>Fri, 02 Feb 2024 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Yitro" (Exodus 18:1-20:23)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/yitro.m4a" length="35113437" type="audio/mp4"/>
+    </item>
   </channel>
 </rss>
