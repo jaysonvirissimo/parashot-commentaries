@@ -1943,4 +1943,12 @@
       ʁabˈbenu
     </phoneme>
   </lexeme>
+  <lexeme>
+    <grapheme>
+      Rabboni
+    </grapheme>
+    <phoneme>
+      rabˈboni
+    </phoneme>
+  </lexeme>
 </lexicon>

@@ -1001,6 +1001,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Challot
+    </grapheme>
+    <phoneme>
+      ˈxalot
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Chalom
     </grapheme>
     <phoneme>

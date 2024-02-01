@@ -1,14 +1,6 @@
 <lexicon version='1.0' xmlns='http://www.w3.org/2005/01/pronunciation-lexicon' alphabet='ipa' xml:lang='en-US'>
   <lexeme>
     <grapheme>
-      Rabboni
-    </grapheme>
-    <phoneme>
-      rabˈboni
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       Rakot
     </grapheme>
     <phoneme>
@@ -1457,6 +1449,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Yitro
+    </grapheme>
+    <phoneme>
+      jiˈtʁo
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Yitschak
     </grapheme>
     <phoneme>
@@ -1941,6 +1941,14 @@
     </grapheme>
     <phoneme>
       jaˈdaχ tsaˈid
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      yashan
+    </grapheme>
+    <phoneme>
+      jaˈʃan
     </phoneme>
   </lexeme>
 </lexicon>
