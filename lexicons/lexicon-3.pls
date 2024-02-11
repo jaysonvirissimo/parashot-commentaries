@@ -1729,6 +1729,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      chukim
+    </grapheme>
+    <phoneme>
+      ˈχukim
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       chamas
     </grapheme>
     <phoneme>
@@ -1865,6 +1873,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      mishpatim
+    </grapheme>
+    <phoneme>
+      mɪʃˈpɑːtiːm
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       na&apos;arah
     </grapheme>
     <phoneme>
@@ -1949,22 +1965,6 @@
     </grapheme>
     <phoneme>
       jaˈdaχ tsaˈid
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      yashan
-    </grapheme>
-    <phoneme>
-      jaˈʃan
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      yōtṣ&apos;ē y rēchô
-    </grapheme>
-    <phoneme>
-      jot͡se jəˈʁeχo
     </phoneme>
   </lexeme>
 </lexicon>
