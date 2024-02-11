@@ -1,6 +1,14 @@
 <lexicon version='1.0' xmlns='http://www.w3.org/2005/01/pronunciation-lexicon' alphabet='ipa' xml:lang='en-US'>
   <lexeme>
     <grapheme>
+      Adar
+    </grapheme>
+    <phoneme>
+      ˈɑːdɑːr
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       &apos;Alma
     </grapheme>
     <phoneme>
@@ -1237,6 +1245,14 @@
     </grapheme>
     <phoneme>
       ˈχukim
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Chukotay
+    </grapheme>
+    <phoneme>
+      xuːˈkoʊtaɪ
     </phoneme>
   </lexeme>
   <lexeme>

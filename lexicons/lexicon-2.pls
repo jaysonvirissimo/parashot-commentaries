@@ -1225,6 +1225,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Mishpatim
+    </grapheme>
+    <phoneme>
+      mɪʃˈpɑːtiːm
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Mishtéh
     </grapheme>
     <phoneme>
@@ -1253,6 +1261,14 @@
     </grapheme>
     <phoneme>
       mitsˈva
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Mitsvoth
+    </grapheme>
+    <phoneme>
+      ˈmɪtsvɔθ
     </phoneme>
   </lexeme>
   <lexeme>
