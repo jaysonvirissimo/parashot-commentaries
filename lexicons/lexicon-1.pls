@@ -1967,4 +1967,12 @@
       haˈʃem t͡silkˈa
     </phoneme>
   </lexeme>
+  <lexeme>
+    <grapheme>
+      Hashem-Tzva&apos;ot
+    </grapheme>
+    <phoneme>
+      haˈʃem t͡svaˈot
+    </phoneme>
+  </lexeme>
 </lexicon>

@@ -1,14 +1,6 @@
 <lexicon version='1.0' xmlns='http://www.w3.org/2005/01/pronunciation-lexicon' alphabet='ipa' xml:lang='en-US'>
   <lexeme>
     <grapheme>
-      Rakot
-    </grapheme>
-    <phoneme>
-      ˈrakot
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       Rebbe/Rav
     </grapheme>
     <phoneme>
@@ -745,7 +737,7 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      Tamidim
+      Talmidim
     </grapheme>
     <phoneme>
       talˈmidim
@@ -845,6 +837,14 @@
     </grapheme>
     <phoneme>
       teʁuˈma
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Terumati
+    </grapheme>
+    <phoneme>
+      tɛruˈmati
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1965,6 +1965,14 @@
     </grapheme>
     <phoneme>
       jaˈdaχ tsaˈid
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      yashan
+    </grapheme>
+    <phoneme>
+      jaˈʃan
     </phoneme>
   </lexeme>
 </lexicon>
