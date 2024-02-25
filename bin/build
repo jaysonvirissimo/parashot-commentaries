@@ -26,7 +26,10 @@ def create_pls_file(file_path, words)
     doc.root.add_element(lexeme)
   end
 
-  File.open(file_path, 'w') { |file| doc.write(file, 2) }
+  File.open(file_path, 'w') do |file|
+    doc.write(file, 2)
+    file.write("\n")
+  end
 end
 
 file_path = File.join(File.dirname(__FILE__), '..', 'pronunciation-guide.json')
