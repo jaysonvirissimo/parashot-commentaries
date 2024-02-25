@@ -1513,6 +1513,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Ephod
+    </grapheme>
+    <phoneme>
+      ˈiːfɒd
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Ephraim
     </grapheme>
     <phoneme>
@@ -1973,6 +1981,14 @@
     </grapheme>
     <phoneme>
       haˈʃem t͡svaˈot
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Hasidic
+    </grapheme>
+    <phoneme>
+      χasiˈdik
     </phoneme>
   </lexeme>
 </lexicon>

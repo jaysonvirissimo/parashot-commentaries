@@ -1,14 +1,6 @@
 <lexicon version='1.0' xmlns='http://www.w3.org/2005/01/pronunciation-lexicon' alphabet='ipa' xml:lang='en-US'>
   <lexeme>
     <grapheme>
-      Hasidic
-    </grapheme>
-    <phoneme>
-      χasiˈdik
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       Hatsil
     </grapheme>
     <phoneme>
@@ -469,6 +461,14 @@
     </grapheme>
     <phoneme>
       koˈdeʃ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Kodesh Hakodashim
+    </grapheme>
+    <phoneme>
+      koˈdɛʃ haˈkoˌdaʃim
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1013,6 +1013,14 @@
     </grapheme>
     <phoneme>
       meχiˈla
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      mekheyniy naa misifrecha asher katavta
+    </grapheme>
+    <phoneme>
+      mɛ.χeɪ.ˈni na ˈmi.sif.ʁɛ.xa aˈʃɛʁ ka.ˈtaf.ta
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1941,6 +1949,14 @@
     </grapheme>
     <phoneme>
       pʃat
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      P&apos;shaim
+    </grapheme>
+    <phoneme>
+      pəˈʃaɪm
     </phoneme>
   </lexeme>
   <lexeme>

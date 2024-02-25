@@ -777,6 +777,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Tanchuma Teruma
+    </grapheme>
+    <phoneme>
+      tænˈxumɑ tɛˈrumɑ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Targum
     </grapheme>
     <phoneme>
@@ -1973,6 +1981,14 @@
     </grapheme>
     <phoneme>
       jaˈʃan
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      yōtṣ&apos;ē y rēchô
+    </grapheme>
+    <phoneme>
+      jot͡se jəˈʁeχo
     </phoneme>
   </lexeme>
 </lexicon>
