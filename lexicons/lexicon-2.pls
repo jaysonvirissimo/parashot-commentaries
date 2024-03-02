@@ -412,7 +412,7 @@
       Ki-Tissa
     </grapheme>
     <phoneme>
-      ki tisˈsa
+      ki tɪˈsɑ
     </phoneme>
   </lexeme>
   <lexeme>
