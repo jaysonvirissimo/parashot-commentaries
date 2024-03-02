@@ -1,6 +1,14 @@
 <lexicon version='1.0' xmlns='http://www.w3.org/2005/01/pronunciation-lexicon' alphabet='ipa' xml:lang='en-US'>
   <lexeme>
     <grapheme>
+      Hasidic
+    </grapheme>
+    <phoneme>
+      χasiˈdik
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Hatsil
     </grapheme>
     <phoneme>
@@ -1481,6 +1489,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Nashach
+    </grapheme>
+    <phoneme>
+      naˈʃax
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Nasi
     </grapheme>
     <phoneme>
@@ -1981,14 +1997,6 @@
     </grapheme>
     <phoneme>
       rabˈboni
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      Rakot
-    </grapheme>
-    <phoneme>
-      ˈrakot
     </phoneme>
   </lexeme>
 </lexicon>

@@ -1289,6 +1289,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Da&apos;at
+    </grapheme>
+    <phoneme>
+      daˈʔat
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Daat Zkenim
     </grapheme>
     <phoneme>
@@ -1681,6 +1689,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Gerah
+    </grapheme>
+    <phoneme>
+      ˈɡeʁa
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Gerar
     </grapheme>
     <phoneme>
@@ -1981,14 +1997,6 @@
     </grapheme>
     <phoneme>
       haˈʃem t͡svaˈot
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      Hasidic
-    </grapheme>
-    <phoneme>
-      χasiˈdik
     </phoneme>
   </lexeme>
 </lexicon>
