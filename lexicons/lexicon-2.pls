@@ -17,6 +17,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Havdalah
+    </grapheme>
+    <phoneme>
+      hav.daˈla
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Hayah
     </grapheme>
     <phoneme>
@@ -1989,14 +1997,6 @@
     </grapheme>
     <phoneme>
       ʁabˈbenu
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      Rabboni
-    </grapheme>
-    <phoneme>
-      rabˈboni
     </phoneme>
   </lexeme>
 </lexicon>
