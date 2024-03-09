@@ -166,5 +166,12 @@
       <description>Commentary on Torah portion "Ki Tisa" (Exodus 30:11-34:35)</description>
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/ki-tisa.m4a" length="31848199" type="audio/mp4"/>
     </item>
+    <item>
+      <title>Vayak'hel</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayakhel.m4a</guid>
+      <pubDate>Fri, 08 Mar 2024 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Vayak'hel" (Exodus 35:1-38:20)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayakhel.m4a" length="39203841" type="audio/mp4"/>
+    </item>
   </channel>
 </rss>
