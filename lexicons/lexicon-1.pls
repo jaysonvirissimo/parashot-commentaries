@@ -289,6 +289,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Assu Otah
+    </grapheme>
+    <phoneme>
+      aˈsu oˈta
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Assyria
     </grapheme>
     <phoneme>
@@ -1209,6 +1217,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Chodesh
+    </grapheme>
+    <phoneme>
+      ˈχodɛʃ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Cholent
     </grapheme>
     <phoneme>
@@ -1753,10 +1769,26 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      HaCohanim
+    </grapheme>
+    <phoneme>
+      haˈkoːanim
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       HaMakom
     </grapheme>
     <phoneme>
       hamaˈkom
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      HaMishkan
+    </grapheme>
+    <phoneme>
+      haˈmiʃkan
     </phoneme>
   </lexeme>
   <lexeme>

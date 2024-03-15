@@ -201,6 +201,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Ka&apos;asher tsiva
+    </grapheme>
+    <phoneme>
+      kaʔaˈʃɛr ˈtsiva
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Kabbalah
     </grapheme>
     <phoneme>
@@ -1449,6 +1457,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Nachmanides
+    </grapheme>
+    <phoneme>
+      ˌnaxmaˈnides
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Nachem
     </grapheme>
     <phoneme>
@@ -1793,6 +1809,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Pakad
+    </grapheme>
+    <phoneme>
+      paˈkad
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Panecha
     </grapheme>
     <phoneme>
@@ -1909,6 +1933,14 @@
     </grapheme>
     <phoneme>
       piel
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Pikud
+    </grapheme>
+    <phoneme>
+      piˈkud
     </phoneme>
   </lexeme>
   <lexeme>

@@ -793,6 +793,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Tanchuma
+    </grapheme>
+    <phoneme>
+      tanˈχuma
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Tanchuma Teruma
     </grapheme>
     <phoneme>
@@ -1385,6 +1393,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Yesharim
+    </grapheme>
+    <phoneme>
+      jeʃaˈʁim
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Yeshayahu
     </grapheme>
     <phoneme>
@@ -1685,6 +1701,22 @@
     </grapheme>
     <phoneme>
       ˈzoaʁ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Ahisamach
+    </grapheme>
+    <phoneme>
+      aχisaˈmax
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Ahl pi remez
+    </grapheme>
+    <phoneme>
+      al pi ˈʁemɛz
     </phoneme>
   </lexeme>
   <lexeme>
