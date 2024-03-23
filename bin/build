@@ -37,8 +37,9 @@ pronunciation_guide = JSON.parse(File.read(file_path))
 
 # Split the words across multiple PLS files
 lexicons_dir = File.join(File.dirname(__FILE__), '..', 'lexicons')
-number = 3
-fraction = pronunciation_guide.size / number
+size = pronunciation_guide.size
+number = size / 256
+fraction = size / number
 pronunciation_guide.each_slice(fraction).to_a.each_with_index do |array, index|
   create_pls_file(File.join(lexicons_dir, "lexicon-#{index + 1}.pls"), array.to_h)
 end
