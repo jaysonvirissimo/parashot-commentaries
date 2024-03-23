@@ -1,0 +1,15 @@
+#!/usr/bin/env ruby
+
+require 'json'
+
+def sort_pronunciation_guide(file_path)
+  pronunciation_guide = JSON.parse(File.read(file_path))
+  sorted_guide = pronunciation_guide.sort.to_h
+  File.open(file_path, 'w') do |file|
+    file.write(JSON.pretty_generate(sorted_guide))
+    file.write("\n")
+  end
+end
+
+file_path = File.join(File.dirname(__FILE__), '..', 'pronunciation-guide.json')
+sort_pronunciation_guide(file_path)
