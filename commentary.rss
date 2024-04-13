@@ -187,5 +187,12 @@
       <description>Commentary on Torah portion "Vayikra" (Leveticus 1:1-5:26)</description>
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayikra.m4a" length="33732580" type="audio/mp4"/>
     </item>
+    <item>
+      <title>Tzav</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/tzav.m4a</guid>
+      <pubDate>Fri, 29 Mar 2024 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Tzav" (Leveticus 6:1-8:36)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/tzav.m4a" length="40814832" type="audio/mp4"/>
+    </item>
   </channel>
 </rss>
