@@ -1,6 +1,14 @@
 <lexicon version='1.0' xmlns='http://www.w3.org/2005/01/pronunciation-lexicon' alphabet='ipa' xml:lang='en-US'>
   <lexeme>
     <grapheme>
+      Shim&apos;on
+    </grapheme>
+    <phoneme>
+      ʃiˈmon
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Shim&apos;on Hakanay
     </grapheme>
     <phoneme>
@@ -1129,6 +1137,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Ve&apos;eish hamizbei&apos;ach tukad bo
+    </grapheme>
+    <phoneme>
+      ve&apos;eʃ ham·miz·be·aħ tu·kad bo
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       VeAvraham Zaken Ba&apos; Bayamim
     </grapheme>
     <phoneme>
@@ -1141,14 +1157,6 @@
     </grapheme>
     <phoneme>
       veχejn taˈʔasu
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      Vegetarian
-    </grapheme>
-    <phoneme>
-      ˌvɛdʒɪˈtɛəriən
     </phoneme>
   </lexeme>
   <lexeme>

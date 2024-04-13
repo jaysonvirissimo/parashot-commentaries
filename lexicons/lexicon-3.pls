@@ -1529,6 +1529,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Rishonah
+    </grapheme>
+    <phoneme>
+      riʃoˈnɑ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Rivkah
     </grapheme>
     <phoneme>
@@ -1993,6 +2001,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Shelamim
+    </grapheme>
+    <phoneme>
+      ʃɛlɑːˈmiːm
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Shelash
     </grapheme>
     <phoneme>
@@ -2101,14 +2117,6 @@
     </grapheme>
     <phoneme>
       ʃiːˈloʊ
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      Shim&apos;on
-    </grapheme>
-    <phoneme>
-      ʃiˈmon
     </phoneme>
   </lexeme>
 </lexicon>

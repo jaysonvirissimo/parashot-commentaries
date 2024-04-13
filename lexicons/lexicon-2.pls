@@ -425,6 +425,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Ha&apos;olah
+    </grapheme>
+    <phoneme>
+      hɑʕoˈlɑ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       HaChag
     </grapheme>
     <phoneme>
@@ -1473,18 +1481,18 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      Kodesh Hakodashim
+      Kodesh Hakedoshim
     </grapheme>
     <phoneme>
-      koˈdɛʃ haˈkoˌdaʃim
+      koˈdeʃ hakedoˈʃim
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      Kodesh Hakodoshim
+      Kodesh Hakodashim
     </grapheme>
     <phoneme>
-      koˈdeʃ hakodoˈʃim
+      koˈdɛʃ haˈkoˌdaʃim
     </phoneme>
   </lexeme>
   <lexeme>

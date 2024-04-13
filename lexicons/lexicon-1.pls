@@ -9,6 +9,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      &apos;Arvit
+    </grapheme>
+    <phoneme>
+      ʕɑrviːt
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       &apos;Edut
     </grapheme>
     <phoneme>
