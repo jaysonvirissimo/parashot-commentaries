@@ -1,6 +1,14 @@
 <lexicon version='1.0' xmlns='http://www.w3.org/2005/01/pronunciation-lexicon' alphabet='ipa' xml:lang='en-US'>
   <lexeme>
     <grapheme>
+      Mashiach-Peretz
+    </grapheme>
+    <phoneme>
+      maˈʃiaχ peˈretz
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Masorah
     </grapheme>
     <phoneme>
@@ -1037,6 +1045,14 @@
     </grapheme>
     <phoneme>
       ˈoʊnɛn
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Onenim
+    </grapheme>
+    <phoneme>
+      ʕoʊnɛˈnim
     </phoneme>
   </lexeme>
   <lexeme>

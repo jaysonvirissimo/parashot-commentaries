@@ -2119,4 +2119,12 @@
       ve.haˈju
     </phoneme>
   </lexeme>
+  <lexeme>
+    <grapheme>
+      yadah tsa&apos;id
+    </grapheme>
+    <phoneme>
+      jaˈdaχ tsaˈid
+    </phoneme>
+  </lexeme>
 </lexicon>
