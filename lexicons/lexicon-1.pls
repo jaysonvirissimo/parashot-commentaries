@@ -9,6 +9,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      &apos;Arvit
+    </grapheme>
+    <phoneme>
+      ʕɑrviːt
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       &apos;Edut
     </grapheme>
     <phoneme>
@@ -1441,6 +1449,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Brit Milah
+    </grapheme>
+    <phoneme>
+      bᵊrit miˈlɑ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Brith
     </grapheme>
     <phoneme>
@@ -1725,6 +1741,14 @@
     </grapheme>
     <phoneme>
       xɑˈzɑl
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Chazel
+    </grapheme>
+    <phoneme>
+      χɑˈzɛl
     </phoneme>
   </lexeme>
   <lexeme>
@@ -2101,14 +2125,6 @@
     </grapheme>
     <phoneme>
       eleˈχa
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      Eleh
-    </grapheme>
-    <phoneme>
-      ˈele
     </phoneme>
   </lexeme>
 </lexicon>

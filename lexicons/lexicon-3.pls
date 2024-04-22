@@ -1,6 +1,14 @@
 <lexicon version='1.0' xmlns='http://www.w3.org/2005/01/pronunciation-lexicon' alphabet='ipa' xml:lang='en-US'>
   <lexeme>
     <grapheme>
+      Mashiach-Peretz
+    </grapheme>
+    <phoneme>
+      maˈʃiaχ peˈretz
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Masorah
     </grapheme>
     <phoneme>
@@ -1041,6 +1049,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Onenim
+    </grapheme>
+    <phoneme>
+      ʕoʊnɛˈnim
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Otam
     </grapheme>
     <phoneme>
@@ -1525,6 +1541,14 @@
     </grapheme>
     <phoneme>
       ˈriʃon
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Rishonah
+    </grapheme>
+    <phoneme>
+      riʃoˈnɑ
     </phoneme>
   </lexeme>
   <lexeme>
@@ -2101,14 +2125,6 @@
     </grapheme>
     <phoneme>
       ʃiːˈloʊ
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      Shim&apos;on
-    </grapheme>
-    <phoneme>
-      ʃiˈmon
     </phoneme>
   </lexeme>
 </lexicon>

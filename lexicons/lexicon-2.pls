@@ -1,6 +1,14 @@
 <lexicon version='1.0' xmlns='http://www.w3.org/2005/01/pronunciation-lexicon' alphabet='ipa' xml:lang='en-US'>
   <lexeme>
     <grapheme>
+      Eleh
+    </grapheme>
+    <phoneme>
+      ˈele
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Eleh toldot
     </grapheme>
     <phoneme>
@@ -425,6 +433,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Ha&apos;olah
+    </grapheme>
+    <phoneme>
+      hɑʕoˈlɑ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       HaChag
     </grapheme>
     <phoneme>
@@ -605,6 +621,14 @@
     </grapheme>
     <phoneme>
       hɑlɑˈxɑ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Halachically
+    </grapheme>
+    <phoneme>
+      hɑlɑˈχikəli
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1473,18 +1497,18 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      Kodesh Hakodashim
+      Kodesh Hakedoshim
     </grapheme>
     <phoneme>
-      koˈdɛʃ haˈkoˌdaʃim
+      koˈdeʃ hakedoˈʃim
     </phoneme>
   </lexeme>
   <lexeme>
     <grapheme>
-      Kodesh Hakodoshim
+      Kodesh Hakodashim
     </grapheme>
     <phoneme>
-      koˈdeʃ hakodoˈʃim
+      koˈdɛʃ haˈkoˌdaʃim
     </phoneme>
   </lexeme>
   <lexeme>
@@ -2101,14 +2125,6 @@
     </grapheme>
     <phoneme>
       maˈʃiaχ ben joˈsef
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      Mashiach-Peretz
-    </grapheme>
-    <phoneme>
-      maˈʃiaχ peˈretz
     </phoneme>
   </lexeme>
 </lexicon>
