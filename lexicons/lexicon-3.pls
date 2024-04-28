@@ -1,22 +1,6 @@
 <lexicon version='1.0' xmlns='http://www.w3.org/2005/01/pronunciation-lexicon' alphabet='ipa' xml:lang='en-US'>
   <lexeme>
     <grapheme>
-      Mashiach-Peretz
-    </grapheme>
-    <phoneme>
-      maˈʃiaχ peˈretz
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      Masorah
-    </grapheme>
-    <phoneme>
-      maˈsoʁa
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       Masoretes
     </grapheme>
     <phoneme>
@@ -2133,6 +2117,22 @@
     </grapheme>
     <phoneme>
       ʃiːˈloʊ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Shim&apos;on
+    </grapheme>
+    <phoneme>
+      ʃiˈmon
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Shim&apos;on Hakanay
+    </grapheme>
+    <phoneme>
+      ʃiːmˈoʊn hɑːkɑːˈnaɪ
     </phoneme>
   </lexeme>
 </lexicon>

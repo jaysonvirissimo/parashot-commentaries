@@ -1,14 +1,6 @@
 <lexicon version='1.0' xmlns='http://www.w3.org/2005/01/pronunciation-lexicon' alphabet='ipa' xml:lang='en-US'>
   <lexeme>
     <grapheme>
-      Eleh
-    </grapheme>
-    <phoneme>
-      ˈele
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       Eleh toldot
     </grapheme>
     <phoneme>
@@ -2125,6 +2117,22 @@
     </grapheme>
     <phoneme>
       maˈʃiaχ ben joˈsef
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Mashiach-Peretz
+    </grapheme>
+    <phoneme>
+      maˈʃiaχ peˈretz
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Masorah
+    </grapheme>
+    <phoneme>
+      maˈsoʁa
     </phoneme>
   </lexeme>
 </lexicon>

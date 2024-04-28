@@ -2127,4 +2127,12 @@
       eleˈχa
     </phoneme>
   </lexeme>
+  <lexeme>
+    <grapheme>
+      Eleh
+    </grapheme>
+    <phoneme>
+      ˈele
+    </phoneme>
+  </lexeme>
 </lexicon>
