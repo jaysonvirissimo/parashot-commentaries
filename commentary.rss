@@ -208,5 +208,12 @@
       <description>Commentary on Torah portion "Tazria" (Leveticus 12:1-13:5)</description>
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/tazria.m4a" length="22042187" type="audio/mp4"/>
     </item>
+    <item>
+      <title>Metzora</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/metzora.m4a</guid>
+      <pubDate>Fri, 19 Apr 2024 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Metzora" (Leveticus 14:1-15:33)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/metzora.m4a" length="29898476" type="audio/mp4"/>
+    </item>
   </channel>
 </rss>
