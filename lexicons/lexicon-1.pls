@@ -441,6 +441,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Arachin
+    </grapheme>
+    <phoneme>
+      ˈɑːrəkɪn
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Aram
     </grapheme>
     <phoneme>
@@ -765,6 +773,14 @@
     </grapheme>
     <phoneme>
       baˈal koˈʁe
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Baal Ha Turim
+    </grapheme>
+    <phoneme>
+      bɑl hɑˈtʊrɪm
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1109,6 +1125,14 @@
     </grapheme>
     <phoneme>
       beit ˈleχem efˈʁata
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      B&apos;chol beisi ne&apos;eman hu
+    </grapheme>
+    <phoneme>
+      bəˈxol beɪsi neˈʔɛmɑn huː
     </phoneme>
   </lexeme>
   <lexeme>
@@ -2125,14 +2149,6 @@
     </grapheme>
     <phoneme>
       eleˈχa
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      Eleh
-    </grapheme>
-    <phoneme>
-      ˈele
     </phoneme>
   </lexeme>
 </lexicon>

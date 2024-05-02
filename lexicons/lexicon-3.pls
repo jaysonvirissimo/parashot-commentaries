@@ -1,6 +1,14 @@
 <lexicon version='1.0' xmlns='http://www.w3.org/2005/01/pronunciation-lexicon' alphabet='ipa' xml:lang='en-US'>
   <lexeme>
     <grapheme>
+      Masorah
+    </grapheme>
+    <phoneme>
+      maˈsoʁa
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Masoretes
     </grapheme>
     <phoneme>
@@ -533,6 +541,14 @@
     </grapheme>
     <phoneme>
       moˈʃel
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Motzi Ra
+    </grapheme>
+    <phoneme>
+      moʊtsi rɑ
     </phoneme>
   </lexeme>
   <lexeme>

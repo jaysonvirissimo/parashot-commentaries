@@ -593,6 +593,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Teviloth
+    </grapheme>
+    <phoneme>
+      təˈviloʊθ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Tif&apos;eret
     </grapheme>
     <phoneme>
@@ -653,6 +661,14 @@
     </grapheme>
     <phoneme>
       tɔːr
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Torim
+    </grapheme>
+    <phoneme>
+      tɔˈrim
     </phoneme>
   </lexeme>
   <lexeme>

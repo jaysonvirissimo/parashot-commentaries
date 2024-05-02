@@ -1,6 +1,14 @@
 <lexicon version='1.0' xmlns='http://www.w3.org/2005/01/pronunciation-lexicon' alphabet='ipa' xml:lang='en-US'>
   <lexeme>
     <grapheme>
+      Eleh
+    </grapheme>
+    <phoneme>
+      ˈele
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Eleh toldot
     </grapheme>
     <phoneme>
@@ -633,6 +641,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Halachot
+    </grapheme>
+    <phoneme>
+      ˈhæləxoʊt
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Hallel
     </grapheme>
     <phoneme>
@@ -813,6 +829,14 @@
     </grapheme>
     <phoneme>
       ˈhɛxɛl
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Helichot
+    </grapheme>
+    <phoneme>
+      ˈhɪl.xɔt
     </phoneme>
   </lexeme>
   <lexeme>
@@ -2125,14 +2149,6 @@
     </grapheme>
     <phoneme>
       maˈʃiaχ peˈretz
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      Masorah
-    </grapheme>
-    <phoneme>
-      maˈsoʁa
     </phoneme>
   </lexeme>
 </lexicon>
