@@ -1577,6 +1577,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Koper
+    </grapheme>
+    <phoneme>
+      ˈkoʊpər
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Korban
     </grapheme>
     <phoneme>

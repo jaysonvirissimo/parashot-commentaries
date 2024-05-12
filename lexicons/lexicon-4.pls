@@ -1,6 +1,14 @@
 <lexicon version='1.0' xmlns='http://www.w3.org/2005/01/pronunciation-lexicon' alphabet='ipa' xml:lang='en-US'>
   <lexeme>
     <grapheme>
+      Shim&apos;on Hakanay
+    </grapheme>
+    <phoneme>
+      ʃiːmˈoʊn hɑːkɑːˈnaɪ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Shim&apos;on bar-Yonah
     </grapheme>
     <phoneme>
@@ -1593,6 +1601,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Yom HaKippurim
+    </grapheme>
+    <phoneme>
+      jom hakipurim
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Yom Kippur
     </grapheme>
     <phoneme>
@@ -2141,14 +2157,6 @@
     </grapheme>
     <phoneme>
       jaˈʃan
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      yōtṣ&apos;ē y rēchô
-    </grapheme>
-    <phoneme>
-      jot͡se jəˈʁeχo
     </phoneme>
   </lexeme>
 </lexicon>

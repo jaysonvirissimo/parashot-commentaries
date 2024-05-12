@@ -1193,6 +1193,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Parhedrin
+    </grapheme>
+    <phoneme>
+      paʁˈhedʁin
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Pasuk
     </grapheme>
     <phoneme>
@@ -1689,6 +1697,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Sa&apos;ir L&apos;Azazel
+    </grapheme>
+    <phoneme>
+      ˈsaɪər ləˈæzəˌzɛl
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Saraf
     </grapheme>
     <phoneme>
@@ -2141,14 +2157,6 @@
     </grapheme>
     <phoneme>
       ʃiˈmon
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      Shim&apos;on Hakanay
-    </grapheme>
-    <phoneme>
-      ʃiːmˈoʊn hɑːkɑːˈnaɪ
     </phoneme>
   </lexeme>
 </lexicon>

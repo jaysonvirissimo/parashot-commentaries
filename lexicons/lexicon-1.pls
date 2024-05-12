@@ -97,6 +97,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Aion
+    </grapheme>
+    <phoneme>
+      ˈaɪən
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Ach&apos;av
     </grapheme>
     <phoneme>
