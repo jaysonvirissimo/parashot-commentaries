@@ -215,5 +215,12 @@
       <description>Commentary on Torah portion "Metzora" (Leveticus 14:1-15:33)</description>
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/metzora.m4a" length="29898476" type="audio/mp4"/>
     </item>
+    <item>
+      <title>Acharei Mot</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/acharei-mot.m4a</guid>
+      <pubDate>Fri, 03 May 2024 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Acharei Mot" (Leveticus 16:1-18:30)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/acharei-mot.m4a" length="35041105" type="audio/mp4"/>
+    </item>
   </channel>
 </rss>
