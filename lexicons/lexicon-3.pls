@@ -1,6 +1,22 @@
 <lexicon version='1.0' xmlns='http://www.w3.org/2005/01/pronunciation-lexicon' alphabet='ipa' xml:lang='en-US'>
   <lexeme>
     <grapheme>
+      Mashiach ben Yosef
+    </grapheme>
+    <phoneme>
+      maˈʃiaχ ben joˈsef
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Mashiach-Peretz
+    </grapheme>
+    <phoneme>
+      maˈʃiaχ peˈretz
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Masorah
     </grapheme>
     <phoneme>
@@ -733,6 +749,14 @@
     </grapheme>
     <phoneme>
       nɑːtsɛˈrɛt
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Naval bir-shut haTorah
+    </grapheme>
+    <phoneme>
+      naˈval bir ˈʃut ha toˈra
     </phoneme>
   </lexeme>
   <lexeme>
@@ -2141,22 +2165,6 @@
     </grapheme>
     <phoneme>
       ˈʃevet
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      Shiloh
-    </grapheme>
-    <phoneme>
-      ʃiːˈloʊ
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      Shim&apos;on
-    </grapheme>
-    <phoneme>
-      ʃiˈmon
     </phoneme>
   </lexeme>
 </lexicon>

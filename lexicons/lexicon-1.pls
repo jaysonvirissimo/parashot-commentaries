@@ -297,6 +297,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Aleph-Bet
+    </grapheme>
+    <phoneme>
+      ˈɑːlɛf ˈbɛt
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Alilim
     </grapheme>
     <phoneme>
@@ -1681,6 +1689,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Chassidism
+    </grapheme>
+    <phoneme>
+      ˈhɑːsɪˌdɪzəm
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Chassidut
     </grapheme>
     <phoneme>
@@ -1693,6 +1709,14 @@
     </grapheme>
     <phoneme>
       χaˈta
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Chatam
+    </grapheme>
+    <phoneme>
+      χaˈtam
     </phoneme>
   </lexeme>
   <lexeme>
@@ -2141,22 +2165,6 @@
     </grapheme>
     <phoneme>
       eɪˈlɑt
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      Elazar
-    </grapheme>
-    <phoneme>
-      ɛˈlɑzɑr
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      Elecha
-    </grapheme>
-    <phoneme>
-      eleˈχa
     </phoneme>
   </lexeme>
 </lexicon>
