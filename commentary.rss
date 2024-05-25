@@ -222,5 +222,12 @@
       <description>Commentary on Torah portion "Acharei Mot" (Leveticus 16:1-18:30)</description>
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/acharei-mot.m4a" length="35041105" type="audio/mp4"/>
     </item>
+    <item>
+      <title>Kedoshim</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/kedoshim.m4a</guid>
+      <pubDate>Fri, 10 May 2024 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Kedoshim" (Leveticus 19:1-20:27)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/kedoshim.m4a" length="30259146" type="audio/mp4"/>
+    </item>
   </channel>
 </rss>
