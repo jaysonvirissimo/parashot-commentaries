@@ -2167,4 +2167,20 @@
       eɪˈlɑt
     </phoneme>
   </lexeme>
+  <lexeme>
+    <grapheme>
+      Elazar
+    </grapheme>
+    <phoneme>
+      ɛˈlɑzɑr
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Elecha
+    </grapheme>
+    <phoneme>
+      eleˈχa
+    </phoneme>
+  </lexeme>
 </lexicon>

@@ -1,30 +1,6 @@
 <lexicon version='1.0' xmlns='http://www.w3.org/2005/01/pronunciation-lexicon' alphabet='ipa' xml:lang='en-US'>
   <lexeme>
     <grapheme>
-      Shiloh
-    </grapheme>
-    <phoneme>
-      ʃiːˈloʊ
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      Shim&apos;on
-    </grapheme>
-    <phoneme>
-      ʃiˈmon
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      Shim&apos;on Hakanay
-    </grapheme>
-    <phoneme>
-      ʃiːmˈoʊn hɑːkɑːˈnaɪ
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       Shim&apos;on bar-Yonah
     </grapheme>
     <phoneme>
@@ -1037,6 +1013,30 @@
     </grapheme>
     <phoneme>
       ʌˈzɑː
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      VayOmer
+    </grapheme>
+    <phoneme>
+      vɑjˈʔomer
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      VeAmarta
+    </grapheme>
+    <phoneme>
+      vəʔɑˈmɑrtɑ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Ve&apos;amarta aleihem
+    </grapheme>
+    <phoneme>
+      vəʔɑˈmɑrtɑ ʔɑleˈhɛm
     </phoneme>
   </lexeme>
   <lexeme>
@@ -2165,6 +2165,22 @@
     </grapheme>
     <phoneme>
       jaˈdaχ tsaˈid
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      yashan
+    </grapheme>
+    <phoneme>
+      jaˈʃan
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      yōtṣ&apos;ē y rēchô
+    </grapheme>
+    <phoneme>
+      jot͡se jəˈʁeχo
     </phoneme>
   </lexeme>
 </lexicon>
