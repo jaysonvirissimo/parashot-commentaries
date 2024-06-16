@@ -236,5 +236,12 @@
       <description>Commentary on Torah portion "Emor" (Leveticus 21:1-24:23)</description>
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/emor.m4a" length="32233060" type="audio/mp4"/>
     </item>
+    <item>
+      <title>Behar</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/behar.m4a</guid>
+      <pubDate>Fri, 24 May 2024 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Behar" (Leveticus 25:1-26:2)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/behar.m4a" length="25580261" type="audio/mp4"/>
+    </item>
   </channel>
 </rss>
