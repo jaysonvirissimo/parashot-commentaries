@@ -1,6 +1,14 @@
 <lexicon version='1.0' xmlns='http://www.w3.org/2005/01/pronunciation-lexicon' alphabet='ipa' xml:lang='en-US'>
   <lexeme>
     <grapheme>
+      Masoretes
+    </grapheme>
+    <phoneme>
+      maˈsoʁet
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Mass Hachnassa
     </grapheme>
     <phoneme>
@@ -1641,6 +1649,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Sadecha
+    </grapheme>
+    <phoneme>
+      saˈdɛχa
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Samach
     </grapheme>
     <phoneme>
@@ -2089,6 +2105,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Shemen HaTov
+    </grapheme>
+    <phoneme>
+      ˈʃemɛn haˈtov
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Shemen Mishkhat-Kodesh
     </grapheme>
     <phoneme>
@@ -2173,14 +2197,6 @@
     </grapheme>
     <phoneme>
       ʃiˈmon
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      Shim&apos;on Hakanay
-    </grapheme>
-    <phoneme>
-      ʃiːmˈoʊn hɑːkɑːˈnaɪ
     </phoneme>
   </lexeme>
 </lexicon>

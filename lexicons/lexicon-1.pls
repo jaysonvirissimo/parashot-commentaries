@@ -2183,4 +2183,20 @@
       eleˈχa
     </phoneme>
   </lexeme>
+  <lexeme>
+    <grapheme>
+      Eleh
+    </grapheme>
+    <phoneme>
+      ˈele
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Eleh toldot
+    </grapheme>
+    <phoneme>
+      ˈeleh toˈlod
+    </phoneme>
+  </lexeme>
 </lexicon>

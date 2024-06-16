@@ -1,22 +1,6 @@
 <lexicon version='1.0' xmlns='http://www.w3.org/2005/01/pronunciation-lexicon' alphabet='ipa' xml:lang='en-US'>
   <lexeme>
     <grapheme>
-      Eleh
-    </grapheme>
-    <phoneme>
-      ˈele
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      Eleh toldot
-    </grapheme>
-    <phoneme>
-      ˈeleh toˈlod
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       Eliezer
     </grapheme>
     <phoneme>
@@ -29,6 +13,14 @@
     </grapheme>
     <phoneme>
       ˈelim
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Elilim
+    </grapheme>
+    <phoneme>
+      eˈliːliːm
     </phoneme>
   </lexeme>
   <lexeme>
@@ -213,6 +205,14 @@
     </grapheme>
     <phoneme>
       ɛtˈsɑ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Even
+    </grapheme>
+    <phoneme>
+      ˈɛvɛn
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1681,6 +1681,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      LaHashem
+    </grapheme>
+    <phoneme>
+      laˈhaʃɛm
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       LECH-LECHA
     </grapheme>
     <phoneme>
@@ -1921,6 +1929,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Lubavitcher
+    </grapheme>
+    <phoneme>
+      luːˈbɑːvɪtʃər
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Lulav
     </grapheme>
     <phoneme>
@@ -1973,6 +1989,14 @@
     </grapheme>
     <phoneme>
       ma ʃlo̞mˈχa
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Maskit
+    </grapheme>
+    <phoneme>
+      mɑsˈkit
     </phoneme>
   </lexeme>
   <lexeme>
@@ -2173,14 +2197,6 @@
     </grapheme>
     <phoneme>
       maˈsoʁa
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      Masoretes
-    </grapheme>
-    <phoneme>
-      maˈsoʁet
     </phoneme>
   </lexeme>
 </lexicon>
