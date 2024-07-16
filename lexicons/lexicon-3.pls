@@ -537,14 +537,6 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      Motzi Ra
-    </grapheme>
-    <phoneme>
-      moʊtsi rɑ
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       Motse
     </grapheme>
     <phoneme>
@@ -557,6 +549,14 @@
     </grapheme>
     <phoneme>
       moʊˈtsɛ ˈlɛxɛm miːn hɑːˈɑːrɛts
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Motzi Ra
+    </grapheme>
+    <phoneme>
+      moʊtsi rɑ
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1281,6 +1281,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Pesachim
+    </grapheme>
+    <phoneme>
+      pɛˈsaxim
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Pharaoh
     </grapheme>
     <phoneme>
@@ -1641,10 +1649,10 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      Sadeh
+      Sa&apos;ir L&apos;Azazel
     </grapheme>
     <phoneme>
-      sɑːˈdɛ
+      ˈsaɪər ləˈæzəˌzɛl
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1653,6 +1661,14 @@
     </grapheme>
     <phoneme>
       saˈdɛχa
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Sadeh
+    </grapheme>
+    <phoneme>
+      sɑːˈdɛ
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1709,14 +1725,6 @@
     </grapheme>
     <phoneme>
       saʁ ʃaˈlom
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      Sa&apos;ir L&apos;Azazel
-    </grapheme>
-    <phoneme>
-      ˈsaɪər ləˈæzəˌzɛl
     </phoneme>
   </lexeme>
   <lexeme>

@@ -1,6 +1,22 @@
 <lexicon version='1.0' xmlns='http://www.w3.org/2005/01/pronunciation-lexicon' alphabet='ipa' xml:lang='en-US'>
   <lexeme>
     <grapheme>
+      Eleh
+    </grapheme>
+    <phoneme>
+      ˈele
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Eleh toldot
+    </grapheme>
+    <phoneme>
+      ˈeleh toˈlod
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Eliezer
     </grapheme>
     <phoneme>
@@ -9,18 +25,18 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      Elim
-    </grapheme>
-    <phoneme>
-      ˈelim
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       Elilim
     </grapheme>
     <phoneme>
       eˈliːliːm
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Elim
+    </grapheme>
+    <phoneme>
+      ˈelim
     </phoneme>
   </lexeme>
   <lexeme>
@@ -65,18 +81,18 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      Elohim
-    </grapheme>
-    <phoneme>
-      ɛlɔˈhim
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       Eloheinu
     </grapheme>
     <phoneme>
       eloˈheɪnu
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Elohim
+    </grapheme>
+    <phoneme>
+      ɛlɔˈhim
     </phoneme>
   </lexeme>
   <lexeme>
@@ -205,14 +221,6 @@
     </grapheme>
     <phoneme>
       ɛtˈsɑ
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      Even
-    </grapheme>
-    <phoneme>
-      ˈɛvɛn
     </phoneme>
   </lexeme>
   <lexeme>
@@ -641,18 +649,18 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      Halakha
-    </grapheme>
-    <phoneme>
-      halaˈχa
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       Halachot
     </grapheme>
     <phoneme>
       ˈhæləxoʊt
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Halakha
+    </grapheme>
+    <phoneme>
+      halaˈχa
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1681,18 +1689,18 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      LaHashem
-    </grapheme>
-    <phoneme>
-      laˈhaʃɛm
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       LECH-LECHA
     </grapheme>
     <phoneme>
       ˈleχˈleχa
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      LaHashem
+    </grapheme>
+    <phoneme>
+      laˈhaʃɛm
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1993,14 +2001,6 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      Maskit
-    </grapheme>
-    <phoneme>
-      mɑsˈkit
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       Maariv
     </grapheme>
     <phoneme>
@@ -2189,6 +2189,14 @@
     </grapheme>
     <phoneme>
       maˈʃiaχ peˈretz
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Maskit
+    </grapheme>
+    <phoneme>
+      mɑsˈkit
     </phoneme>
   </lexeme>
   <lexeme>

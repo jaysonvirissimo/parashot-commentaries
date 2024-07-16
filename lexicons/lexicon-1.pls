@@ -97,14 +97,6 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      Aion
-    </grapheme>
-    <phoneme>
-      ˈaɪən
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       Ach&apos;av
     </grapheme>
     <phoneme>
@@ -245,6 +237,14 @@
     </grapheme>
     <phoneme>
       al pi ˈʁemɛz
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Aion
+    </grapheme>
+    <phoneme>
+      ˈaɪən
     </phoneme>
   </lexeme>
   <lexeme>
@@ -745,6 +745,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      B&apos;chol beisi ne&apos;eman hu
+    </grapheme>
+    <phoneme>
+      bəˈxol beɪsi neˈʔɛmɑn huː
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       B&apos;rit Chadashah
     </grapheme>
     <phoneme>
@@ -785,18 +793,18 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      Baal Koreh
-    </grapheme>
-    <phoneme>
-      baˈal koˈʁe
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       Baal Ha Turim
     </grapheme>
     <phoneme>
       bɑl hɑˈtʊrɪm
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Baal Koreh
+    </grapheme>
+    <phoneme>
+      baˈal koˈʁe
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1033,6 +1041,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Be&apos;erekecha
+    </grapheme>
+    <phoneme>
+      bəˌʔɛʁɛˈkɛχa
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Be-Emet
     </grapheme>
     <phoneme>
@@ -1141,14 +1157,6 @@
     </grapheme>
     <phoneme>
       beit ˈleχem efˈʁata
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      B&apos;chol beisi ne&apos;eman hu
-    </grapheme>
-    <phoneme>
-      bəˈxol beɪsi neˈʔɛmɑn huː
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1577,6 +1585,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Chakikah
+    </grapheme>
+    <phoneme>
+      χaˈkika
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Challah
     </grapheme>
     <phoneme>
@@ -1757,6 +1773,14 @@
     </grapheme>
     <phoneme>
       χaˈveʁ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Chayah
+    </grapheme>
+    <phoneme>
+      χaˈja
     </phoneme>
   </lexeme>
   <lexeme>
@@ -2181,22 +2205,6 @@
     </grapheme>
     <phoneme>
       eleˈχa
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      Eleh
-    </grapheme>
-    <phoneme>
-      ˈele
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      Eleh toldot
-    </grapheme>
-    <phoneme>
-      ˈeleh toˈlod
     </phoneme>
   </lexeme>
 </lexicon>

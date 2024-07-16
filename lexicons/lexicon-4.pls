@@ -673,14 +673,6 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      Torim
-    </grapheme>
-    <phoneme>
-      tɔˈrim
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       Torah
     </grapheme>
     <phoneme>
@@ -717,6 +709,14 @@
     </grapheme>
     <phoneme>
       tɔːˈrɑːt tɑːzriːˈɑː
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Torim
+    </grapheme>
+    <phoneme>
+      tɔˈrim
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1033,38 +1033,6 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      VayOmer
-    </grapheme>
-    <phoneme>
-      vɑjˈʔomer
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      Velo Tonu
-    </grapheme>
-    <phoneme>
-      vəˈloː ˈtonu
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      VeAmarta
-    </grapheme>
-    <phoneme>
-      vəʔɑˈmɑrtɑ
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      Ve&apos;amarta aleihem
-    </grapheme>
-    <phoneme>
-      vəʔɑˈmɑrtɑ ʔɑleˈhɛm
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       VAYERA
     </grapheme>
     <phoneme>
@@ -1085,6 +1053,14 @@
     </grapheme>
     <phoneme>
       vɑːv
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      VayOmer
+    </grapheme>
+    <phoneme>
+      vɑjˈʔomer
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1193,10 +1169,26 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Ve&apos;amarta aleihem
+    </grapheme>
+    <phoneme>
+      vəʔɑˈmɑrtɑ ʔɑleˈhɛm
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Ve&apos;eish hamizbei&apos;ach tukad bo
     </grapheme>
     <phoneme>
       ve&apos;eʃ ham·miz·be·aħ tu·kad bo
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      VeAmarta
+    </grapheme>
+    <phoneme>
+      vəʔɑˈmɑrtɑ
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1213,6 +1205,14 @@
     </grapheme>
     <phoneme>
       veχejn taˈʔasu
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Velo Tonu
+    </grapheme>
+    <phoneme>
+      vəˈloː ˈtonu
     </phoneme>
   </lexeme>
   <lexeme>
@@ -2197,6 +2197,14 @@
     </grapheme>
     <phoneme>
       jaˈʃan
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      yōtṣ&apos;ē y rēchô
+    </grapheme>
+    <phoneme>
+      jot͡se jəˈʁeχo
     </phoneme>
   </lexeme>
 </lexicon>
