@@ -243,5 +243,12 @@
       <description>Commentary on Torah portion "Behar" (Leveticus 25:1-26:2)</description>
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/behar.m4a" length="25580261" type="audio/mp4"/>
     </item>
+    <item>
+      <title>Bechukotai</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/bechukotai.m4a</guid>
+      <pubDate>Fri, 31 May 2024 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Bechukotai" (Leveticus 26:3-27:34)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/bechukotai.m4a" length="25224482" type="audio/mp4"/>
+    </item>
   </channel>
 </rss>
