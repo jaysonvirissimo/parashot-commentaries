@@ -1569,6 +1569,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Yochai
+    </grapheme>
+    <phoneme>
+      joˈχaj
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Yochanan
     </grapheme>
     <phoneme>
@@ -2197,14 +2205,6 @@
     </grapheme>
     <phoneme>
       jaˈʃan
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      yōtṣ&apos;ē y rēchô
-    </grapheme>
-    <phoneme>
-      jot͡se jəˈʁeχo
     </phoneme>
   </lexeme>
 </lexicon>

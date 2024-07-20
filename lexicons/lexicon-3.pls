@@ -793,10 +793,10 @@
   </lexeme>
   <lexeme>
     <grapheme>
-      Nefesh
+      Nefesh Chayah
     </grapheme>
     <phoneme>
-      nɛˈfɛʃ
+      ˈnɛfɛʃ χaˈja
     </phoneme>
   </lexeme>
   <lexeme>
