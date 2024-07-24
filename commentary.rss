@@ -250,5 +250,12 @@
       <description>Commentary on Torah portion "Bechukotai" (Leveticus 26:3-27:34)</description>
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/bechukotai.m4a" length="25212900" type="audio/mp4"/>
     </item>
+    <item>
+      <title>Bamidbar</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/bamidbar.m4a</guid>
+      <pubDate>Fri, 07 Jun 2024 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Bamidbar" (Numbers 1:1-4:20)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/bamidbar.m4a" length="27083920" type="audio/mp4"/>
+    </item>
   </channel>
 </rss>
