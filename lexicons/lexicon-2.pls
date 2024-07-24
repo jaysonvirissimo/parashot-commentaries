@@ -1,6 +1,46 @@
 <lexicon version='1.0' xmlns='http://www.w3.org/2005/01/pronunciation-lexicon' alphabet='ipa' xml:lang='en-US'>
   <lexeme>
     <grapheme>
+      El&apos;azar
+    </grapheme>
+    <phoneme>
+      elˈazar
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      El-Shaddai
+    </grapheme>
+    <phoneme>
+      el ʃadˈdai
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Elat
+    </grapheme>
+    <phoneme>
+      eɪˈlɑt
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Elazar
+    </grapheme>
+    <phoneme>
+      ɛˈlɑzɑr
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Elecha
+    </grapheme>
+    <phoneme>
+      eleˈχa
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Eleh
     </grapheme>
     <phoneme>
@@ -45,6 +85,22 @@
     </grapheme>
     <phoneme>
       ɛˈlɪʃə
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Elisheba
+    </grapheme>
+    <phoneme>
+      eliˈʃeva
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Eliyahu
+    </grapheme>
+    <phoneme>
+      eliˈjahu
     </phoneme>
   </lexeme>
   <lexeme>
@@ -129,6 +185,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Emunah
+    </grapheme>
+    <phoneme>
+      emuˈna
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Enosh
     </grapheme>
     <phoneme>
@@ -197,6 +261,14 @@
     </grapheme>
     <phoneme>
       ˈesav oʁ ˈeisav
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Eshcol
+    </grapheme>
+    <phoneme>
+      eʃˈkol
     </phoneme>
   </lexeme>
   <lexeme>
@@ -385,6 +457,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Gershon
+    </grapheme>
+    <phoneme>
+      gerˈʃon
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Gevurah
     </grapheme>
     <phoneme>
@@ -405,6 +485,22 @@
     </grapheme>
     <phoneme>
       giˈdeon
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Gilead
+    </grapheme>
+    <phoneme>
+      gilˈad
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Gilgal
+    </grapheme>
+    <phoneme>
+      gilˈgal
     </phoneme>
   </lexeme>
   <lexeme>
@@ -437,6 +533,14 @@
     </grapheme>
     <phoneme>
       haʔaˈretz
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Ha&apos;avah
+    </grapheme>
+    <phoneme>
+      haʔaˈva
     </phoneme>
   </lexeme>
   <lexeme>
@@ -477,6 +581,14 @@
     </grapheme>
     <phoneme>
       haˈkoːanim
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      HaCohen
+    </grapheme>
+    <phoneme>
+      hakoˈhen
     </phoneme>
   </lexeme>
   <lexeme>
@@ -833,6 +945,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Hazaken
+    </grapheme>
+    <phoneme>
+      hazaˈken
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Hebron
     </grapheme>
     <phoneme>
@@ -937,10 +1057,26 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Hor
+    </grapheme>
+    <phoneme>
+      hor
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Horeb
     </grapheme>
     <phoneme>
       xɔˈrɛb
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Hoshea
+    </grapheme>
+    <phoneme>
+      hoʃeˈa
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1129,6 +1265,22 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Kaddish
+    </grapheme>
+    <phoneme>
+      kaˈdiʃ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Kadesh Barnea
+    </grapheme>
+    <phoneme>
+      kaˈdeʃ barneˈa
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Kadosh
     </grapheme>
     <phoneme>
@@ -1173,6 +1325,14 @@
     </grapheme>
     <phoneme>
       kapaˈʁa
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Kaparah
+    </grapheme>
+    <phoneme>
+      kapaˈra
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1281,10 +1441,26 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Kedushah
+    </grapheme>
+    <phoneme>
+      keduˈʃa
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Kehilah
     </grapheme>
     <phoneme>
       kehiˈla
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Kehunah
+    </grapheme>
+    <phoneme>
+      kehuˈna
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1377,6 +1553,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Ketubim
+    </grapheme>
+    <phoneme>
+      ketuˈvim
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Keturah
     </grapheme>
     <phoneme>
@@ -1413,6 +1597,14 @@
     </grapheme>
     <phoneme>
       ki tsaˈjid beˈfijv
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Kibbutz
+    </grapheme>
+    <phoneme>
+      kiˈbuts
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1493,6 +1685,14 @@
     </grapheme>
     <phoneme>
       kiˈse ʃel eliˈjahu hanaˈvi
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Kittim
+    </grapheme>
+    <phoneme>
+      kiˈtim
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1601,6 +1801,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Korach
+    </grapheme>
+    <phoneme>
+      ˈkoraχ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Korban
     </grapheme>
     <phoneme>
@@ -1677,6 +1885,14 @@
     </grapheme>
     <phoneme>
       koˈtel
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Kullam
+    </grapheme>
+    <phoneme>
+      kuˈlam
     </phoneme>
   </lexeme>
   <lexeme>
@@ -2145,6 +2361,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Masa
+    </grapheme>
+    <phoneme>
+      maˈsa
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Masah
     </grapheme>
     <phoneme>
@@ -2205,6 +2429,54 @@
     </grapheme>
     <phoneme>
       maˈsoʁa
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Masoretes
+    </grapheme>
+    <phoneme>
+      maˈsoʁet
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Mass Hachnassa
+    </grapheme>
+    <phoneme>
+      mas xaχˈnasa
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Matecha
+    </grapheme>
+    <phoneme>
+      mateˈχa
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Matot
+    </grapheme>
+    <phoneme>
+      maˈtot
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Matsevah
+    </grapheme>
+    <phoneme>
+      mɑːtsɛˈvɑː
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Matsil
+    </grapheme>
+    <phoneme>
+      maˈtsil
     </phoneme>
   </lexeme>
 </lexicon>

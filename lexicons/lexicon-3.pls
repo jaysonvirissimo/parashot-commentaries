@@ -1,38 +1,6 @@
 <lexicon version='1.0' xmlns='http://www.w3.org/2005/01/pronunciation-lexicon' alphabet='ipa' xml:lang='en-US'>
   <lexeme>
     <grapheme>
-      Masoretes
-    </grapheme>
-    <phoneme>
-      maˈsoʁet
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      Mass Hachnassa
-    </grapheme>
-    <phoneme>
-      mas xaχˈnasa
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      Matsevah
-    </grapheme>
-    <phoneme>
-      mɑːtsɛˈvɑː
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      Matsil
-    </grapheme>
-    <phoneme>
-      maˈtsil
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       Mattatyahu
     </grapheme>
     <phoneme>
@@ -45,6 +13,14 @@
     </grapheme>
     <phoneme>
       mɑːtiːtˈjɑːhuː
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Matushelah
+    </grapheme>
+    <phoneme>
+      metuˈʃelaχ
     </phoneme>
   </lexeme>
   <lexeme>
@@ -153,6 +129,22 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Meraglim
+    </grapheme>
+    <phoneme>
+      meragˈlim
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Merari
+    </grapheme>
+    <phoneme>
+      meraˈri
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Merkavah
     </grapheme>
     <phoneme>
@@ -201,10 +193,34 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Mezonoth
+    </grapheme>
+    <phoneme>
+      mezoˈnot
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Micah
     </grapheme>
     <phoneme>
       miˈχa
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Michael
+    </grapheme>
+    <phoneme>
+      miχaˈel
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Midbar
+    </grapheme>
+    <phoneme>
+      miˈdbar
     </phoneme>
   </lexeme>
   <lexeme>
@@ -353,6 +369,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Mishlei
+    </grapheme>
+    <phoneme>
+      miʃˈlej
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Mishmereth
     </grapheme>
     <phoneme>
@@ -365,6 +389,14 @@
     </grapheme>
     <phoneme>
       miːʃˈnɑː
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Mishpachah
+    </grapheme>
+    <phoneme>
+      miʃpaˈχa
     </phoneme>
   </lexeme>
   <lexeme>
@@ -457,6 +489,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Mizrahi
+    </grapheme>
+    <phoneme>
+      mizraˈχi
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Mo&apos;ed
     </grapheme>
     <phoneme>
@@ -517,6 +557,14 @@
     </grapheme>
     <phoneme>
       moʊˈzeɪiːk lɔː
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Moshav
+    </grapheme>
+    <phoneme>
+      moˈʃav
     </phoneme>
   </lexeme>
   <lexeme>
@@ -617,10 +665,26 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Na&apos;aro
+    </grapheme>
+    <phoneme>
+      naʔaˈro
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Naaman
     </grapheme>
     <phoneme>
       nɑːˈmɑːn
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Naase Venishma
+    </grapheme>
+    <phoneme>
+      naʔase veniʃˈma
     </phoneme>
   </lexeme>
   <lexeme>
@@ -713,6 +777,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Naso
+    </grapheme>
+    <phoneme>
+      naˈso
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Natsar
     </grapheme>
     <phoneme>
@@ -761,6 +833,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Nazirite
+    </grapheme>
+    <phoneme>
+      naziˈrit
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Ne-emanu
     </grapheme>
     <phoneme>
@@ -777,6 +857,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Nebo
+    </grapheme>
+    <phoneme>
+      neˈvo
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Nebuchadnezzar
     </grapheme>
     <phoneme>
@@ -785,10 +873,26 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Nechasim
+    </grapheme>
+    <phoneme>
+      neχaˈsim
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Nechoshet
     </grapheme>
     <phoneme>
       neχoˈʃet
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Neder
+    </grapheme>
+    <phoneme>
+      ˈneder
     </phoneme>
   </lexeme>
   <lexeme>
@@ -809,10 +913,34 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Negius
+    </grapheme>
+    <phoneme>
+      negiˈus
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Nekudot
+    </grapheme>
+    <phoneme>
+      nekuˈdot
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Nephesh
     </grapheme>
     <phoneme>
       neˈfeʃ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Nephilim
+    </grapheme>
+    <phoneme>
+      nefiˈlim
     </phoneme>
   </lexeme>
   <lexeme>
@@ -861,6 +989,14 @@
     </grapheme>
     <phoneme>
       netiˈvot ʃaˈlom
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Nevi&apos;im
+    </grapheme>
+    <phoneme>
+      neviˈim
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1161,6 +1297,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Panev
+    </grapheme>
+    <phoneme>
+      paˈnev
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Panim
     </grapheme>
     <phoneme>
@@ -1181,6 +1325,22 @@
     </grapheme>
     <phoneme>
       paˈʁa
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Parah Adumah
+    </grapheme>
+    <phoneme>
+      paˈra aduˈma
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Paran
+    </grapheme>
+    <phoneme>
+      paˈran
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1473,6 +1633,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Raca
+    </grapheme>
+    <phoneme>
+      raˈka
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Rachats
     </grapheme>
     <phoneme>
@@ -1489,6 +1657,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Rahab
+    </grapheme>
+    <phoneme>
+      raˈχav
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Rakot
     </grapheme>
     <phoneme>
@@ -1501,6 +1677,14 @@
     </grapheme>
     <phoneme>
       ˈrebbe/ˈrav
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Rebbetzin
+    </grapheme>
+    <phoneme>
+      reˈbetsin
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1581,6 +1765,22 @@
     </grapheme>
     <phoneme>
       ˈʁiv.χa
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Roeh
+    </grapheme>
+    <phoneme>
+      roˈe
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Rosh
+    </grapheme>
+    <phoneme>
+      roʃ
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1745,6 +1945,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Sarar
+    </grapheme>
+    <phoneme>
+      saˈrar
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Sarei Missim
     </grapheme>
     <phoneme>
@@ -1865,6 +2073,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Sh&apos;mira
+    </grapheme>
+    <phoneme>
+      ʃmiˈra
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Shabbat
     </grapheme>
     <phoneme>
@@ -1877,6 +2093,14 @@
     </grapheme>
     <phoneme>
       ʃabat ʃekaˈlim
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Shabbaton
+    </grapheme>
+    <phoneme>
+      ʃabaˈton
     </phoneme>
   </lexeme>
   <lexeme>
@@ -2073,6 +2297,22 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Shel
+    </grapheme>
+    <phoneme>
+      ʃel
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Shelach
+    </grapheme>
+    <phoneme>
+      ʃeˈlaχ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Shelamim
     </grapheme>
     <phoneme>
@@ -2093,6 +2333,14 @@
     </grapheme>
     <phoneme>
       ʃem
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Shema
+    </grapheme>
+    <phoneme>
+      ʃeˈma
     </phoneme>
   </lexeme>
   <lexeme>
@@ -2193,6 +2441,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Shevuah
+    </grapheme>
+    <phoneme>
+      ʃevuˈa
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Shiloh
     </grapheme>
     <phoneme>
@@ -2205,6 +2461,22 @@
     </grapheme>
     <phoneme>
       ʃiˈmon
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Shim&apos;on Hakanay
+    </grapheme>
+    <phoneme>
+      ʃiːmˈoʊn hɑːkɑːˈnaɪ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Shim&apos;on bar-Yonah
+    </grapheme>
+    <phoneme>
+      ʃiːmˈoʊn bɑːr joʊˈnɑː
     </phoneme>
   </lexeme>
 </lexicon>

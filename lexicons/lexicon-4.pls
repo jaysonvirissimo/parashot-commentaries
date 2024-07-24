@@ -1,22 +1,6 @@
 <lexicon version='1.0' xmlns='http://www.w3.org/2005/01/pronunciation-lexicon' alphabet='ipa' xml:lang='en-US'>
   <lexeme>
     <grapheme>
-      Shim&apos;on Hakanay
-    </grapheme>
-    <phoneme>
-      ʃiːmˈoʊn hɑːkɑːˈnaɪ
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      Shim&apos;on bar-Yonah
-    </grapheme>
-    <phoneme>
-      ʃiːmˈoʊn bɑːr joʊˈnɑː
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       Shim&apos;on-Peter
     </grapheme>
     <phoneme>
@@ -25,10 +9,26 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Shimshon
+    </grapheme>
+    <phoneme>
+      ʃimˈʃon
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Shirah
     </grapheme>
     <phoneme>
       ʃiˈʁa
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Shittim
+    </grapheme>
+    <phoneme>
+      ʃiˈtim
     </phoneme>
   </lexeme>
   <lexeme>
@@ -93,6 +93,14 @@
     </grapheme>
     <phoneme>
       ʃofaˈʁot
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Shofet
+    </grapheme>
+    <phoneme>
+      ʃoˈfet
     </phoneme>
   </lexeme>
   <lexeme>
@@ -201,6 +209,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Siporah
+    </grapheme>
+    <phoneme>
+      tsipoˈra
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Siporah/Zipporah
     </grapheme>
     <phoneme>
@@ -237,6 +253,14 @@
     </grapheme>
     <phoneme>
       ˈsofeʁ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Sotah
+    </grapheme>
+    <phoneme>
+      soˈta
     </phoneme>
   </lexeme>
   <lexeme>
@@ -313,6 +337,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Tachanifu
+    </grapheme>
+    <phoneme>
+      taχaniˈfu
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Tachat
     </grapheme>
     <phoneme>
@@ -349,6 +381,14 @@
     </grapheme>
     <phoneme>
       tɑːˈhoʊr
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Tallit
+    </grapheme>
+    <phoneme>
+      taˈlit
     </phoneme>
   </lexeme>
   <lexeme>
@@ -401,6 +441,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Tameh met
+    </grapheme>
+    <phoneme>
+      taˈme met
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Tamei
     </grapheme>
     <phoneme>
@@ -429,6 +477,14 @@
     </grapheme>
     <phoneme>
       taˈmim
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Tammuz
+    </grapheme>
+    <phoneme>
+      taˈmuz
     </phoneme>
   </lexeme>
   <lexeme>
@@ -485,6 +541,22 @@
     </grapheme>
     <phoneme>
       tɑːzriːˈɑː
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Techelet
+    </grapheme>
+    <phoneme>
+      tχeˈlet
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Tefachim
+    </grapheme>
+    <phoneme>
+      tefaˈχim
     </phoneme>
   </lexeme>
   <lexeme>
@@ -617,6 +689,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Tikvah
+    </grapheme>
+    <phoneme>
+      tiˈkva
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Tisha
     </grapheme>
     <phoneme>
@@ -729,10 +809,26 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Tosafot
+    </grapheme>
+    <phoneme>
+      tosaˈfot
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Tosafoth
     </grapheme>
     <phoneme>
       toʊsɑːˈfoʊt
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Tosefta
+    </grapheme>
+    <phoneme>
+      toˈsefta
     </phoneme>
   </lexeme>
   <lexeme>
@@ -749,6 +845,14 @@
     </grapheme>
     <phoneme>
       tov
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Trei Asar
+    </grapheme>
+    <phoneme>
+      trej aˈsar
     </phoneme>
   </lexeme>
   <lexeme>
@@ -789,6 +893,14 @@
     </grapheme>
     <phoneme>
       tsaˈfan
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Tsafon
+    </grapheme>
+    <phoneme>
+      tsaˈfon
     </phoneme>
   </lexeme>
   <lexeme>
@@ -869,6 +981,14 @@
     </grapheme>
     <phoneme>
       tsiːˈpuːr
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Tsitsit
+    </grapheme>
+    <phoneme>
+      tsiˈtsit
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1001,6 +1121,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Ubayom Hashabbat
+    </grapheme>
+    <phoneme>
+      uvaˈjom haʃaˈbat
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Ubriut
     </grapheme>
     <phoneme>
@@ -1025,6 +1153,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Urim
+    </grapheme>
+    <phoneme>
+      uˈrim
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Uzzah
     </grapheme>
     <phoneme>
@@ -1037,6 +1173,14 @@
     </grapheme>
     <phoneme>
       vaˈje.ʁa
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      VaYasem Lecha
+    </grapheme>
+    <phoneme>
+      vajaˈsem leˈχa
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1209,6 +1353,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Vedibarta Bam
+    </grapheme>
+    <phoneme>
+      vedibarˈta bam
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Velo Tonu
     </grapheme>
     <phoneme>
@@ -1249,6 +1401,22 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Veyichunecha
+    </grapheme>
+    <phoneme>
+      vejiχuneˈχa
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Veyishmerecha
+    </grapheme>
+    <phoneme>
+      vejiʃmereˈχa
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Vicegerent
     </grapheme>
     <phoneme>
@@ -1269,6 +1437,14 @@
     </grapheme>
     <phoneme>
       jɑːɑːˈsɛ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Ya&apos;er
+    </grapheme>
+    <phoneme>
+      jaˈer
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1329,6 +1505,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Yah
+    </grapheme>
+    <phoneme>
+      ja
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Yam Suph
     </grapheme>
     <phoneme>
@@ -1361,6 +1545,30 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Yehoshua bin Nun
+    </grapheme>
+    <phoneme>
+      jehoˈʃua bin nun
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Yehuda
+    </grapheme>
+    <phoneme>
+      jehuˈda
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Yehuda ha-Nasi
+    </grapheme>
+    <phoneme>
+      jehuˈda hanaˈsi
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Yehudah
     </grapheme>
     <phoneme>
@@ -1389,6 +1597,14 @@
     </grapheme>
     <phoneme>
       jeʁoˈboʔam
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Yerushalaim
+    </grapheme>
+    <phoneme>
+      jeruʃaˈlajim
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1497,10 +1713,34 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Yevarechecha
+    </grapheme>
+    <phoneme>
+      jevaˈreχeχa
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Yichunecha
+    </grapheme>
+    <phoneme>
+      jiχuneˈχa
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Yid&apos;oni
     </grapheme>
     <phoneme>
       jiːdoʊˈniː
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Yigdal
+    </grapheme>
+    <phoneme>
+      jigˈdal
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1721,6 +1961,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Yom Tov
+    </grapheme>
+    <phoneme>
+      jom tov
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Yosef
     </grapheme>
     <phoneme>
@@ -1833,6 +2081,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Zeh Hadavar
+    </grapheme>
+    <phoneme>
+      ze hadaˈvar
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Zera&apos;
     </grapheme>
     <phoneme>
@@ -1845,6 +2101,14 @@
     </grapheme>
     <phoneme>
       ˈzeʁa
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Zevulun
+    </grapheme>
+    <phoneme>
+      zevuˈlun
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1885,6 +2149,14 @@
     </grapheme>
     <phoneme>
       zoʊˈnɑː
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Zugot
+    </grapheme>
+    <phoneme>
+      zuˈgot
     </phoneme>
   </lexeme>
   <lexeme>
