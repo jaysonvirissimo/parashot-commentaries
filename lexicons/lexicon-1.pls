@@ -417,6 +417,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Aminadab
+    </grapheme>
+    <phoneme>
+      ɑː.miˈnɑː.dæb
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Amoraim
     </grapheme>
     <phoneme>
@@ -1185,6 +1193,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Be&apos;ahavah
+    </grapheme>
+    <phoneme>
+      bəʔa.haˈvɑ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Be&apos;ashro
     </grapheme>
     <phoneme>
@@ -1429,6 +1445,14 @@
     </grapheme>
     <phoneme>
       benˈjamin
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Beracha
+    </grapheme>
+    <phoneme>
+      bəˈrɑ.xɑ
     </phoneme>
   </lexeme>
   <lexeme>
@@ -2153,6 +2177,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Chinam
+    </grapheme>
+    <phoneme>
+      χiˈnɑm
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Chobab
     </grapheme>
     <phoneme>
@@ -2277,6 +2309,14 @@
     </grapheme>
     <phoneme>
       χuˈpa
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Chutz la&apos;aretz
+    </grapheme>
+    <phoneme>
+      χuts lɑˈʔɑʁɛts
     </phoneme>
   </lexeme>
   <lexeme>

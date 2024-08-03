@@ -353,6 +353,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Gam Hem
+    </grapheme>
+    <phoneme>
+      ɡɑm hɛm
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Gamaliel
     </grapheme>
     <phoneme>
@@ -813,6 +821,14 @@
     </grapheme>
     <phoneme>
       hamoˈtsi
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Hamshuleshet
+    </grapheme>
+    <phoneme>
+      hɑm.ʃuˈle.ʃet
     </phoneme>
   </lexeme>
   <lexeme>
@@ -2257,6 +2273,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Mah
+    </grapheme>
+    <phoneme>
+      mɑ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Mah Tovu
     </grapheme>
     <phoneme>
@@ -2477,6 +2501,22 @@
     </grapheme>
     <phoneme>
       maˈtsil
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Mattatyahu
+    </grapheme>
+    <phoneme>
+      matˈtatyahu
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Mattityahu
+    </grapheme>
+    <phoneme>
+      mɑːtiːtˈjɑːhuː
     </phoneme>
   </lexeme>
 </lexicon>

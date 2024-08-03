@@ -1,22 +1,6 @@
 <lexicon version='1.0' xmlns='http://www.w3.org/2005/01/pronunciation-lexicon' alphabet='ipa' xml:lang='en-US'>
   <lexeme>
     <grapheme>
-      Mattatyahu
-    </grapheme>
-    <phoneme>
-      matˈtatyahu
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      Mattityahu
-    </grapheme>
-    <phoneme>
-      mɑːtiːtˈjɑːhuː
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       Matushelah
     </grapheme>
     <phoneme>
@@ -53,6 +37,14 @@
     </grapheme>
     <phoneme>
       majim ˈχajim
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Me&apos;ah
+    </grapheme>
+    <phoneme>
+      meˈʔɑ
     </phoneme>
   </lexeme>
   <lexeme>
@@ -149,6 +141,14 @@
     </grapheme>
     <phoneme>
       merkaˈva
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Meshech
+    </grapheme>
+    <phoneme>
+      ˈmɛ.ʃɛχ
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1089,6 +1089,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Nāśō et-rōšh
+    </grapheme>
+    <phoneme>
+      nɑˈso ʔɛt ʁoʃ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Obadiah
     </grapheme>
     <phoneme>
@@ -1197,6 +1205,14 @@
     </grapheme>
     <phoneme>
       ʕoʊnɛˈnim
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Orach
+    </grapheme>
+    <phoneme>
+      ˈɔ.rɑχ
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1373,6 +1389,14 @@
     </grapheme>
     <phoneme>
       pɑːˈsuːk
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Pasukim
+    </grapheme>
+    <phoneme>
+      pɑ.suˈkim
     </phoneme>
   </lexeme>
   <lexeme>
@@ -2401,6 +2425,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Shemoneh Esreh
+    </grapheme>
+    <phoneme>
+      ʃɛ.moˈnɛ ɛsˈrɛ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Shemot
     </grapheme>
     <phoneme>
@@ -2477,6 +2509,14 @@
     </grapheme>
     <phoneme>
       ʃiːmˈoʊn bɑːr joʊˈnɑː
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Shim&apos;on-Peter
+    </grapheme>
+    <phoneme>
+      ʃiːmˈoʊn ˈpiːtər
     </phoneme>
   </lexeme>
 </lexicon>

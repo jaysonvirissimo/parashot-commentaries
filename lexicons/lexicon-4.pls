@@ -1,14 +1,6 @@
 <lexicon version='1.0' xmlns='http://www.w3.org/2005/01/pronunciation-lexicon' alphabet='ipa' xml:lang='en-US'>
   <lexeme>
     <grapheme>
-      Shim&apos;on-Peter
-    </grapheme>
-    <phoneme>
-      ʃiːmˈoʊn ˈpiːtər
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       Shimshon
     </grapheme>
     <phoneme>
@@ -961,6 +953,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Tsibur
+    </grapheme>
+    <phoneme>
+      tsiˈbuʁ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Tsion
     </grapheme>
     <phoneme>
@@ -1497,6 +1497,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Yaeir Adonai panav eilecha viyechunecha
+    </grapheme>
+    <phoneme>
+      jaˈʔeʁ ɑ.doˈnɑj ˈpɑ.nɑv ɛ.jˈle.xɑ vi.jə.xuˈne.xɑ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Yael
     </grapheme>
     <phoneme>
@@ -1525,6 +1533,22 @@
     </grapheme>
     <phoneme>
       ˈjafet
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Ye&apos;simcha Elohim ke-Ephraim ve&apos;chi-Menashe
+    </grapheme>
+    <phoneme>
+      jəˈsim.xɑ ɛ.loˈhim keˈɛf.ra.jim vɛ.xi mɛˈnɑ.ʃe
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Ye&apos;simcha Elohim ke-Sarah, Rivka, Rachel ve-Leah
+    </grapheme>
+    <phoneme>
+      jəˈsim.xɑ ɛ.loˈhim keˈsɔ.rɑ ˈʁiv.kɑ ˈʁɑ.xel vɛˈle.ɑ
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1721,6 +1745,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Yevarechecha Adonai Veyishmerecha
+    </grapheme>
+    <phoneme>
+      jə.vaˈrɛ.xe.xɑ ɑ.doˈnɑj və.jiʃ.meˈʁe.xɑ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Yichunecha
     </grapheme>
     <phoneme>
@@ -1765,6 +1797,22 @@
     </grapheme>
     <phoneme>
       jiːrməˈjɑːhuː
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Yisa
+    </grapheme>
+    <phoneme>
+      jiˈsɑ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Yisa Adonai panav eilacha Ve yasem lecha shalom
+    </grapheme>
+    <phoneme>
+      jiˈsɑ ɑ.doˈnɑj ˈpɑ.nɑv ɛ.jˈlɑ.xɑ vɛ jəˈsɛm ləˈxɑ ʃɑˈlom
     </phoneme>
   </lexeme>
   <lexeme>
@@ -2469,14 +2517,6 @@
     </grapheme>
     <phoneme>
       jaˈdaχ tsaˈid
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      yashan
-    </grapheme>
-    <phoneme>
-      jaˈʃan
     </phoneme>
   </lexeme>
 </lexicon>
