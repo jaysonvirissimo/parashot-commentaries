@@ -1,14 +1,6 @@
 <lexicon version='1.0' xmlns='http://www.w3.org/2005/01/pronunciation-lexicon' alphabet='ipa' xml:lang='en-US'>
   <lexeme>
     <grapheme>
-      Matushelah
-    </grapheme>
-    <phoneme>
-      metuˈʃelaχ
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       Matzah
     </grapheme>
     <phoneme>
@@ -781,6 +773,14 @@
     </grapheme>
     <phoneme>
       naˈso
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Naso er-Rosh
+    </grapheme>
+    <phoneme>
+      ˈnaː.ʃo ˈeː.ʁoːʃ
     </phoneme>
   </lexeme>
   <lexeme>
@@ -2517,6 +2517,14 @@
     </grapheme>
     <phoneme>
       ʃiːmˈoʊn ˈpiːtər
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Shimshon
+    </grapheme>
+    <phoneme>
+      ʃimˈʃon
     </phoneme>
   </lexeme>
 </lexicon>

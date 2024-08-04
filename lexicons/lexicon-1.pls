@@ -2519,4 +2519,12 @@
       el ʃadˈdai
     </phoneme>
   </lexeme>
+  <lexeme>
+    <grapheme>
+      El&apos;azar
+    </grapheme>
+    <phoneme>
+      elˈazar
+    </phoneme>
+  </lexeme>
 </lexicon>

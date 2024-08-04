@@ -1,14 +1,6 @@
 <lexicon version='1.0' xmlns='http://www.w3.org/2005/01/pronunciation-lexicon' alphabet='ipa' xml:lang='en-US'>
   <lexeme>
     <grapheme>
-      El&apos;azar
-    </grapheme>
-    <phoneme>
-      elˈazar
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       El-Shaddai
     </grapheme>
     <phoneme>
@@ -237,6 +229,14 @@
     </grapheme>
     <phoneme>
       ˈefron
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Er-rosh
+    </grapheme>
+    <phoneme>
+      ɛʁ ˈʁoːʃ
     </phoneme>
   </lexeme>
   <lexeme>
@@ -2517,6 +2517,14 @@
     </grapheme>
     <phoneme>
       mɑːtiːtˈjɑːhuː
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Matushelah
+    </grapheme>
+    <phoneme>
+      metuˈʃelaχ
     </phoneme>
   </lexeme>
 </lexicon>
