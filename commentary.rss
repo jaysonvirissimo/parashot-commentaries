@@ -257,5 +257,12 @@
       <description>Commentary on Torah portion "Bamidbar" (Numbers 1:1-4:20)</description>
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/bamidbar.m4a" length="27083920" type="audio/mp4"/>
     </item>
+    <item>
+      <title>Nasso</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/nasso.m4a</guid>
+      <pubDate>Fri, 14 Jun 2024 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Nasso" (Numbers 4:21-7:89)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/nasso.m4a" length="28080958" type="audio/mp4"/>
+    </item>
   </channel>
 </rss>
