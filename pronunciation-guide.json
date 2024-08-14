@@ -187,9 +187,11 @@
   "Bereshit": "bəʁeˈʃit",
   "Beshallach": "beʃaˈlaχ",
   "Besorah": "bɛsɔˈrɑ",
+  "Besoroth": "be.soˈʁot",
   "Beth HaMikdash": "beɪt hɑˌmɪkˈdɑʃ",
   "Beth HaRishon": "bet haʁiˈʃon",
   "Beth Mishpat": "bet miʃˈpat",
+  "Beth She'arim": "beθ ʃeʔaˈrim",
   "Beth Sheni": "bet ʃeˈni",
   "Beth-Av": "bet ˈav",
   "Beth-El": "beit ˈʔel",
@@ -235,8 +237,11 @@
   "Chametz": "xɑˈmɛts",
   "Chanaf": "χaˈnaf",
   "Chanan": "χaˈnan",
+  "Chananya": "χaˈnanja",
   "Chanoch": "χaˈnoχ",
   "Chanukah": "ˈxɑnəkə",
+  "Chanukiah": "χanuˈkiːa",
+  "Chanukioth": "χanuˈkijot",
   "Chapetsim": "xɑpɛtˈsim",
   "Charan": "χaˈʁan",
   "Charon-Af": "χaʁon ˈaf",
@@ -289,6 +294,7 @@
   "Chumash": "ˈxumɑʃ",
   "Chupah": "χuˈpa",
   "Chutz la'aretz": "χuts lɑˈʔɑʁɛts",
+  "Civsu Begadim": "tsivˈsu beˈga.dim",
   "Cohanim": "koʔaˈnim",
   "Cohen": "ˈkɔhɛn",
   "Cushite": "ˈkʊʃaɪt",
@@ -318,6 +324,7 @@
   "El-Shaddai": "el ʃadˈdai",
   "Elat": "eɪˈlɑt",
   "Elazar": "ɛˈlɑzɑr",
+  "Eldad": "elˈdad",
   "Elecha": "eleˈχa",
   "Eleh": "ˈele",
   "Eleh toldot": "ˈeleh toˈlod",
@@ -398,6 +405,7 @@
   "HaNevua": "haneˈvua",
   "HaSatan": "haˈsatan",
   "HaTsadik": "hatsaˈdik",
+  "Haam": "haʔˈam",
   "Habakar": "habaˈkar",
   "Habakkuk": "χabaˈkuk",
   "Habanot": "χabaˈnot",
@@ -429,6 +437,7 @@
   "Hashem Tzva'ot": "haʃem tsvaˈʔot",
   "Hashem tzilcha": "haˈʃem t͡silkˈa",
   "Hashem-Tzva'ot": "haˈʃem t͡svaˈot",
+  "Hasheni": "haʃeˈni",
   "Hasidic": "χasiˈdik",
   "Haskel": "hɑsˈkɛl",
   "Hatsil": "haˈtsil",
@@ -489,6 +498,7 @@
   "Kareit": "kaˈʁeit",
   "Karmecha": "kaʁmeˈxa",
   "Kasdim": "ˈkas.dim",
+  "Kashah": "kaˈʃa",
   "Kashrut": "kaʃˈʁut",
   "Kavanah": "kaˈvanah",
   "Kavod": "kaˈvod",
@@ -574,6 +584,7 @@
   "Lecha": "ˈleχa",
   "Lechem": "lɛˈxɛm",
   "Ledoroth miyad": "leˈdoʁot miˈjad",
+  "Lehadliq": "le.hadˈlik",
   "Leimor": "leɪˈmoʊr",
   "Lekavod": "lekaˈvod",
   "Lekhahano-li": "leχahanoˈli",
@@ -638,6 +649,7 @@
   "Me'ah": "meˈʔɑ",
   "Meah Shearim": "meˈa ʃeˈʁim",
   "Mechilah": "meχiˈla",
+  "Medad": "meˈdad",
   "Meguneh": "mɛguːˈnɛ",
   "Mekadishchem": "mekadiʃˈxem",
   "Melachah": "melaˈχa",
@@ -900,6 +912,7 @@
   "Shabbatot": "ʃəˈbɑːtɔːt",
   "Shacharit": "ʃɑːxɑːˈriːt",
   "Shaddai": "ʃɑːˈdaɪ",
+  "Shafar'am": "ʃafʔaˈʁam",
   "Shafat": "ʃɑːˈfɑːt",
   "Shalem": "ʃaˈlem",
   "Shaliach": "ʃɑːˈliːɑːx",
@@ -911,6 +924,7 @@
   "Shalosh": "ʃaˈloʃ",
   "Sham": "ʃam",
   "Shammai": "ʃaˈmaj",
+  "Shammash": "ʃaˈmaʃ",
   "Shamor": "ʃaˈmoʁ",
   "Shaul": "ʃaˈul",
   "Shavua": "ʃɑːˈvuːɑː",
@@ -1022,6 +1036,7 @@
   "Tehorot": "təhoʊˈroʊt",
   "Teiva": "ˈtejva",
   "Teme'ah": "təmeɪˈɑː",
+  "Tenufa": "te.nuˈfa",
   "Terach": "ˈteʁaχ",
   "Terumah": "təruːˈmɑː",
   "Terumati": "tɛruˈmati",
@@ -1091,6 +1106,7 @@
   "Ultif'areth": "ultiˈfaʁet",
   "Ur Kasdim": "ʔuʁ kasˈdim",
   "Urim": "uˈrim",
+  "Usha": "ˈuʃa",
   "Uzzah": "ʌˈzɑː",
   "VAYERA": "vaˈje.ʁa",
   "VaYasem Lecha": "vajaˈsem leˈχa",
@@ -1124,6 +1140,7 @@
   "Veyichunecha": "vejiχuneˈχa",
   "Veyishmerecha": "vejiʃmereˈχa",
   "Vicegerent": "ˈviʃeʁent",
+  "Wayeh": "waˈjɛh",
   "YHWH": "ˈjɑːˌweɪ",
   "Ya'asse": "jɑːɑːˈsɛ",
   "Ya'er": "jaˈer",
@@ -1138,6 +1155,7 @@
   "Yah": "ja",
   "Yam Suph": "jam ˈsuf",
   "Yaphet": "ˈjafet",
+  "Yavneh": "ˈjav.ne",
   "Ye'simcha Elohim ke-Ephraim ve'chi-Menashe": "jəˈsim.xɑ ɛ.loˈhim keˈɛf.ra.jim vɛ.xi mɛˈnɑ.ʃe",
   "Ye'simcha Elohim ke-Sarah, Rivka, Rachel ve-Leah": "jəˈsim.xɑ ɛ.loˈhim keˈsɔ.rɑ ˈʁiv.kɑ ˈʁɑ.xel vɛˈle.ɑ",
   "Yechezkel": "jeχezˈkel",
@@ -1250,6 +1268,7 @@
   "ma'asse": "maˈʔasɛ",
   "mekheyniy naa misifrecha asher katavta": "mɛ.χeɪ.ˈni na ˈmi.sif.ʁɛ.xa aˈʃɛʁ ka.ˈtaf.ta",
   "mishpatim": "mɪʃˈpɑːtiːm",
+  "mitōnenim": "mi.toː.neˈnim",
   "na'arah": "naʔaˈra",
   "naar": "naˈʔar",
   "nachem": "naˈχem",
@@ -1264,23 +1283,4 @@
   "yashan": "jaˈʃan",
   "yōtṣ'ē y rēchô": "jot͡se jəˈʁeχo",
   "‘Erech": "ʔɛˈʁɛx"
-  "Medad": "meˈdad"
-  "Eldad": "elˈdad"
-  "Chananya": "χaˈnanja"
-  "mitōnenim": "mi.toː.neˈnim"
-  "Haam": "haʔˈam"
-  "Wayeh": "waˈjɛh"
-  "Kashah": "kaˈʃa"
-  "Hasheni": "haʃeˈni"
-  "Beth She'arim": "beθ ʃeʔaˈrim"
-  "Shafar'am": "ʃafʔaˈʁam"
-  "Usha": "ˈuʃa"
-  "Yavneh": "ˈjav.ne"
-  "Tenufa": "te.nuˈfa"
-  "Civsu Begadim": "tsivˈsu beˈga.dim"
-  "Besoroth": "be.soˈʁot"
-  "Lehadliq": "le.hadˈlik"
-  "Shammash": "ʃaˈmaʃ"
-  "Chanukioth": "χanuˈkijot"
-  "Chanukiah": "χanuˈkiːa"
 }
