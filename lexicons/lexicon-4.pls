@@ -1,6 +1,22 @@
 <lexicon version='1.0' xmlns='http://www.w3.org/2005/01/pronunciation-lexicon' alphabet='ipa' xml:lang='en-US'>
   <lexeme>
     <grapheme>
+      Netivot
+    </grapheme>
+    <phoneme>
+      ne.tiˈvot
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Netivot Shalom
+    </grapheme>
+    <phoneme>
+      netiˈvot ʃaˈlom
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Nevi&apos;im
     </grapheme>
     <phoneme>
@@ -221,6 +237,14 @@
     </grapheme>
     <phoneme>
       ˈɔ.rɑχ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Osse-Lecha
+    </grapheme>
+    <phoneme>
+      ʔɔsˈɛ lɛˈxɑ
     </phoneme>
   </lexeme>
   <lexeme>
@@ -681,6 +705,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Rachav Hazonah
+    </grapheme>
+    <phoneme>
+      ˈraxav haˈzonɑ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Rachmanut
     </grapheme>
     <phoneme>
@@ -733,6 +765,14 @@
     </grapheme>
     <phoneme>
       rɛgɑːˈliːm
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Regel
+    </grapheme>
+    <phoneme>
+      ˈrɛɡɛl
     </phoneme>
   </lexeme>
   <lexeme>
@@ -997,6 +1037,14 @@
     </grapheme>
     <phoneme>
       ˈseɪtən
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Schochet
+    </grapheme>
+    <phoneme>
+      ˈʃɔxɛt
     </phoneme>
   </lexeme>
   <lexeme>
@@ -2045,6 +2093,14 @@
     </grapheme>
     <phoneme>
       taˈnaχ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Tanchuma
+    </grapheme>
+    <phoneme>
+      tanˈχuma
     </phoneme>
   </lexeme>
 </lexicon>

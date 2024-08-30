@@ -1,14 +1,6 @@
 <lexicon version='1.0' xmlns='http://www.w3.org/2005/01/pronunciation-lexicon' alphabet='ipa' xml:lang='en-US'>
   <lexeme>
     <grapheme>
-      Tanchuma
-    </grapheme>
-    <phoneme>
-      tanˈχuma
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       Tanchuma Teruma
     </grapheme>
     <phoneme>
@@ -29,6 +21,14 @@
     </grapheme>
     <phoneme>
       tɑːzriːˈɑː
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Techeiles
+    </grapheme>
+    <phoneme>
+      təˈxɛɪlɛs
     </phoneme>
   </lexeme>
   <lexeme>
@@ -489,6 +489,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Tsitsah
+    </grapheme>
+    <phoneme>
+      tsiˈtsɑ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Tsitsit
     </grapheme>
     <phoneme>
@@ -525,6 +533,14 @@
     </grapheme>
     <phoneme>
       tuːˈmɑː
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Tur
+    </grapheme>
+    <phoneme>
+      tur
     </phoneme>
   </lexeme>
   <lexeme>
@@ -629,6 +645,14 @@
     </grapheme>
     <phoneme>
       uvaˈjom haʃaˈbat
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Ubina
+    </grapheme>
+    <phoneme>
+      uˈbinɑ
     </phoneme>
   </lexeme>
   <lexeme>
@@ -945,6 +969,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      We Mebin
+    </grapheme>
+    <phoneme>
+      vɛ məˈbin
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       YHWH
     </grapheme>
     <phoneme>
@@ -1053,6 +1085,14 @@
     </grapheme>
     <phoneme>
       ˈjafet
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Yasha
+    </grapheme>
+    <phoneme>
+      ˈjɑʃɑ
     </phoneme>
   </lexeme>
   <lexeme>
@@ -2045,6 +2085,22 @@
     </grapheme>
     <phoneme>
       ve.haˈju
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      yadah tsa&apos;id
+    </grapheme>
+    <phoneme>
+      jaˈdaχ tsaˈid
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      yashan
+    </grapheme>
+    <phoneme>
+      jaˈʃan
     </phoneme>
   </lexeme>
 </lexicon>

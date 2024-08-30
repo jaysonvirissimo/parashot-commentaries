@@ -1,22 +1,6 @@
 <lexicon version='1.0' xmlns='http://www.w3.org/2005/01/pronunciation-lexicon' alphabet='ipa' xml:lang='en-US'>
   <lexeme>
     <grapheme>
-      Chavah
-    </grapheme>
-    <phoneme>
-      xɑˈvɑ
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      Chaver
-    </grapheme>
-    <phoneme>
-      χaˈveʁ
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
       Chaverut
     </grapheme>
     <phoneme>
@@ -149,6 +133,22 @@
     </grapheme>
     <phoneme>
       kaɪˈæstɪk
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Chidushei
+    </grapheme>
+    <phoneme>
+      xiˈduʃɛ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Chilazon
+    </grapheme>
+    <phoneme>
+      xiˈlɑzɔn
     </phoneme>
   </lexeme>
   <lexeme>
@@ -305,6 +305,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Churban
+    </grapheme>
+    <phoneme>
+      ˈxurban
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Chutz la&apos;aretz
     </grapheme>
     <phoneme>
@@ -413,6 +421,14 @@
     </grapheme>
     <phoneme>
       daɪˈæspərə
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Dibbah
+    </grapheme>
+    <phoneme>
+      ˈdibbɑ
     </phoneme>
   </lexeme>
   <lexeme>
@@ -613,6 +629,14 @@
     </grapheme>
     <phoneme>
       ɛˈlɪʃə
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Elishama Ben Ammihud
+    </grapheme>
+    <phoneme>
+      ɛliˈʃɑmɑ bɛn ʔɑmiˈhud
     </phoneme>
   </lexeme>
   <lexeme>
@@ -865,6 +889,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Gaddi
+    </grapheme>
+    <phoneme>
+      ɡɑdˈdi
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Galil
     </grapheme>
     <phoneme>
@@ -877,6 +909,14 @@
     </grapheme>
     <phoneme>
       ˈgæləli
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Galus
+    </grapheme>
+    <phoneme>
+      ˈɡɑləs
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1009,6 +1049,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Gevihah ben Pesisa
+    </grapheme>
+    <phoneme>
+      ɡəˈvijɑ bɛn pɛˈsisa
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Gevurah
     </grapheme>
     <phoneme>
@@ -1069,6 +1117,14 @@
     </grapheme>
     <phoneme>
       gɔɪ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Goyim
+    </grapheme>
+    <phoneme>
+      ɡɔɪˈim
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1489,6 +1545,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Hause
+    </grapheme>
+    <phoneme>
+      haˈwɛ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Havdalah
     </grapheme>
     <phoneme>
@@ -1521,6 +1585,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Hazeroth
+    </grapheme>
+    <phoneme>
+      xɑzɛˈrot
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Hebron
     </grapheme>
     <phoneme>
@@ -1541,6 +1613,14 @@
     </grapheme>
     <phoneme>
       ˈhɪl.xɔt
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Hemah
+    </grapheme>
+    <phoneme>
+      ˈhɛma
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1825,6 +1905,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Kach-Lecha
+    </grapheme>
+    <phoneme>
+      kɑx ˈlɛxɑ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Kadash
     </grapheme>
     <phoneme>
@@ -1961,6 +2049,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Katan
+    </grapheme>
+    <phoneme>
+      kaˈtan
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Kavanah
     </grapheme>
     <phoneme>
@@ -2005,46 +2101,6 @@
     </grapheme>
     <phoneme>
       kedoˈʃim
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      Kedusha
-    </grapheme>
-    <phoneme>
-      keduˈʃa
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      Kedushah
-    </grapheme>
-    <phoneme>
-      keduˈʃa
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      Kehilah
-    </grapheme>
-    <phoneme>
-      kehiˈla
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      Kehunah
-    </grapheme>
-    <phoneme>
-      kehuˈna
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      Kehunah Gedolah
-    </grapheme>
-    <phoneme>
-      kehuˈna gedoˈla
     </phoneme>
   </lexeme>
 </lexicon>

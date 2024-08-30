@@ -705,6 +705,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Attem
+    </grapheme>
+    <phoneme>
+      ʔɑˈtɛm
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Av
     </grapheme>
     <phoneme>
@@ -1337,6 +1345,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Bekhiah Ledorot
+    </grapheme>
+    <phoneme>
+      bəˈxijɑ lɛdoˈrot
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Bekhorot
     </grapheme>
     <phoneme>
@@ -1657,6 +1673,14 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Bin
+    </grapheme>
+    <phoneme>
+      bin
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Binah
     </grapheme>
     <phoneme>
@@ -1717,6 +1741,14 @@
     </grapheme>
     <phoneme>
       boˈʁeh
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Boruch
+    </grapheme>
+    <phoneme>
+      ˈbɔrux
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1805,6 +1837,14 @@
     </grapheme>
     <phoneme>
       xɑxɑˈmim
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Chafar
+    </grapheme>
+    <phoneme>
+      xaˈfar
     </phoneme>
   </lexeme>
   <lexeme>
@@ -2045,6 +2085,22 @@
     </grapheme>
     <phoneme>
       xɑˈtɑt
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Chavah
+    </grapheme>
+    <phoneme>
+      xɑˈvɑ
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Chaver
+    </grapheme>
+    <phoneme>
+      χaˈveʁ
     </phoneme>
   </lexeme>
 </lexicon>

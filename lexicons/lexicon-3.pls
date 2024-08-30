@@ -1,6 +1,46 @@
 <lexicon version='1.0' xmlns='http://www.w3.org/2005/01/pronunciation-lexicon' alphabet='ipa' xml:lang='en-US'>
   <lexeme>
     <grapheme>
+      Kedusha
+    </grapheme>
+    <phoneme>
+      keduˈʃa
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Kedushah
+    </grapheme>
+    <phoneme>
+      keduˈʃa
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Kehilah
+    </grapheme>
+    <phoneme>
+      kehiˈla
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Kehunah
+    </grapheme>
+    <phoneme>
+      kehuˈna
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Kehunah Gedolah
+    </grapheme>
+    <phoneme>
+      kehuˈna gedoˈla
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Kema&apos;aseh
     </grapheme>
     <phoneme>
@@ -237,6 +277,14 @@
     </grapheme>
     <phoneme>
       klal jisʁaˈel
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Kli Yakar
+    </grapheme>
+    <phoneme>
+      kli jɑˈkar
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1793,10 +1841,26 @@
   </lexeme>
   <lexeme>
     <grapheme>
+      Nanashim
+    </grapheme>
+    <phoneme>
+      naˈnɑʃim
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
       Naplouse
     </grapheme>
     <phoneme>
       naˈpluse
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Nasa
+    </grapheme>
+    <phoneme>
+      ˈnɑsɑ
     </phoneme>
   </lexeme>
   <lexeme>
@@ -1861,6 +1925,14 @@
     </grapheme>
     <phoneme>
       nɑːtsɛˈrɛt
+    </phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>
+      Naue
+    </grapheme>
+    <phoneme>
+      naˈwɛ
     </phoneme>
   </lexeme>
   <lexeme>
@@ -2029,22 +2101,6 @@
     </grapheme>
     <phoneme>
       nes
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      Netivot
-    </grapheme>
-    <phoneme>
-      ne.tiˈvot
-    </phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>
-      Netivot Shalom
-    </grapheme>
-    <phoneme>
-      netiˈvot ʃaˈlom
     </phoneme>
   </lexeme>
 </lexicon>
