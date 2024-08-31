@@ -271,5 +271,12 @@
       <description>Commentary on Torah portion "Beha'alotcha" (Numbers 8:1-12:16)</description>
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/behalotcha.m4a" length="43361414" type="audio/mp4"/>
     </item>
+    <item>
+      <title>Shelach</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/shelach.m4a</guid>
+      <pubDate>Fri, 28 Jun 2024 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Shelach" (Numbers 13:1-15:41)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/shelach.m4a" length="" type="audio/mp4"/>
+    </item>
   </channel>
 </rss>
