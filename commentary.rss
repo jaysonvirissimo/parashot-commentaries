@@ -41,6 +41,13 @@
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/noach.m4a" length="34947899" type="audio/mp4"/>
     </item>
     <item>
+      <title>Noach Haftara</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/noach-haftara.m4a</guid>
+      <pubDate>Sat, 02 Nov 2024 18:00:00 -0700</pubDate>
+      <description>Commentary on Haftara portion "Noach"</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/noach-haftara.m4a" length="8811110" type="audio/mp4"/>
+    </item>
+    <item>
       <title>Lech-Lecha</title>
       <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/lech-lecha.mp3</guid>
       <pubDate>Fri, 27 Oct 2023 18:00:00 -0700</pubDate>
