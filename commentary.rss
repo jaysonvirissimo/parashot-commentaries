@@ -64,9 +64,16 @@
     <item>
       <title>Vayera</title>
       <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayera.mp3</guid>
-      <pubDate>Fri, 03 Nov 2023 18:00:00 -0700</pubDate>
+      <pubDate>Fri, 15 Nov 2024 18:00:00 -0700</pubDate>
       <description>Commentary on Torah portion "Vayera" (Genesis 18:1-22:24)</description>
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayera.mp3" length="43519918" type="audio/mp3"/>
+    </item>
+    <item>
+      <title>Vayera Haftara</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayera-haftara.m4a</guid>
+      <pubDate>Sat, 16 Nov 2024 18:00:00 -0700</pubDate>
+      <description>Commentary on Haftara portion "Vayera"</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayera-haftara.m4a" length="9388200" type="audio/mp4"/>
     </item>
     <item>
       <title>Chayei Sarah</title>
