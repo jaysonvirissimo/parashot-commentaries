@@ -16,6 +16,7 @@
       <itunes:name>Lizette</itunes:name>
       <itunes:email>xoxo.ltd@gmail.com</itunes:email>
     </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/images/commentary.jpeg"/>
     <itunes:category text="Religion &amp; Spirituality"/>
 
