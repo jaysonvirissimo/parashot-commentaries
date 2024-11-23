@@ -2,9 +2,11 @@ require 'json'
 require 'rexml/document'
 require 'rspec'
 require 'time'
+require 'uri'
 
 RSpec.describe "Commentary JSON file" do
   let(:file_path) { File.join(File.dirname(__FILE__), '..', 'commentary.json') }
+  let(:audio_directory) { File.join(File.dirname(__FILE__), '..', 'audio') }
 
   it "is valid JSON" do
     expect {
@@ -17,28 +19,50 @@ RSpec.describe "Commentary JSON file" do
     file_content = File.read(file_path)
     data = JSON.parse(file_content)
 
-    data['items'].each do |item|
-      pub_date_str = item['pubDate']
+    # Assuming all items have a 'pubDate' key
+    if data['items']
+      data['items'].each do |item|
+        pub_date_str = item['pubDate']
 
-      # Check that the pubDate is in the correct RFC 2822 format and parseable
-      parsed_date = nil
-      expect {
+        # Validate that pubDate is parseable
+        expect {
+          Time.rfc2822(pub_date_str)
+        }.not_to raise_error, "Invalid date format: #{pub_date_str}"
+
+        # Check if the date's day of the week matches the pubDate string
         parsed_date = Time.rfc2822(pub_date_str)
-      }.not_to raise_error, "Invalid date format: #{pub_date_str}"
+        expected_day_of_week = parsed_date.strftime('%a')
+        actual_day_of_week = pub_date_str.split(',').first.strip
 
-      # Validate that the day of the week in pubDate matches the parsed date
-      expected_day_of_week = parsed_date.strftime('%a')
-      actual_day_of_week = pub_date_str.split(',').first.strip
-      expect(actual_day_of_week).to eq(expected_day_of_week),
-        "Incorrect day of the week in pubDate: #{pub_date_str}. Expected: #{expected_day_of_week}, but got: #{actual_day_of_week}"
+        if expected_day_of_week != actual_day_of_week
+          raise "Incorrect day of the week in pubDate: #{pub_date_str}. Expected day: #{expected_day_of_week}, but got: #{actual_day_of_week}"
+        end
 
-      # Check if the date is within a reasonable range (10 years in the past to 5 years in the future)
-      now = Time.now
-      ten_years_ago = now - (10 * 365 * 24 * 60 * 60)
-      five_years_from_now = now + (5 * 365 * 24 * 60 * 60)
+        # Check if the date is plausible (reasonable range)
+        now = Time.now
+        ten_years_ago = now - (10 * 365 * 24 * 60 * 60) # 10 years ago
+        five_years_from_now = now + (5 * 365 * 24 * 60 * 60) # 5 years into the future
 
-      expect(parsed_date).to be_between(ten_years_ago, five_years_from_now),
-        "Implausible date: #{pub_date_str}. Should be between #{ten_years_ago.rfc2822} and #{five_years_from_now.rfc2822}"
+        expect(parsed_date).to be_between(ten_years_ago, five_years_from_now),
+          "Implausible date: #{pub_date_str}. Should be between #{ten_years_ago.rfc2822} and #{five_years_from_now.rfc2822}"
+      end
+    end
+  end
+
+  it "has corresponding audio files for each episode" do
+    file_content = File.read(file_path)
+    data = JSON.parse(file_content)
+
+    if data['items']
+      data['items'].each do |item|
+        enclosure_url = item['enclosure']['url']
+        parsed_uri = URI.parse(enclosure_url)
+        file_name = File.basename(parsed_uri.path)
+        local_file_path = File.join(audio_directory, file_name)
+
+        # Corrected expect syntax
+        expect(File.exist?(local_file_path)).to eq(true), "Audio file not found: #{local_file_path}"
+      end
     end
   end
 end
