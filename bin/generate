@@ -8,6 +8,8 @@ json_file = File.join(File.dirname(__FILE__), '..', 'commentary.json')
 file_content = File.read(json_file)
 data = JSON.parse(file_content)
 
+# Sort items by pubDate in descending order (most recent first)
+data['items'] = data['items'].sort_by { |item| Time.rfc2822(item['pubDate']) }.reverse
 
 builder = Nokogiri::XML::Builder.new do |xml|
   xml.rss(version: "2.0", 'xmlns:itunes' => "http://www.itunes.com/dtds/podcast-1.0.dtd", 'xmlns:atom' => "http://www.w3.org/2005/Atom") {
@@ -37,7 +39,7 @@ builder = Nokogiri::XML::Builder.new do |xml|
       xml['itunes'].image(href: data['image'])
       xml['itunes'].category(text: data['category'])
 
-      # Adding the items
+      # Adding the items in descending order of publication date
       if data['items']
         data['items'].each do |item|
           xml.item {
