@@ -2,6 +2,7 @@
 
 require 'json'
 require 'nokogiri'
+require 'time'
 
 # Load episode data from JSON file
 json_file = File.join(File.dirname(__FILE__), '..', 'commentary.json')
@@ -9,7 +10,7 @@ file_content = File.read(json_file)
 data = JSON.parse(file_content)
 
 # Sort items by pubDate in descending order (most recent first)
-data['items'] = data['items'].sort_by { |item| Time.rfc2822(item['pubDate']) }.reverse
+data['items'] = data['items'].sort_by { |item| Time.parse(item['pubDate']) }.reverse
 
 builder = Nokogiri::XML::Builder.new do |xml|
   xml.rss(version: "2.0", 'xmlns:itunes' => "http://www.itunes.com/dtds/podcast-1.0.dtd", 'xmlns:atom' => "http://www.w3.org/2005/Atom") {
@@ -22,6 +23,9 @@ builder = Nokogiri::XML::Builder.new do |xml|
       xml['itunes'].author data['author']
       xml['itunes'].summary data['summary']
       xml.description data['description']
+
+      # Add atom:link for self-referencing feed URL
+      xml['atom'].link(href: data['link'], rel: 'self', type: 'application/rss+xml')
 
       # Add the itunes owner
       if data['owner']
@@ -56,6 +60,7 @@ builder = Nokogiri::XML::Builder.new do |xml|
 end
 
 # Write the XML to commentary.rss
-File.write('commentary.rss', builder.to_xml)
+rss_file = File.join(File.dirname(__FILE__), '..', 'commentary.rss')
+File.write(rss_file, builder.to_xml)
 
 puts "RSS feed successfully generated!"

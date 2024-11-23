@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <atom:link href="https://raw.githubusercontent.com/jaysonvirissimo/parashot-commentaries/refs/heads/main/commentary.rss" rel="self" type="application/rss+xml" />
     <title>Pearls of Torah</title>
     <link>https://sweetjulian.co/pearls-of-torah/</link>
     <language>en-US</language>
@@ -13,6 +12,7 @@
     <description>
       A torah commentary reading podcast. Dive deep into the profound and timeless wisdom of the Torah. Join us as we embark on a weekly journey through the pages of 'Bible Commentary Based on Jewish Sources and Thought' by Dr. Richard A. Elofer. Gain a deeper understanding of the Torah, enriched by a Messianic perspective that adds a unique layer of insight. Tune in and let these pearls of wisdom from the Torah illuminate your path.
     </description>
+    <atom:link href="https://sweetjulian.co/pearls-of-torah/" rel="self" type="application/rss+xml"/>
     <itunes:owner>
       <itunes:name>Lizette</itunes:name>
       <itunes:email>xoxo.ltd@gmail.com</itunes:email>
@@ -20,237 +20,54 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/images/commentary.jpeg"/>
     <itunes:category text="Religion &amp; Spirituality"/>
-
     <item>
-      <title>Bereshit</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/bereshit.m4a</guid>
-      <pubDate>Fri, 25 Oct 2024 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Bereshit" (Genesis 1:1-6:8)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/bereshit.m4a" length="37063847" type="audio/mp4"/>
+      <title>Shelach</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/shelach.m4a</guid>
+      <pubDate>Fri, 20 Jun 2025 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Shelach" (Numbers 13:1-15:41)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/shelach.m4a" length="33773052" type="audio/mp4"/>
     </item>
     <item>
-      <title>Bereshit Haftara</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/bereshit-haftara.m4a</guid>
-      <pubDate>Sat, 26 Oct 2024 18:00:00 -0700</pubDate>
-      <description>Commentary on Haftara portion "Bereshit"</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/bereshit-haftara.m4a" length="12610213" type="audio/mp4"/>
+      <title>Beha'alotcha</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/behalotcha.m4a</guid>
+      <pubDate>Fri, 13 Jun 2025 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Beha'alotcha" (Numbers 8:1-12:16)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/behalotcha.m4a" length="43361414" type="audio/mp4"/>
     </item>
     <item>
-      <title>Noach</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/noach.m4a</guid>
-      <pubDate>Fri, 01 Nov 2024 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Noach" (Genesis 6:9-11:32)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/noach.m4a" length="34947899" type="audio/mp4"/>
+      <title>Nasso</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/nasso.m4a</guid>
+      <pubDate>Fri, 06 Jun 2025 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Nasso" (Numbers 4:21-7:89)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/nasso.m4a" length="28080958" type="audio/mp4"/>
     </item>
     <item>
-      <title>Noach Haftara</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/noach-haftara.m4a</guid>
-      <pubDate>Sat, 02 Nov 2024 18:00:00 -0700</pubDate>
-      <description>Commentary on Haftara portion "Noach"</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/noach-haftara.m4a" length="8811110" type="audio/mp4"/>
+      <title>Bamidbar</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/bamidbar.m4a</guid>
+      <pubDate>Fri, 30 May 2025 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Bamidbar" (Numbers 1:1-4:20)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/bamidbar.m4a" length="27083920" type="audio/mp4"/>
     </item>
     <item>
-      <title>Lech-Lecha</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/lech-lecha.mp3</guid>
-      <pubDate>Fri, 08 Nov 2024 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Lech-Lecha" (Genesis 12:1-17:27)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/lech-lecha.mp3" length="57260745" type="audio/mp3"/>
+      <title>Bechukotai</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/bechukotai.m4a</guid>
+      <pubDate>Fri, 23 May 2025 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Bechukotai" (Leveticus 26:3-27:34)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/bechukotai.m4a" length="25212900" type="audio/mp4"/>
     </item>
     <item>
-      <title>Lech-Lecha Haftara</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/lech-lecha-haftara.m4a</guid>
-      <pubDate>Sat, 09 Nov 2024 18:00:00 -0700</pubDate>
-      <description>Commentary on Haftara portion "Lech-Lecha"</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/lech-lecha-haftara.m4a" length="9484381" type="audio/mp4"/>
+      <title>Behar</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/behar.m4a</guid>
+      <pubDate>Fri, 23 May 2025 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Behar" (Leveticus 25:1-26:2)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/behar.m4a" length="25580261" type="audio/mp4"/>
     </item>
     <item>
-      <title>Vayera</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayera.mp3</guid>
-      <pubDate>Fri, 15 Nov 2024 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Vayera" (Genesis 18:1-22:24)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayera.mp3" length="43519918" type="audio/mp3"/>
-    </item>
-    <item>
-      <title>Vayera Haftara</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayera-haftara.m4a</guid>
-      <pubDate>Sat, 16 Nov 2024 18:00:00 -0700</pubDate>
-      <description>Commentary on Haftara portion "Vayera"</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayera-haftara.m4a" length="9388200" type="audio/mp4"/>
-    </item>
-    <item>
-      <title>Chayei Sarah</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/chayei-sarah.m4a</guid>
-      <pubDate>Fri, 22 Nov 2024 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Chayei Sarah" (Genesis 23:1-25:18)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/chayei-sarah.m4a" length="31499551" type="audio/mp4"/>
-    </item>
-    <item>
-      <title>Chayei Sarah Haftara</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/chayei-sarah-haftara.m4a</guid>
-      <pubDate>Sat, 23 Nov 2024 18:00:00 -0700</pubDate>
-      <description>Commentary on Haftara portion "Chayei Sarah"</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/chayei-sarah-haftara.m4a" length="12826616" type="audio/mp4"/>
-    </item>
-    <item>
-      <title>Toldot</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/toldot.mp3</guid>
-      <pubDate>Fri, 29 Nov 2024 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Toldot" (Genesis 25:19-28:9)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/toldot.mp3" length="50483955" type="audio/mp3"/>
-    </item>
-    <item>
-      <title>Vayetze</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayetze.mp3</guid>
-      <pubDate>Fri, 06 Dec 2024 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Vayetze" (Genesis 28:10-32:3)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayetze.mp3" length="49604568" type="audio/mp3"/>
-    </item>
-    <item>
-      <title>Vayishlach</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayishlach.m4a</guid>
-      <pubDate>Fri, 13 Dec 2024 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Vayishlach" (Genesis 32:4-36:43)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayishlach.m4a" length="25110277" type="audio/mp4"/>
-    </item>
-    <item>
-      <title>Vayeshev</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayeshev.m4a</guid>
-      <pubDate>Fri, 20 Dec 2024 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Vayeshev" (Genesis 37:1-40:23)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayeshev.m4a" length="31115075" type="audio/mp4"/>
-    </item>
-    <item>
-      <title>Miketz</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/miketz.m4a</guid>
-      <pubDate>Fri, 27 Dec 2024 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Miketz" (Genesis 41:1-44:17)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/miketz.m4a" length="24281921 " type="audio/mp4"/>
-    </item>
-    <item>
-      <title>Vayigash</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayigash.m4a</guid>
-      <pubDate>Fri, 03 Jan 2025 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Vayigash" (Genesis 44:18-47:27)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayigash.m4a" length="20383538" type="audio/mp4"/>
-    </item>
-    <item>
-      <title>Vayechi</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayechi.m4a</guid>
-      <pubDate>Fri, 10 Jan 2025 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Vayechi" (Genesis 47:28-50:26)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayechi.m4a" length="20754636" type="audio/mp4"/>
-    </item>
-    <item>
-      <title>Shemot</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/shemot.m4a</guid>
-      <pubDate>Fri, 17 Jan 2025 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Shemot" (Exodus 1:1-6:1)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/shemot.m4a" length="30302412" type="audio/mp4"/>
-    </item>
-    <item>
-      <title>Vaera</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vaera.m4a</guid>
-      <pubDate>Fri, 24 Jan 2025 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Vaera" (Exodus 6:2-9:35)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vaera.m4a" length="24079345" type="audio/mp4"/>
-    </item>
-    <item>
-      <title>Bo</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/bo.m4a</guid>
-      <pubDate>Fri, 31 Jan 2025 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Bo" (Exodus 10:1-13:16)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/bo.m4a" length="28602843" type="audio/mp4"/>
-    </item>
-    <item>
-      <title>Beshalach</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/beshalach.m4a</guid>
-      <pubDate>Fri, 07 Feb 2025 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Beshalach" (Exodus 13:17-17:16)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/beshalach.m4a" length="25737609" type="audio/mp4"/>
-    </item>
-    <item>
-      <title>Yitro</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/yitro.m4a</guid>
-      <pubDate>Fri, 14 Feb 2025 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Yitro" (Exodus 18:1-20:23)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/yitro.m4a" length="35113437" type="audio/mp4"/>
-    </item>
-    <item>
-      <title>Mishpatim</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/mishpatim.m4a</guid>
-      <pubDate>Fri, 21 Feb 2025 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Mishpatim" (Exodus 21:1-24:18)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/mishpatim.m4a" length="27484919" type="audio/mp4"/>
-    </item>
-    <item>
-      <title>Terumah</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/terumah.m4a</guid>
-      <pubDate>Fri, 28 Feb 2025 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Terumah" (Exodus 25:1-27:19)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/terumah.m4a" length="26615476" type="audio/mp4"/>
-    </item>
-    <item>
-      <title>Tetzaveh</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/tetzaveh.m4a</guid>
-      <pubDate>Fri, 07 Mar 2025 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Tetzaveh" (Exodus 27:20-30:10)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/tetzaveh.m4a" length="27210152" type="audio/mp4"/>
-    </item>
-    <item>
-      <title>Ki Tisa</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/ki-tisa.m4a</guid>
-      <pubDate>Fri, 14 Mar 2025 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Ki Tisa" (Exodus 30:11-34:35)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/ki-tisa.m4a" length="31848199" type="audio/mp4"/>
-    </item>
-    <item>
-      <title>Vayak'hel</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayakhel.m4a</guid>
-      <pubDate>Fri, 21 Mar 2025 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Vayak'hel" (Exodus 35:1-38:20)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayakhel.m4a" length="39203841" type="audio/mp4"/>
-    </item>
-    <item>
-      <title>Pekudei</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/pekudei.m4a</guid>
-      <pubDate>Fri, 28 Mar 2025 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Pekudei" (Exodus 38:21-40:38)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/pekudei.m4a" length="38915302" type="audio/mp4"/>
-    </item>
-    <item>
-      <title>Vayikra</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayikra.m4a</guid>
-      <pubDate>Fri, 04 Apr 2025 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Vayikra" (Leveticus 1:1-5:26)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayikra.m4a" length="33732580" type="audio/mp4"/>
-    </item>
-    <item>
-      <title>Tzav</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/tzav.m4a</guid>
-      <pubDate>Fri, 11 Apr 2025 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Tzav" (Leveticus 6:1-8:36)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/tzav.m4a" length="40814832" type="audio/mp4"/>
-    </item>
-    <item>
-      <title>Sh'mini</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/shmini.m4a</guid>
-      <pubDate>Fri, 25 Apr 2025 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Sh'mini" (Leveticus 9:1-11:47)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/shmini.m4a" length="30998217" type="audio/mp4"/>
-    </item>
-    <item>
-      <title>Tazria</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/tazria.m4a</guid>
-      <pubDate>Fri, 02 May 2025 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Tazria" (Leveticus 12:1-13:5)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/tazria.m4a" length="22042187" type="audio/mp4"/>
-    </item>
-    <item>
-      <title>Metzora</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/metzora.m4a</guid>
-      <pubDate>Fri, 02 May 2025 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Metzora" (Leveticus 14:1-15:33)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/metzora.m4a" length="29898476" type="audio/mp4"/>
+      <title>Emor</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/emor.m4a</guid>
+      <pubDate>Fri, 16 May 2025 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Emor" (Leveticus 21:1-24:23)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/emor.m4a" length="32233060" type="audio/mp4"/>
     </item>
     <item>
       <title>Acharei Mot</title>
@@ -267,53 +84,235 @@
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/kedoshim.m4a" length="30259146" type="audio/mp4"/>
     </item>
     <item>
-      <title>Emor</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/emor.m4a</guid>
-      <pubDate>Fri, 16 May 2025 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Emor" (Leveticus 21:1-24:23)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/emor.m4a" length="32233060" type="audio/mp4"/>
+      <title>Tazria</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/tazria.m4a</guid>
+      <pubDate>Fri, 02 May 2025 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Tazria" (Leveticus 12:1-13:5)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/tazria.m4a" length="22042187" type="audio/mp4"/>
     </item>
     <item>
-      <title>Behar</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/behar.m4a</guid>
-      <pubDate>Fri, 23 May 2025 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Behar" (Leveticus 25:1-26:2)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/behar.m4a" length="25580261" type="audio/mp4"/>
+      <title>Metzora</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/metzora.m4a</guid>
+      <pubDate>Fri, 02 May 2025 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Metzora" (Leveticus 14:1-15:33)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/metzora.m4a" length="29898476" type="audio/mp4"/>
     </item>
     <item>
-      <title>Bechukotai</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/bechukotai.m4a</guid>
-      <pubDate>Fri, 23 May 2025 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Bechukotai" (Leveticus 26:3-27:34)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/bechukotai.m4a" length="25212900" type="audio/mp4"/>
+      <title>Sh'mini</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/shmini.m4a</guid>
+      <pubDate>Fri, 25 Apr 2025 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Sh'mini" (Leveticus 9:1-11:47)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/shmini.m4a" length="30998217" type="audio/mp4"/>
     </item>
     <item>
-      <title>Bamidbar</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/bamidbar.m4a</guid>
-      <pubDate>Fri, 30 May 2025 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Bamidbar" (Numbers 1:1-4:20)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/bamidbar.m4a" length="27083920" type="audio/mp4"/>
+      <title>Tzav</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/tzav.m4a</guid>
+      <pubDate>Fri, 11 Apr 2025 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Tzav" (Leveticus 6:1-8:36)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/tzav.m4a" length="40814832" type="audio/mp4"/>
     </item>
     <item>
-      <title>Nasso</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/nasso.m4a</guid>
-      <pubDate>Fri, 06 Jun 2025 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Nasso" (Numbers 4:21-7:89)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/nasso.m4a" length="28080958" type="audio/mp4"/>
+      <title>Vayikra</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayikra.m4a</guid>
+      <pubDate>Fri, 04 Apr 2025 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Vayikra" (Leveticus 1:1-5:26)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayikra.m4a" length="33732580" type="audio/mp4"/>
     </item>
     <item>
-      <title>Beha'alotcha</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/behalotcha.m4a</guid>
-      <pubDate>Fri, 13 Jun 2025 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Beha'alotcha" (Numbers 8:1-12:16)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/behalotcha.m4a" length="43361414" type="audio/mp4"/>
+      <title>Pekudei</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/pekudei.m4a</guid>
+      <pubDate>Fri, 28 Mar 2025 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Pekudei" (Exodus 38:21-40:38)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/pekudei.m4a" length="38915302" type="audio/mp4"/>
     </item>
     <item>
-      <title>Shelach</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/shelach.m4a</guid>
-      <pubDate>Fri, 20 Jun 2025 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Shelach" (Numbers 13:1-15:41)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/shelach.m4a" length="33773052" type="audio/mp4"/>
+      <title>Vayak'hel</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayakhel.m4a</guid>
+      <pubDate>Fri, 21 Mar 2025 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Vayak'hel" (Exodus 35:1-38:20)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayakhel.m4a" length="39203841" type="audio/mp4"/>
+    </item>
+    <item>
+      <title>Ki Tisa</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/ki-tisa.m4a</guid>
+      <pubDate>Fri, 14 Mar 2025 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Ki Tisa" (Exodus 30:11-34:35)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/ki-tisa.m4a" length="31848199" type="audio/mp4"/>
+    </item>
+    <item>
+      <title>Tetzaveh</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/tetzaveh.m4a</guid>
+      <pubDate>Fri, 07 Mar 2025 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Tetzaveh" (Exodus 27:20-30:10)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/tetzaveh.m4a" length="27210152" type="audio/mp4"/>
+    </item>
+    <item>
+      <title>Terumah</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/terumah.m4a</guid>
+      <pubDate>Fri, 28 Feb 2025 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Terumah" (Exodus 25:1-27:19)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/terumah.m4a" length="26615476" type="audio/mp4"/>
+    </item>
+    <item>
+      <title>Mishpatim</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/mishpatim.m4a</guid>
+      <pubDate>Fri, 21 Feb 2025 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Mishpatim" (Exodus 21:1-24:18)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/mishpatim.m4a" length="27484919" type="audio/mp4"/>
+    </item>
+    <item>
+      <title>Yitro</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/yitro.m4a</guid>
+      <pubDate>Fri, 14 Feb 2025 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Yitro" (Exodus 18:1-20:23)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/yitro.m4a" length="35113437" type="audio/mp4"/>
+    </item>
+    <item>
+      <title>Beshalach</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/beshalach.m4a</guid>
+      <pubDate>Fri, 07 Feb 2025 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Beshalach" (Exodus 13:17-17:16)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/beshalach.m4a" length="25737609" type="audio/mp4"/>
+    </item>
+    <item>
+      <title>Bo</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/bo.m4a</guid>
+      <pubDate>Fri, 31 Jan 2025 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Bo" (Exodus 10:1-13:16)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/bo.m4a" length="28602843" type="audio/mp4"/>
+    </item>
+    <item>
+      <title>Vaera</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vaera.m4a</guid>
+      <pubDate>Fri, 24 Jan 2025 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Vaera" (Exodus 6:2-9:35)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vaera.m4a" length="24079345" type="audio/mp4"/>
+    </item>
+    <item>
+      <title>Shemot</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/shemot.m4a</guid>
+      <pubDate>Fri, 17 Jan 2025 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Shemot" (Exodus 1:1-6:1)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/shemot.m4a" length="30302412" type="audio/mp4"/>
+    </item>
+    <item>
+      <title>Vayechi</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayechi.m4a</guid>
+      <pubDate>Fri, 10 Jan 2025 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Vayechi" (Genesis 47:28-50:26)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayechi.m4a" length="20754636" type="audio/mp4"/>
+    </item>
+    <item>
+      <title>Vayigash</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayigash.m4a</guid>
+      <pubDate>Fri, 03 Jan 2025 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Vayigash" (Genesis 44:18-47:27)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayigash.m4a" length="20383538" type="audio/mp4"/>
+    </item>
+    <item>
+      <title>Miketz</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/miketz.m4a</guid>
+      <pubDate>Fri, 27 Dec 2024 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Miketz" (Genesis 41:1-44:17)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/miketz.m4a" length="24281921 " type="audio/mp4"/>
+    </item>
+    <item>
+      <title>Vayeshev</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayeshev.m4a</guid>
+      <pubDate>Fri, 20 Dec 2024 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Vayeshev" (Genesis 37:1-40:23)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayeshev.m4a" length="31115075" type="audio/mp4"/>
+    </item>
+    <item>
+      <title>Vayishlach</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayishlach.m4a</guid>
+      <pubDate>Fri, 13 Dec 2024 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Vayishlach" (Genesis 32:4-36:43)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayishlach.m4a" length="25110277" type="audio/mp4"/>
+    </item>
+    <item>
+      <title>Vayetze</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayetze.mp3</guid>
+      <pubDate>Fri, 06 Dec 2024 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Vayetze" (Genesis 28:10-32:3)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayetze.mp3" length="49604568" type="audio/mp3"/>
+    </item>
+    <item>
+      <title>Toldot</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/toldot.mp3</guid>
+      <pubDate>Fri, 29 Nov 2024 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Toldot" (Genesis 25:19-28:9)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/toldot.mp3" length="50483955" type="audio/mp3"/>
+    </item>
+    <item>
+      <title>Chayei Sarah Haftara</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/chayei-sarah-haftara.m4a</guid>
+      <pubDate>Sat, 23 Nov 2024 18:00:00 -0700</pubDate>
+      <description>Commentary on Haftara portion "Chayei Sarah"</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/chayei-sarah-haftara.m4a" length="12826616" type="audio/mp4"/>
+    </item>
+    <item>
+      <title>Chayei Sarah</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/chayei-sarah.m4a</guid>
+      <pubDate>Fri, 22 Nov 2024 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Chayei Sarah" (Genesis 23:1-25:18)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/chayei-sarah.m4a" length="31499551" type="audio/mp4"/>
+    </item>
+    <item>
+      <title>Vayera Haftara</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayera-haftara.m4a</guid>
+      <pubDate>Sat, 16 Nov 2024 18:00:00 -0700</pubDate>
+      <description>Commentary on Haftara portion "Vayera"</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayera-haftara.m4a" length="9388200" type="audio/mp4"/>
+    </item>
+    <item>
+      <title>Vayera</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayera.mp3</guid>
+      <pubDate>Fri, 15 Nov 2024 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Vayera" (Genesis 18:1-22:24)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayera.mp3" length="43519918" type="audio/mp3"/>
+    </item>
+    <item>
+      <title>Lech-Lecha Haftara</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/lech-lecha-haftara.m4a</guid>
+      <pubDate>Sat, 09 Nov 2024 18:00:00 -0700</pubDate>
+      <description>Commentary on Haftara portion "Lech-Lecha"</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/lech-lecha-haftara.m4a" length="9484381" type="audio/mp4"/>
+    </item>
+    <item>
+      <title>Lech-Lecha</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/lech-lecha.mp3</guid>
+      <pubDate>Fri, 08 Nov 2024 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Lech-Lecha" (Genesis 12:1-17:27)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/lech-lecha.mp3" length="57260745" type="audio/mp3"/>
+    </item>
+    <item>
+      <title>Noach Haftara</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/noach-haftara.m4a</guid>
+      <pubDate>Sat, 02 Nov 2024 18:00:00 -0700</pubDate>
+      <description>Commentary on Haftara portion "Noach"</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/noach-haftara.m4a" length="8811110" type="audio/mp4"/>
+    </item>
+    <item>
+      <title>Noach</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/noach.m4a</guid>
+      <pubDate>Fri, 01 Nov 2024 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Noach" (Genesis 6:9-11:32)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/noach.m4a" length="34947899" type="audio/mp4"/>
+    </item>
+    <item>
+      <title>Bereshit Haftara</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/bereshit-haftara.m4a</guid>
+      <pubDate>Sat, 26 Oct 2024 18:00:00 -0700</pubDate>
+      <description>Commentary on Haftara portion "Bereshit"</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/bereshit-haftara.m4a" length="12610213" type="audio/mp4"/>
+    </item>
+    <item>
+      <title>Bereshit</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/bereshit.m4a</guid>
+      <pubDate>Fri, 25 Oct 2024 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Bereshit" (Genesis 1:1-6:8)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/bereshit.m4a" length="37063847" type="audio/mp4"/>
     </item>
     <item>
       <title>Vezot Ha'Bracha</title>
