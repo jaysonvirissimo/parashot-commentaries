@@ -1,0 +1,59 @@
+#!/usr/bin/env ruby
+
+require 'json'
+require 'nokogiri'
+
+# Load episode data from JSON file
+json_file = File.join(File.dirname(__FILE__), '..', 'commentary.json')
+file_content = File.read(json_file)
+data = JSON.parse(file_content)
+
+
+builder = Nokogiri::XML::Builder.new do |xml|
+  xml.rss(version: "2.0", 'xmlns:itunes' => "http://www.itunes.com/dtds/podcast-1.0.dtd", 'xmlns:atom' => "http://www.w3.org/2005/Atom") {
+    xml.channel {
+      # Adding general channel information
+      xml.title data['title']
+      xml.link data['link']
+      xml.language data['language']
+      xml.copyright data['copyright']
+      xml['itunes'].author data['author']
+      xml['itunes'].summary data['summary']
+      xml.description data['description']
+
+      # Add the itunes owner
+      if data['owner']
+        xml['itunes'].owner {
+          if data['owner']['name']
+            xml['itunes'].name data['owner']['name']
+          end
+          if data['owner']['email']
+            xml['itunes'].email data['owner']['email']
+          end
+        }
+      end
+
+      xml['itunes'].explicit data['explicit']
+      xml['itunes'].image(href: data['image'])
+      xml['itunes'].category(text: data['category'])
+
+      # Adding the items
+      if data['items']
+        data['items'].each do |item|
+          xml.item {
+            xml.title item['title']
+            xml.guid item['guid']
+            xml.pubDate item['pubDate']
+            xml.description item['description']
+            xml.enclosure(url: item['enclosure']['url'], length: item['enclosure']['length'], type: item['enclosure']['type'])
+          }
+        end
+      end
+    }
+  }
+end
+
+# Write the XML to commentary.rss
+File.write('commentary.rss', builder.to_xml)
+
+puts "RSS feed successfully generated!"
