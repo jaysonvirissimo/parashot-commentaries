@@ -62,6 +62,12 @@ RSpec.describe "Commentary JSON file" do
 
         # Corrected expect syntax
         expect(File.exist?(local_file_path)).to eq(true), "Audio file not found: #{local_file_path}"
+
+        # Verify that the length in bytes matches the actual file size
+        expected_length = item['enclosure']['length'].to_i
+        actual_length = File.size(local_file_path)
+
+        expect(actual_length).to eq(expected_length), "Incorrect file length for #{file_name}. Expected: #{expected_length}, but got: #{actual_length}"
       end
     end
   end
