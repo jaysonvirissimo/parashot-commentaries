@@ -1,0 +1,41 @@
+#!/usr/bin/env ruby
+
+require 'aws-sdk-polly'
+require 'fileutils'
+
+# Configuration
+REGION = 'us-east-1' # Change to your desired AWS region
+OUTPUT_FILE = File.expand_path('../../tmp/output.mp3', __FILE__) # Adjust path to the output audio file
+INPUT_FILE = File.expand_path('../../tmp/input.txt', __FILE__) # Adjust path to the input text file
+
+# Ensure AWS credentials are set up in your environment
+# (via AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY or IAM roles if running on AWS)
+
+# Read text from the input file
+begin
+  text = File.read(INPUT_FILE).strip
+rescue Errno::ENOENT
+  puts "Input file not found: #{INPUT_FILE}"
+  exit 1
+end
+
+# Initialize the Polly client
+polly = Aws::Polly::Client.new(region: REGION)
+
+begin
+  # Call Polly to synthesize speech
+  response = polly.synthesize_speech({
+    text: text,
+    output_format: 'mp3',
+    voice_id: 'Joanna' # Change the voice ID to your preference
+  })
+
+  # Save the audio file
+  File.open(OUTPUT_FILE, 'wb') do |file|
+    file.write(response.audio_stream.read)
+  end
+
+  puts "Audio file successfully created: #{OUTPUT_FILE}"
+rescue Aws::Polly::Errors::ServiceError => e
+  puts "An error occurred while calling AWS Polly: #{e.message}"
+end
