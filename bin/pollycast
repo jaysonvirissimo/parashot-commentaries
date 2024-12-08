@@ -1,12 +1,13 @@
 #!/usr/bin/env ruby
 
 require 'aws-sdk-polly'
+require 'aws-sdk-s3'
 require 'fileutils'
 
 # Configuration
-REGION = 'us-east-1' # Change to your desired AWS region
-OUTPUT_FILE = File.expand_path('../../tmp/output.mp3', __FILE__) # Adjust path to the output audio file
-INPUT_FILE = File.expand_path('../../tmp/input.txt', __FILE__) # Adjust path to the input text file
+REGION = 'us-east-1'
+BUCKET_NAME = 'torah-commentary'
+INPUT_FILE = File.expand_path('../../tmp/input.txt', __FILE__)
 
 # Ensure AWS credentials are set up in your environment
 # (via AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY or IAM roles if running on AWS)
@@ -23,20 +24,43 @@ end
 polly = Aws::Polly::Client.new(region: REGION)
 
 begin
-  # Call Polly to synthesize speech
-  response = polly.synthesize_speech({
+  # Start Polly speech synthesis task
+  response = polly.start_speech_synthesis_task({
     engine: 'generative',
     text: text,
     output_format: 'mp3',
-    voice_id: 'Ruth'
+    voice_id: 'Ruth',
+    output_s3_bucket_name: BUCKET_NAME,
+    output_s3_key_prefix: 'output/output.mp3'
   })
 
-  # Save the audio file
-  File.open(OUTPUT_FILE, 'wb') do |file|
-    file.write(response.audio_stream.read)
+  task_id = response.synthesis_task.task_id
+  puts "Started synthesis task with ID: #{task_id}"
+
+  # Poll for task completion
+  loop do
+    task_status_response = polly.get_speech_synthesis_task({ task_id: task_id })
+    task_status = task_status_response.synthesis_task.task_status
+
+    puts "Task status: #{task_status}"
+
+    case task_status
+    when 'completed'
+      puts "Synthesis task completed!"
+      break
+    when 'failed'
+      puts "Task failed: #{task_status_response.synthesis_task.task_status_reason}"
+      exit 1
+    end
+
+    sleep 10 # Wait for 10 seconds before checking again
   end
 
-  puts "Audio file successfully created: #{OUTPUT_FILE}"
+  # Extract the output file URI
+  output_uri = response.synthesis_task.output_uri
+  puts "Download your file here: #{output_uri}"
 rescue Aws::Polly::Errors::ServiceError => e
   puts "An error occurred while calling AWS Polly: #{e.message}"
+rescue Aws::S3::Errors::ServiceError => e
+  puts "An error occurred while interacting with S3: #{e.message}"
 end
