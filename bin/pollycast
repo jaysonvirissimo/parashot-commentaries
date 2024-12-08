@@ -25,9 +25,10 @@ polly = Aws::Polly::Client.new(region: REGION)
 begin
   # Call Polly to synthesize speech
   response = polly.synthesize_speech({
+    engine: 'generative',
     text: text,
     output_format: 'mp3',
-    voice_id: 'Joanna' # Change the voice ID to your preference
+    voice_id: 'Ruth'
   })
 
   # Save the audio file
