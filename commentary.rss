@@ -245,6 +245,13 @@
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/toldot.mp3" length="50483955" type="audio/mp3"/>
     </item>
     <item>
+      <title>Toldot Haftara</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/toldot-haftara.m4a</guid>
+      <pubDate>Fri, 29 Nov 2024 18:00:00 -0700</pubDate>
+      <description>Commentary on Haftara portion "Toldot Haftara"</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/toldot-haftara.m4a" length="9628648" type="audio/mp4"/>
+    </item>
+    <item>
       <title>Chayei Sarah Haftara</title>
       <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/chayei-sarah-haftara.m4a</guid>
       <pubDate>Sat, 23 Nov 2024 18:00:00 -0700</pubDate>

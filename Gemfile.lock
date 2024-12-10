@@ -24,6 +24,8 @@ GEM
     jmespath (1.6.2)
     nokogiri (1.16.2-arm64-darwin)
       racc (~> 1.4)
+    nokogiri (1.16.2-x86_64-darwin)
+      racc (~> 1.4)
     racc (1.7.3)
     rexml (3.2.6)
     rspec (3.13.0)
@@ -42,6 +44,7 @@ GEM
 
 PLATFORMS
   arm64-darwin-22
+  x86_64-darwin-20
 
 DEPENDENCIES
   aws-sdk-polly
