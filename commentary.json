@@ -159,6 +159,17 @@
       }
     },
     {
+      "title": "Vayetze Haftara",
+      "guid": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayetze-haftara.m4a",
+      "pubDate": "Fri, 06 Dec 2024 18:00:00 -0700",
+      "description": "Commentary on Haftara portion \"Vayetze Haftara\"",
+      "enclosure": {
+        "url": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayetze-haftara.m4a",
+        "length": "9941232",
+        "type": "audio/mp4"
+      }
+    },
+    {
       "title": "Vayishlach",
       "guid": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayishlach.m4a",
       "pubDate": "Fri, 13 Dec 2024 18:00:00 -0700",
