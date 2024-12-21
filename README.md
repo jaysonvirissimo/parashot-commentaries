@@ -53,11 +53,8 @@ AWS Polly will convert the text to audio.
 
 ### 4. Add Intro/Outro and Place in `audio` Directory
 1. Use an audio editor (e.g., **GarageBand** or **Audacity**) to add your intro and outro to the generated audio.
-2. Save the final file as `episode-N.mp3` (replace `N` with the episode number).
-3. Move the file to the `audio` directory:
-   ```bash
-   mv tmp/output.mp3 audio/episode-N.mp3
-   ```
+2. Save the final file as `N.mp3` (replace `N` with the episode name).
+3. Move the file to the `audio` directory by dragging it with the mouse.
 
 ### 5. Add a New Item to `commentary.json`
 This file contains metadata for the podcast episodes.
