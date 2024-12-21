@@ -1,6 +1,11 @@
 # parashot-commentaries
 Podcast RSS Feed
 
+## Install
+* Ensure Ruby in installed
+* `brew install ffmpeg`
+* `bundle install`
+
 ## Pronunciation Override
 To change the pronunciation of a word, add it to the pronunciation-guide.json file and run `bin/build`.
 `bin/order` re-orders the pronunciation guide and removes duplicates.

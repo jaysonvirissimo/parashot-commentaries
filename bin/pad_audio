@@ -5,7 +5,7 @@ require 'fileutils'
 
 # Paths to the intro and outro files
 INTRO_FILE = File.join(__dir__, '../audio/intro.mp3')
-OUTRO_FILE = File.join(__dir__, '../audio/outro.m4a')
+OUTRO_FILE = File.join(__dir__, '../audio/outro.mp3')
 AUDIO_DIR = File.join(__dir__, '../audio')
 
 def pad_audio(input_file, output_file)
@@ -30,9 +30,9 @@ def pad_audio(input_file, output_file)
 
   # Create the concatenation file
   File.open(combined_temp_file, 'w') do |file|
-    file.puts("file '#{INTRO_FILE}'")
-    file.puts("file '#{input_file}'")
-    file.puts("file '#{OUTRO_FILE}'")
+    file.puts("file '#{File.expand_path(INTRO_FILE)}'")
+    file.puts("file '#{File.expand_path(input_file)}'")
+    file.puts("file '#{File.expand_path(OUTRO_FILE)}'")
   end
 
   # Perform the concatenation
@@ -42,11 +42,13 @@ def pad_audio(input_file, output_file)
     '-f', 'concat',
     '-safe', '0',
     '-i', combined_temp_file,
-    '-c', 'copy',
+    '-acodec', 'libmp3lame',  # Re-encode using MP3 codec
+    '-b:a', '192k',           # Set bitrate (optional, can adjust)
     output_path
   ].join(' ')
 
-  system(command)
+  puts "Running command: #{command}"
+  system(command) || puts("Error running ffmpeg: #{$?.exitstatus}")
 
   # Cleanup
   File.delete(combined_temp_file)
