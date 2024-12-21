@@ -1,0 +1,66 @@
+#!/usr/bin/env ruby
+
+require 'streamio-ffmpeg'
+require 'fileutils'
+
+# Paths to the intro and outro files
+INTRO_FILE = File.join(__dir__, '../audio/intro.mp3')
+OUTRO_FILE = File.join(__dir__, '../audio/outro.m4a')
+AUDIO_DIR = File.join(__dir__, '../audio')
+
+def pad_audio(input_file, output_file)
+  # Ensure all necessary files exist
+  unless File.exist?(INTRO_FILE)
+    puts "Error: Intro file not found at #{INTRO_FILE}"
+    exit 1
+  end
+
+  unless File.exist?(OUTRO_FILE)
+    puts "Error: Outro file not found at #{OUTRO_FILE}"
+    exit 1
+  end
+
+  unless File.exist?(input_file)
+    puts "Error: Input file not found at #{input_file}"
+    exit 1
+  end
+
+  # Combine intro, main audio, and outro
+  combined_temp_file = File.join(AUDIO_DIR, 'combined.txt')
+
+  # Create the concatenation file
+  File.open(combined_temp_file, 'w') do |file|
+    file.puts("file '#{INTRO_FILE}'")
+    file.puts("file '#{input_file}'")
+    file.puts("file '#{OUTRO_FILE}'")
+  end
+
+  # Perform the concatenation
+  output_path = File.join(AUDIO_DIR, output_file)
+  command = [
+    'ffmpeg',
+    '-f', 'concat',
+    '-safe', '0',
+    '-i', combined_temp_file,
+    '-c', 'copy',
+    output_path
+  ].join(' ')
+
+  system(command)
+
+  # Cleanup
+  File.delete(combined_temp_file)
+
+  puts "Output saved to #{output_path}"
+end
+
+# Parse arguments
+if ARGV.length != 1
+  puts "Usage: bin/pad_audio <input_file>"
+  exit 1
+end
+
+input_file = ARGV[0]
+output_file = File.basename(input_file, File.extname(input_file)) + '_padded.mp3'
+
+pad_audio(input_file, output_file)

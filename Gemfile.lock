@@ -22,6 +22,7 @@ GEM
       aws-eventstream (~> 1, >= 1.0.2)
     diff-lcs (1.5.1)
     jmespath (1.6.2)
+    multi_json (1.15.0)
     nokogiri (1.16.2-arm64-darwin)
       racc (~> 1.4)
     nokogiri (1.16.2-x86_64-darwin)
@@ -41,6 +42,8 @@ GEM
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.13.0)
     rspec-support (3.13.0)
+    streamio-ffmpeg (3.0.2)
+      multi_json (~> 1.8)
 
 PLATFORMS
   arm64-darwin-22
@@ -52,6 +55,7 @@ DEPENDENCIES
   nokogiri
   rexml
   rspec
+  streamio-ffmpeg
 
 BUNDLED WITH
    2.4.14

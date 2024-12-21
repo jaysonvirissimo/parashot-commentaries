@@ -52,9 +52,15 @@ AWS Polly will convert the text to audio.
 4. The generated audio will also be saved in the S3 bucket and can be accessed from the URL printed by the script.
 
 ### 4. Add Intro/Outro and Place in `audio` Directory
-1. Use an audio editor (e.g., **GarageBand** or **Audacity**) to add your intro and outro to the generated audio.
-2. Save the final file as `N.mp3` (replace `N` with the episode name).
-3. Move the file to the `audio` directory by dragging it with the mouse.
+Use the new `bin/pad_audio` script to add the intro and outro to your episode audio.
+
+1. Ensure the intro file (`audio/intro.mp3`) and outro file (`audio/outro.m4a`) exist in the `audio` directory.
+2. Run the `pad_audio` script with the path to your audio file:
+   ```bash
+   bin/pad_audio audio/episode-N.mp3
+   ```
+   Replace `episode-N.mp3` with the filename of your generated audio.
+3. The padded audio file will be saved in the `audio` directory with the suffix `_padded` (e.g., `episode-N_padded.mp3`).
 
 ### 5. Add a New Item to `commentary.json`
 This file contains metadata for the podcast episodes.
@@ -68,7 +74,7 @@ This file contains metadata for the podcast episodes.
    {
        "title": "Episode Title",
        "description": "Brief description of the episode",
-       "audioFile": "audio/episode-N.mp3",
+       "audioFile": "audio/episode-N_padded.mp3",
        "date": "YYYY-MM-DD"
    }
    ```
