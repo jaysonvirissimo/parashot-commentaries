@@ -1,0 +1,247 @@
+#!/usr/bin/env ruby
+
+require 'json'
+require 'date'
+require 'fileutils'
+require 'aws-sdk-polly'
+require 'aws-sdk-s3'
+require 'open-uri'
+
+class EpisodePublisher
+  REGION = 'us-east-1'
+  BUCKET_NAME = 'torah-commentary'
+  def initialize
+    @commentary_file = File.join(File.dirname(__FILE__), '..', 'commentary.json')
+    @tmp_dir = File.join(File.dirname(__FILE__), '..', 'tmp')
+  end
+
+  def run
+    validate_environment
+    collect_episode_data
+    generate_audio_file
+    update_commentary_json
+    handle_git_workflow
+    print_next_steps
+  end
+
+  def generate_audio_file
+    puts "\nGenerating audio file..."
+    input_file = File.join(@tmp_dir, 'input.txt')
+    text = File.read(input_file).strip
+    @audio_filename = "#{@title.downcase.gsub(/[^a-z0-9]+/, '-')}.m4a"
+
+    # Initialize the Polly client
+    polly = Aws::Polly::Client.new(region: REGION)
+    s3 = Aws::S3::Client.new(region: REGION)
+
+    begin
+      # Start Polly speech synthesis task
+      response = polly.start_speech_synthesis_task({
+        engine: 'generative',
+        text: text,
+        output_format: 'mp3',
+        voice_id: 'Ruth',
+        output_s3_bucket_name: BUCKET_NAME,
+        output_s3_key_prefix: "output/#{@audio_filename}"
+      })
+
+      task_id = response.synthesis_task.task_id
+      puts "Started synthesis task with ID: #{task_id}"
+
+      # Poll for task completion
+      loop do
+        task_status_response = polly.get_speech_synthesis_task({ task_id: task_id })
+        task_status = task_status_response.synthesis_task.task_status
+
+        puts "Task status: #{task_status}"
+
+        case task_status
+        when 'completed'
+          puts "Synthesis task completed!"
+          break
+        when 'failed'
+          puts "Task failed: #{task_status_response.synthesis_task.task_status_reason}"
+          exit 1
+        end
+
+        sleep 10 # Wait for 10 seconds before checking again
+      end
+
+      # Download the file from S3
+      output_uri = response.synthesis_task.output_uri
+      puts "Downloading audio file..."
+
+      tmp_audio_path = File.join(@tmp_dir, @audio_filename)
+      URI.open(output_uri) do |audio|
+        File.open(tmp_audio_path, 'wb') do |file|
+          file.write(audio.read)
+        end
+      end
+
+      # Move the file to the audio directory
+      final_audio_path = File.join(File.dirname(__FILE__), '..', 'audio', @audio_filename)
+      FileUtils.mv(tmp_audio_path, final_audio_path)
+      puts "Audio file moved to: #{final_audio_path}"
+
+    rescue Aws::Polly::Errors::ServiceError => e
+      puts "An error occurred while calling AWS Polly: #{e.message}"
+      exit 1
+    rescue Aws::S3::Errors::ServiceError => e
+      puts "An error occurred while interacting with S3: #{e.message}"
+      exit 1
+    rescue OpenURI::HTTPError => e
+      puts "Failed to download the audio file: #{e.message}"
+      exit 1
+    rescue StandardError => e
+      puts "An unexpected error occurred: #{e.message}"
+      exit 1
+    end
+  end
+
+  private
+
+  def validate_environment
+    unless Dir.exist?(@tmp_dir)
+      puts "Error: tmp directory not found"
+      exit 1
+    end
+
+    unless File.exist?(@commentary_file)
+      puts "Error: commentary.json not found"
+      exit 1
+    end
+
+    input_file = File.join(@tmp_dir, 'input.txt')
+    unless File.exist?(input_file)
+      puts "Error: No input.txt found in tmp directory"
+      exit 1
+    end
+  end
+
+  def collect_episode_data
+    @title = get_valid_title
+    @description = get_valid_description
+    @publish_date = get_valid_publish_date
+  end
+
+  def get_valid_title
+    loop do
+      print "Enter episode title (e.g., 'Bereshit', 'Noach'): "
+      title = gets.chomp.strip
+      return title if valid_title?(title)
+      puts "Error: Title must not be empty and should be a valid parasha name"
+    end
+  end
+
+  def valid_title?(title)
+    return false if title.empty?
+    return false if title.length > 100 # reasonable maximum length
+    true
+  end
+
+  def get_valid_description
+    loop do
+      print "Enter episode description (e.g., 'Commentary on Torah portion \"Bereshit\" (Genesis 1:1-6:8)'): "
+      description = gets.chomp.strip
+      return description if valid_description?(description)
+      puts "Error: Description must not be empty and should include Torah portion reference"
+    end
+  end
+
+  def valid_description?(description)
+    return false if description.empty?
+    return false if description.length > 500 # reasonable maximum length
+    true
+  end
+
+  def get_valid_publish_date
+    loop do
+      print "Enter publish date (YYYY-MM-DD): "
+      date_str = gets.chomp.strip
+      begin
+        date = Date.parse(date_str)
+        # Convert to the standard format used in the RSS feed
+        return date.strftime("%a, %d %b %Y 18:00:00 -0700")
+      rescue ArgumentError
+        puts "Error: Invalid date format. Please use YYYY-MM-DD"
+      end
+    end
+  end
+
+  def update_commentary_json
+    data = JSON.parse(File.read(@commentary_file))
+
+    # Use the audio filename generated during audio creation
+    audio_path = "audio/#{@audio_filename}"
+
+    # Get audio file length
+    full_audio_path = File.join(File.dirname(__FILE__), '..', audio_path)
+    unless File.exist?(full_audio_path)
+      puts "Warning: Audio file not found at #{full_audio_path}"
+      puts "Please ensure the audio file exists before proceeding"
+      exit 1
+    end
+
+    file_length = File.size(full_audio_path).to_s
+
+    # Create new episode item
+    new_item = {
+      "title" => @title,
+      "guid" => "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/#{audio_path}",
+      "pubDate" => @publish_date,
+      "description" => @description,
+      "enclosure" => {
+        "url" => "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/#{audio_path}",
+        "length" => file_length,
+        "type" => "audio/mp4"
+      }
+    }
+
+    # Add new item to the items array
+    data["items"].unshift(new_item)  # Add to beginning of array
+
+    # Write updated JSON back to file
+    File.write(@commentary_file, JSON.pretty_generate(data))
+    puts "Successfully updated commentary.json"
+  end
+
+  def handle_git_workflow
+    branch_name = "episode-#{@title.downcase.gsub(/[^a-z0-9]+/, '-')}"
+
+    # Create and checkout new branch
+    system("git checkout -b #{branch_name}") or raise "Failed to create branch"
+    puts "Created and switched to branch: #{branch_name}"
+
+    # Generate RSS feed
+    system("bin/generate") or raise "Failed to generate RSS feed"
+    puts "Generated RSS feed"
+
+    # Add changes to git
+    system("git add commentary.json commentary.rss") or raise "Failed to stage files"
+    puts "Staged changed files"
+
+    # Create commit
+    commit_message = "Publish #{@title}"
+    system("git commit -m '#{commit_message}'") or raise "Failed to commit"
+    puts "Created commit"
+
+    # Push to GitHub
+    system("git push --set-upstream origin #{branch_name}") or raise "Failed to push"
+    puts "Pushed to GitHub"
+
+    # Switch back to main branch
+    system("git checkout main") or raise "Failed to switch back to main branch"
+    puts "Switched back to main branch"
+  end
+
+  def print_next_steps
+    puts "\nNext steps:"
+    puts "1. Go to GitHub and open a Pull Request"
+    puts "2. Wait for tests to pass"
+    puts "3. Merge the Pull Request if all tests pass"
+    puts "\nThank you for publishing a new episode!"
+  end
+end
+
+# Run the publisher
+EpisodePublisher.new.run
