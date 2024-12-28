@@ -10,92 +10,21 @@ require 'open-uri'
 class EpisodePublisher
   REGION = 'us-east-1'
   BUCKET_NAME = 'torah-commentary'
+
   def initialize
     @commentary_file = File.join(File.dirname(__FILE__), '..', 'commentary.json')
     @tmp_dir = File.join(File.dirname(__FILE__), '..', 'tmp')
+    @audio_dir = File.join(File.dirname(__FILE__), '..', 'audio')
   end
 
   def run
     validate_environment
     collect_episode_data
     generate_audio_file
+    pad_audio_file
     update_commentary_json
     handle_git_workflow
     print_next_steps
-  end
-
-  def generate_audio_file
-    puts "\nGenerating audio file..."
-    input_file = File.join(@tmp_dir, 'input.txt')
-    text = File.read(input_file).strip
-    @audio_filename = "#{@title.downcase.gsub(/[^a-z0-9]+/, '-')}.m4a"
-
-    # Initialize the Polly client
-    polly = Aws::Polly::Client.new(region: REGION)
-    s3 = Aws::S3::Client.new(region: REGION)
-
-    begin
-      # Start Polly speech synthesis task
-      response = polly.start_speech_synthesis_task({
-        engine: 'generative',
-        text: text,
-        output_format: 'mp3',
-        voice_id: 'Ruth',
-        output_s3_bucket_name: BUCKET_NAME,
-        output_s3_key_prefix: "output/#{@audio_filename}"
-      })
-
-      task_id = response.synthesis_task.task_id
-      puts "Started synthesis task with ID: #{task_id}"
-
-      # Poll for task completion
-      loop do
-        task_status_response = polly.get_speech_synthesis_task({ task_id: task_id })
-        task_status = task_status_response.synthesis_task.task_status
-
-        puts "Task status: #{task_status}"
-
-        case task_status
-        when 'completed'
-          puts "Synthesis task completed!"
-          break
-        when 'failed'
-          puts "Task failed: #{task_status_response.synthesis_task.task_status_reason}"
-          exit 1
-        end
-
-        sleep 10 # Wait for 10 seconds before checking again
-      end
-
-      # Download the file from S3
-      output_uri = response.synthesis_task.output_uri
-      puts "Downloading audio file..."
-
-      tmp_audio_path = File.join(@tmp_dir, @audio_filename)
-      URI.open(output_uri) do |audio|
-        File.open(tmp_audio_path, 'wb') do |file|
-          file.write(audio.read)
-        end
-      end
-
-      # Move the file to the audio directory
-      final_audio_path = File.join(File.dirname(__FILE__), '..', 'audio', @audio_filename)
-      FileUtils.mv(tmp_audio_path, final_audio_path)
-      puts "Audio file moved to: #{final_audio_path}"
-
-    rescue Aws::Polly::Errors::ServiceError => e
-      puts "An error occurred while calling AWS Polly: #{e.message}"
-      exit 1
-    rescue Aws::S3::Errors::ServiceError => e
-      puts "An error occurred while interacting with S3: #{e.message}"
-      exit 1
-    rescue OpenURI::HTTPError => e
-      puts "Failed to download the audio file: #{e.message}"
-      exit 1
-    rescue StandardError => e
-      puts "An unexpected error occurred: #{e.message}"
-      exit 1
-    end
   end
 
   private
@@ -103,6 +32,11 @@ class EpisodePublisher
   def validate_environment
     unless Dir.exist?(@tmp_dir)
       puts "Error: tmp directory not found"
+      exit 1
+    end
+
+    unless Dir.exist?(@audio_dir)
+      puts "Error: audio directory not found"
       exit 1
     end
 
@@ -168,21 +102,97 @@ class EpisodePublisher
     end
   end
 
+  def generate_audio_file
+    puts "\nGenerating audio file..."
+    input_file = File.join(@tmp_dir, 'input.txt')
+    text = File.read(input_file).strip
+    @audio_filename = "#{@title.downcase.gsub(/[^a-z0-9]+/, '-')}.mp3"
+    @initial_audio_path = File.join(@tmp_dir, @audio_filename)
+
+    # Initialize the Polly client
+    polly = Aws::Polly::Client.new(region: REGION)
+
+    begin
+      # Start Polly speech synthesis task
+      response = polly.start_speech_synthesis_task({
+        engine: 'generative',
+        text: text,
+        output_format: 'mp3',
+        voice_id: 'Ruth',
+        output_s3_bucket_name: BUCKET_NAME,
+        output_s3_key_prefix: "output/#{@audio_filename}"
+      })
+
+      task_id = response.synthesis_task.task_id
+      puts "Started synthesis task with ID: #{task_id}"
+
+      # Poll for task completion
+      loop do
+        task_status_response = polly.get_speech_synthesis_task({ task_id: task_id })
+        task_status = task_status_response.synthesis_task.task_status
+
+        puts "Task status: #{task_status}"
+
+        case task_status
+        when 'completed'
+          puts "Synthesis task completed!"
+          break
+        when 'failed'
+          puts "Task failed: #{task_status_response.synthesis_task.task_status_reason}"
+          exit 1
+        end
+
+        sleep 10 # Wait for 10 seconds before checking again
+      end
+
+      # Download the file from S3
+      output_uri = response.synthesis_task.output_uri
+      puts "Downloading audio file..."
+
+      URI.open(output_uri) do |audio|
+        File.open(@initial_audio_path, 'wb') do |file|
+          file.write(audio.read)
+        end
+      end
+
+    rescue Aws::Polly::Errors::ServiceError => e
+      puts "An error occurred while calling AWS Polly: #{e.message}"
+      exit 1
+    rescue StandardError => e
+      puts "An unexpected error occurred: #{e.message}"
+      exit 1
+    end
+  end
+
+  def pad_audio_file
+    puts "\nAdding intro and outro..."
+    @final_audio_path = File.join(@audio_dir, @audio_filename)
+
+    # Call the pad_audio script
+    system("bin/pad_audio #{@initial_audio_path}") or raise "Failed to pad audio file"
+
+    # Move the padded file to the final location
+    padded_filename = File.basename(@initial_audio_path, '.*') + '_padded.mp3'
+    padded_path = File.join(@audio_dir, padded_filename)
+    FileUtils.mv(padded_path, @final_audio_path)
+
+    # Clean up the initial file
+    FileUtils.rm(@initial_audio_path)
+
+    puts "Audio file processed and moved to: #{@final_audio_path}"
+  end
+
   def update_commentary_json
     data = JSON.parse(File.read(@commentary_file))
 
-    # Use the audio filename generated during audio creation
-    audio_path = "audio/#{@audio_filename}"
-
-    # Get audio file length
-    full_audio_path = File.join(File.dirname(__FILE__), '..', audio_path)
-    unless File.exist?(full_audio_path)
-      puts "Warning: Audio file not found at #{full_audio_path}"
-      puts "Please ensure the audio file exists before proceeding"
+    # Verify audio file exists and get its size
+    unless File.exist?(@final_audio_path)
+      puts "Error: Final audio file not found at #{@final_audio_path}"
       exit 1
     end
 
-    file_length = File.size(full_audio_path).to_s
+    file_length = File.size(@final_audio_path).to_s
+    audio_path = "audio/#{@audio_filename}"
 
     # Create new episode item
     new_item = {
@@ -193,7 +203,7 @@ class EpisodePublisher
       "enclosure" => {
         "url" => "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/#{audio_path}",
         "length" => file_length,
-        "type" => "audio/mp4"
+        "type" => "audio/mp3"
       }
     }
 
@@ -217,7 +227,7 @@ class EpisodePublisher
     puts "Generated RSS feed"
 
     # Add changes to git
-    system("git add commentary.json commentary.rss") or raise "Failed to stage files"
+    system("git add commentary.json commentary.rss #{@final_audio_path}") or raise "Failed to stage files"
     puts "Staged changed files"
 
     # Create commit
