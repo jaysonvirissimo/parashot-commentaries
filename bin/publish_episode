@@ -6,6 +6,7 @@ require 'fileutils'
 require 'aws-sdk-polly'
 require 'aws-sdk-s3'
 require 'open-uri'
+require 'readline'
 
 class EpisodePublisher
   REGION = 'us-east-1'
@@ -60,8 +61,7 @@ class EpisodePublisher
 
   def get_valid_title
     loop do
-      print "Enter episode title (e.g., 'Bereshit', 'Noach'): "
-      title = gets.chomp.strip
+      title = Readline.readline("Enter episode title (e.g., 'Bereshit', 'Noach'): ", true).strip
       return title if valid_title?(title)
       puts "Error: Title must not be empty and should be a valid parasha name"
     end
@@ -75,8 +75,7 @@ class EpisodePublisher
 
   def get_valid_description
     loop do
-      print "Enter episode description (e.g., 'Commentary on Torah portion \"Bereshit\" (Genesis 1:1-6:8)'): "
-      description = gets.chomp.strip
+      description = Readline.readline("Enter episode description (e.g., 'Commentary on Torah portion \"Bereshit\" (Genesis 1:1-6:8)'): ", true).strip
       return description if valid_description?(description)
       puts "Error: Description must not be empty and should include Torah portion reference"
     end
