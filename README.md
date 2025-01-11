@@ -18,9 +18,9 @@ Here is a guide to publishing a new episode of the podcast. The process is large
 
 ### 1. Prepare the Episode Text
 1. Navigate to your project directory in a newly-opened Terminal (assuming the repo is on your Desktop):
-```bash
-cd Desktop/parashot-commentaries
-```
+   ```bash
+   cd Desktop/parashot-commentaries
+   ```
 1. Open the `tmp/input.txt` file in a text editor:
    ```bash
    open tmp/input.txt
@@ -33,7 +33,7 @@ cd Desktop/parashot-commentaries
    ```bash
    bin/publish_episode
    ```
-2. Follow the prompts to enter:
+1. Follow the prompts to enter:
    - Episode title (e.g., 'Bereshit', 'Noach')
    - Description (e.g., 'Commentary on Torah portion "Bereshit" (Genesis 1:1-6:8)')
    - Publish date (YYYY-MM-DD format)
