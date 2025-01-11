@@ -196,6 +196,13 @@
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/shemot.m4a" length="30302412" type="audio/mp4"/>
     </item>
     <item>
+      <title>Haftarah Vayechi</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-vayechi.mp3</guid>
+      <pubDate>Sat, 11 Jan 2025 18:00:00 -0700</pubDate>
+      <description>Commentary on Haftarah portion Vayechi (1 KINGS 2:1-12 )</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-vayechi.mp3" length="13320611" type="audio/mp3"/>
+    </item>
+    <item>
       <title>Vayechi</title>
       <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayechi.m4a</guid>
       <pubDate>Fri, 10 Jan 2025 18:00:00 -0700</pubDate>
