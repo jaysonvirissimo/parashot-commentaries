@@ -17,23 +17,23 @@ The regenerated lexicons files can be found in the lexicons directory.
 Here is a guide to publishing a new episode of the podcast. The process is largely automated to minimize manual steps.
 
 ### 1. Prepare the Episode Text
+1. Navigate to your project directory in a newly-opened Terminal (assuming the repo is on your Desktop):
+```bash
+cd Desktop/parashot-commentaries
+```
 1. Open the `tmp/input.txt` file in a text editor:
    ```bash
    open tmp/input.txt
    ```
-2. Paste the text of the parashah into the file.
-3. Save and close the file.
+1. Paste the text of the parashah into the file.
+1. Save and close the file.
 
 ### 2. Run the Publishing Script
-1. Navigate to your project directory in the terminal:
+1. Run the publishing script:
    ```bash
-   cd /path/to/parashot-commentaries
+   bin/publish_episode
    ```
-2. Run the publishing script:
-   ```bash
-   bin/publish-episode
-   ```
-3. Follow the prompts to enter:
+2. Follow the prompts to enter:
    - Episode title (e.g., 'Bereshit', 'Noach')
    - Description (e.g., 'Commentary on Torah portion "Bereshit" (Genesis 1:1-6:8)')
    - Publish date (YYYY-MM-DD format)

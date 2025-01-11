@@ -19,6 +19,7 @@ class EpisodePublisher
   end
 
   def run
+    update_main_branch
     validate_environment
     collect_episode_data
     generate_audio_file
@@ -29,6 +30,14 @@ class EpisodePublisher
   end
 
   private
+
+  def update_main_branch
+    puts "Checking out the main branch..."
+    system("git checkout main") or raise "Failed to switch to main branch"
+
+    puts "Pulling the latest changes from the main branch..."
+    system("git pull --rebase") or raise "Failed to pull the latest changes"
+  end
 
   def validate_environment
     unless Dir.exist?(@tmp_dir)
