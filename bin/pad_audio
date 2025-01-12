@@ -35,15 +35,16 @@ def pad_audio(input_file, output_file)
     file.puts("file '#{File.expand_path(OUTRO_FILE)}'")
   end
 
-  # Perform the concatenation
+  # Perform the concatenation with loudness normalization
   output_path = File.join(AUDIO_DIR, output_file)
   command = [
     'ffmpeg',
     '-f', 'concat',
     '-safe', '0',
     '-i', combined_temp_file,
-    '-acodec', 'libmp3lame',  # Re-encode using MP3 codec
-    '-b:a', '192k',           # Set bitrate (optional, can adjust)
+    '-af', 'loudnorm=I=-16:LRA=11:TP=-1.5',  # Add loudness normalization
+    '-acodec', 'libmp3lame',
+    '-b:a', '192k',
     output_path
   ].join(' ')
 
