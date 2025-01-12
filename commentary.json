@@ -16,6 +16,17 @@
   "category": "Religion & Spirituality",
   "items": [
     {
+      "title": "Haftarah Shemot (Sephardim)",
+      "guid": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-shemot-sephardim-.mp3",
+      "pubDate": "Sat, 18 Jan 2025 18:00:00 -0700",
+      "description": "Commentary on Haftarah portion \"Shemot\" (Jeremiah 1:1-2:30)",
+      "enclosure": {
+        "url": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-shemot-sephardim-.mp3",
+        "length": "13102316",
+        "type": "audio/mp3"
+      }
+    },
+    {
       "title": "Haftarah Shemot (Ashkenazim)",
       "guid": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-shemot-ashkenazim-.mp3",
       "pubDate": "Sat, 18 Jan 2025 18:00:00 -0700",
