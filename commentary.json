@@ -16,6 +16,17 @@
   "category": "Religion & Spirituality",
   "items": [
     {
+      "title": "Haftarah Vaera",
+      "guid": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-vaera.mp3",
+      "pubDate": "Fri, 24 Jan 2025 18:00:00 -0700",
+      "description": "Commentary on Haftarah portion Vaera Ezekiel 28:25 - 29:21",
+      "enclosure": {
+        "url": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-vaera.mp3",
+        "length": "13688684",
+        "type": "audio/mp3"
+      }
+    },
+    {
       "title": "Haftarah Shemot (Sephardim)",
       "guid": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-shemot-sephardim-.mp3",
       "pubDate": "Sat, 18 Jan 2025 18:00:00 -0700",
