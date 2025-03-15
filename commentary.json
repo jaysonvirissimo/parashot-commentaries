@@ -16,6 +16,17 @@
   "category": "Religion & Spirituality",
   "items": [
     {
+      "title": "Haftarah Bo",
+      "guid": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-bo.mp3",
+      "pubDate": "Fri, 31 Jan 2025 18:00:00 -0700",
+      "description": "Commentary on Haftarah portion Bo Jeremiah 46:13-28",
+      "enclosure": {
+        "url": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-bo.mp3",
+        "length": "16109036",
+        "type": "audio/mp3"
+      }
+    },
+    {
       "title": "Haftarah Vaera",
       "guid": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-vaera.mp3",
       "pubDate": "Fri, 24 Jan 2025 18:00:00 -0700",
