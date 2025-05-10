@@ -16,6 +16,17 @@
   "category": "Religion & Spirituality",
   "items": [
     {
+      "title": "Haftarah Mishpatim",
+      "guid": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-mishpatim.mp3",
+      "pubDate": "Fri, 21 Feb 2025 18:00:00 -0700",
+      "description": "Commentary on Haftarah portion Mishpatim (Jeremiah 33:25-34:22)",
+      "enclosure": {
+        "url": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-mishpatim.mp3",
+        "length": "15044588",
+        "type": "audio/mp3"
+      }
+    },
+    {
       "title": "Haftarah Yitro",
       "guid": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-yitro.mp3",
       "pubDate": "Fri, 14 Feb 2025 18:00:00 -0700",
