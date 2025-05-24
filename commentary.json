@@ -16,6 +16,17 @@
   "category": "Religion & Spirituality",
   "items": [
     {
+      "title": "Haftarah Terumah",
+      "guid": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-terumah.mp3",
+      "pubDate": "Fri, 28 Feb 2025 18:00:00 -0700",
+      "description": "Commentary on Haftarah portion Terumah (1 Kings 5:26-6:13)",
+      "enclosure": {
+        "url": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-terumah.mp3",
+        "length": "15209324",
+        "type": "audio/mp3"
+      }
+    },
+    {
       "title": "Haftarah Beshalach",
       "guid": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-beshalach.mp3",
       "pubDate": "Fri, 07 Feb 2025 18:00:00 -0700",
