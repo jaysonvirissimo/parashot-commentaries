@@ -16,6 +16,17 @@
   "category": "Religion & Spirituality",
   "items": [
     {
+      "title": "Haftarah Tetzaveh",
+      "guid": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-tetzaveh.mp3",
+      "pubDate": "Fri, 07 Mar 2025 18:00:00 -0700",
+      "description": "Commentary on Haftarah portion Tetzaveh (Ezekiel 43:10-27)",
+      "enclosure": {
+        "url": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-tetzaveh.mp3",
+        "length": "14257196",
+        "type": "audio/mp3"
+      }
+    },
+    {
       "title": "Haftarah Terumah",
       "guid": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-terumah.mp3",
       "pubDate": "Fri, 28 Feb 2025 18:00:00 -0700",
