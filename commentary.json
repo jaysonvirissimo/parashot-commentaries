@@ -16,6 +16,17 @@
   "category": "Religion & Spirituality",
   "items": [
     {
+      "title": "Haftarah Pekudey",
+      "guid": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-pekudey.mp3",
+      "pubDate": "Fri, 28 Mar 2025 18:00:00 -0700",
+      "description": "Commentary on Haftarah portion Pekudey (1 Kings  7:51 - 8:21)",
+      "enclosure": {
+        "url": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-pekudey.mp3",
+        "length": "16610732",
+        "type": "audio/mp3"
+      }
+    },
+    {
       "title": "Haftarah Vayakhel",
       "guid": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-vayakhel.mp3",
       "pubDate": "Fri, 21 Mar 2025 18:00:00 -0700",
