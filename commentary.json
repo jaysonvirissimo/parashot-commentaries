@@ -16,6 +16,17 @@
   "category": "Religion & Spirituality",
   "items": [
     {
+      "title": "Haftarah Vayakhel",
+      "guid": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-vayakhel.mp3",
+      "pubDate": "Fri, 21 Mar 2025 18:00:00 -0700",
+      "description": "Commentary on Haftarah portion Vayakhel (1 kings 7:13-50)",
+      "enclosure": {
+        "url": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-vayakhel.mp3",
+        "length": "19033388",
+        "type": "audio/mp3"
+      }
+    },
+    {
       "title": "Haftarah Ki-Tissa",
       "guid": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-ki-tissa.mp3",
       "pubDate": "Fri, 14 Mar 2025 18:00:00 -0700",
