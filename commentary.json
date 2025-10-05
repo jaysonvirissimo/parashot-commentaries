@@ -16,6 +16,17 @@
   "category": "Religion & Spirituality",
   "items": [
     {
+      "title": "Haftarah Vayikra",
+      "guid": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-vayikra.mp3",
+      "pubDate": "Fri, 04 Apr 2025 18:00:00 -0700",
+      "description": "Commentary on Haftarah portion \"Vayikra\" (Isaiah 43:21-44:23)",
+      "enclosure": {
+        "url": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-vayikra.mp3",
+        "length": "27170540",
+        "type": "audio/mp3"
+      }
+    },
+    {
       "title": "Haftarah Pekudey",
       "guid": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-pekudey.mp3",
       "pubDate": "Fri, 28 Mar 2025 18:00:00 -0700",
