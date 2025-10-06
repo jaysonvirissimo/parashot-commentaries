@@ -16,6 +16,17 @@
   "category": "Religion & Spirituality",
   "items": [
     {
+      "title": "Haftarah Shemini",
+      "guid": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-shemini.mp3",
+      "pubDate": "Fri, 25 Apr 2025 18:00:00 -0700",
+      "description": "Commentary on Haftarah portion \"Shemini\" (2 Samuel 6:1-19 )",
+      "enclosure": {
+        "url": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-shemini.mp3",
+        "length": "18432620",
+        "type": "audio/mp3"
+      }
+    },
+    {
       "title": "Haftarah Tsav",
       "guid": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-tsav.mp3",
       "pubDate": "Fri, 11 Apr 2025 18:00:00 -0700",
