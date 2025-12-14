@@ -27,7 +27,7 @@
       }
     },
     {
-      "title": "Haftarah Tsav",
+      "title": "Haftarah Tzav",
       "guid": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-tsav.mp3",
       "pubDate": "Fri, 11 Apr 2025 18:00:00 -0700",
       "description": "Commentary on Haftarah portion \"Tsav\" (Jeremiah 7:21-28; 9:22,23)",
@@ -49,7 +49,7 @@
       }
     },
     {
-      "title": "Haftarah Pekudey",
+      "title": "Haftarah Pekudei",
       "guid": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-pekudey.mp3",
       "pubDate": "Fri, 28 Mar 2025 18:00:00 -0700",
       "description": "Commentary on Haftarah portion Pekudey (1 Kings  7:51 - 8:21)",
@@ -71,7 +71,7 @@
       }
     },
     {
-      "title": "Haftarah Ki-Tissa",
+      "title": "Haftarah Ki Tisa",
       "guid": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-ki-tissa.mp3",
       "pubDate": "Fri, 14 Mar 2025 18:00:00 -0700",
       "description": "Commentary on Haftarah portion Ki-Tissa (1 Kings 18:1-39)",
@@ -225,7 +225,7 @@
       }
     },
     {
-      "title": "Bereshit Haftara",
+      "title": "Haftarah Bereshit",
       "guid": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/bereshit-haftara.m4a",
       "pubDate": "Sat, 26 Oct 2024 18:00:00 -0700",
       "description": "Commentary on Haftara portion \"Bereshit\"",
@@ -247,7 +247,7 @@
       }
     },
     {
-      "title": "Noach Haftara",
+      "title": "Haftarah Noach",
       "guid": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/noach-haftara.m4a",
       "pubDate": "Sat, 02 Nov 2024 18:00:00 -0700",
       "description": "Commentary on Haftara portion \"Noach\"",
@@ -269,7 +269,7 @@
       }
     },
     {
-      "title": "Lech-Lecha Haftara",
+      "title": "Haftarah Lech-Lecha",
       "guid": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/lech-lecha-haftara.m4a",
       "pubDate": "Sat, 09 Nov 2024 18:00:00 -0700",
       "description": "Commentary on Haftara portion \"Lech-Lecha\"",
@@ -291,7 +291,7 @@
       }
     },
     {
-      "title": "Vayera Haftara",
+      "title": "Haftarah Vayera",
       "guid": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayera-haftara.m4a",
       "pubDate": "Sat, 16 Nov 2024 18:00:00 -0700",
       "description": "Commentary on Haftara portion \"Vayera\"",
@@ -313,7 +313,7 @@
       }
     },
     {
-      "title": "Chayei Sarah Haftara",
+      "title": "Haftarah Chayei Sarah",
       "guid": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/chayei-sarah-haftara.m4a",
       "pubDate": "Sat, 23 Nov 2024 18:00:00 -0700",
       "description": "Commentary on Haftara portion \"Chayei Sarah\"",
@@ -335,7 +335,7 @@
       }
     },
     {
-      "title": "Toldot Haftara",
+      "title": "Haftarah Toldot",
       "guid": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/toldot-haftara.m4a",
       "pubDate": "Fri, 29 Nov 2024 18:00:00 -0700",
       "description": "Commentary on Haftara portion \"Toldot Haftara\"",
@@ -346,7 +346,7 @@
       }
     },
     {
-      "title": "Vayetze",
+      "title": "Vayetzei",
       "guid": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayetze.mp3",
       "pubDate": "Fri, 06 Dec 2024 18:00:00 -0700",
       "description": "Commentary on Torah portion \"Vayetze\" (Genesis 28:10-32:3)",
@@ -357,7 +357,7 @@
       }
     },
     {
-      "title": "Vayetze Haftara",
+      "title": "Haftarah Vayetzei",
       "guid": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayetze-haftara.m4a",
       "pubDate": "Fri, 06 Dec 2024 18:00:00 -0700",
       "description": "Commentary on Haftara portion \"Vayetze Haftara\"",
@@ -379,7 +379,7 @@
       }
     },
     {
-      "title": "Vayishlach Haftara",
+      "title": "Haftarah Vayishlach",
       "guid": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayishlach-haftara.m4a",
       "pubDate": "Fri, 13 Dec 2024 18:00:00 -0700",
       "description": "Commentary on Haftara portion \"Vayishlach Haftara\"",
@@ -401,7 +401,7 @@
       }
     },
     {
-      "title": "Vayeshev Haftara",
+      "title": "Haftarah Vayeshev",
       "guid": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayeshev-haftara.m4a",
       "pubDate": "Sat, 21 Dec 2024 18:00:00 -0700",
       "description": "Commentary on Haftara portion \"Vayeshev Haftara\"",
@@ -621,7 +621,7 @@
       }
     },
     {
-      "title": "Acharei Mot",
+      "title": "Achrei Mot",
       "guid": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/acharei-mot.m4a",
       "pubDate": "Fri, 09 May 2025 18:00:00 -0700",
       "description": "Commentary on Torah portion \"Acharei Mot\" (Leveticus 16:1-18:30)",
