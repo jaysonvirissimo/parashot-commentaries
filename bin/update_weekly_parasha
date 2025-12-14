@@ -1,0 +1,167 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+require_relative '../lib/parashot_commentaries'
+
+class WeeklyParashaUpdater
+  def initialize
+    @commentary_file = File.join(File.dirname(__FILE__), '..', 'commentary.json')
+    @readme_file = File.join(File.dirname(__FILE__), '..', 'README.md')
+  end
+
+  def run
+    puts "=" * 80
+    puts "Weekly Parasha Update Script"
+    puts "=" * 80
+    puts
+
+    # Get current parasha
+    current_parasha = get_current_parasha
+    puts "Current parasha: #{current_parasha}"
+    puts
+
+    # Load commentary data
+    data = load_commentary_data
+
+    # Find matching episodes
+    matching_episodes = find_matching_episodes(data, current_parasha)
+
+    if matching_episodes.empty?
+      puts "⚠️  No episodes found for parasha '#{current_parasha}'"
+      puts "This is expected if the episode hasn't been created yet."
+      puts
+      update_readme_timestamp
+      exit 0
+    end
+
+    # Calculate next Friday
+    next_friday = ParashotCommentaries.next_friday_1800
+    puts "Next Friday 18:00 Arizona time: #{next_friday.rfc2822}"
+    puts
+
+    # Update pubDates
+    updated_count = update_episodes(data, matching_episodes, next_friday)
+
+    # Save updated data
+    save_commentary_data(data)
+
+    # Regenerate RSS feed
+    regenerate_rss
+
+    # Update README timestamp
+    update_readme_timestamp
+
+    # Print summary
+    print_summary(current_parasha, matching_episodes, next_friday)
+
+    exit 0
+  end
+
+  private
+
+  def get_current_parasha
+    hebrew_date = HebrewDate.new(Date.today)
+    parasha_name = hebrew_date.parsha
+
+    if parasha_name.nil?
+      puts "⚠️  No parasha this week (likely a holiday week)"
+      update_readme_timestamp
+      exit 0
+    end
+
+    # The parsha method returns the parasha name directly
+    parasha_name
+  end
+
+  def load_commentary_data
+    unless File.exist?(@commentary_file)
+      puts "❌ Error: commentary.json not found"
+      exit 1
+    end
+
+    JSON.parse(File.read(@commentary_file))
+  end
+
+  def find_matching_episodes(data, parasha_name)
+    episodes = ParashotCommentaries.find_matching_episodes(data, parasha_name)
+
+    puts "Found #{episodes.length} matching episode(s):"
+    episodes.each do |episode|
+      puts "  - #{episode['title']}"
+      puts "    Current pubDate: #{episode['pubDate']}"
+    end
+    puts
+
+    episodes
+  end
+
+  def update_episodes(data, matching_episodes, new_pub_date)
+    new_pub_date_str = new_pub_date.rfc2822
+
+    matching_episodes.each do |episode|
+      # Find the episode in the data array and update it
+      index = data['items'].index { |item| item['guid'] == episode['guid'] }
+      if index
+        data['items'][index]['pubDate'] = new_pub_date_str
+      end
+    end
+
+    matching_episodes.length
+  end
+
+  def save_commentary_data(data)
+    File.write(@commentary_file, JSON.pretty_generate(data))
+    puts "✓ Updated commentary.json"
+  end
+
+  def regenerate_rss
+    system("#{File.dirname(__FILE__)}/generate") or raise "Failed to regenerate RSS feed"
+    puts "✓ Regenerated RSS feed"
+  end
+
+  def update_readme_timestamp
+    unless File.exist?(@readme_file)
+      puts "⚠️  README.md not found, skipping timestamp update"
+      return
+    end
+
+    readme_content = File.read(@readme_file)
+    timestamp = Time.now.getlocal(ParashotCommentaries::ARIZONA_TIMEZONE_OFFSET)
+                       .strftime("%Y-%m-%d %H:%M:%S %z")
+
+    # Look for existing timestamp marker, or add it at the end
+    if readme_content.include?("<!-- LAST_RUN_TIMESTAMP -->")
+      # Update existing timestamp
+      updated_content = readme_content.gsub(
+        /<!-- LAST_RUN_TIMESTAMP -->.*?<!-- \/LAST_RUN_TIMESTAMP -->/m,
+        "<!-- LAST_RUN_TIMESTAMP -->\n**Last automated update:** #{timestamp}\n<!-- /LAST_RUN_TIMESTAMP -->"
+      )
+    else
+      # Add timestamp section at the end
+      updated_content = readme_content.rstrip + "\n\n" +
+        "<!-- LAST_RUN_TIMESTAMP -->\n" +
+        "**Last automated update:** #{timestamp}\n" +
+        "<!-- /LAST_RUN_TIMESTAMP -->\n"
+    end
+
+    File.write(@readme_file, updated_content)
+    puts "✓ Updated README.md with timestamp"
+  end
+
+  def print_summary(parasha_name, episodes, new_pub_date)
+    puts
+    puts "=" * 80
+    puts "Summary"
+    puts "=" * 80
+    puts "Parasha: #{parasha_name}"
+    puts "Episodes updated: #{episodes.length}"
+    episodes.each do |episode|
+      puts "  - #{episode['title']}"
+    end
+    puts "New pubDate: #{new_pub_date.rfc2822}"
+    puts "=" * 80
+  end
+end
+
+# Run the updater
+WeeklyParashaUpdater.new.run

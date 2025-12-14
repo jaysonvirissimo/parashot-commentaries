@@ -42,6 +42,18 @@ bin/build                        # Rebuild pronunciation lexicons from pronuncia
 bin/order                        # Sort and deduplicate pronunciation-guide.json
 ```
 
+### Automated Parasha Updates
+```bash
+bin/update_weekly_parasha        # Update episode pubDates for current week's parasha
+```
+
+The weekly parasha update runs automatically via GitHub Actions every Thursday at 10:00 UTC (3:00 AM Arizona time). It:
+- Determines the current week's Torah portion using the `hebrew_date` gem (Diaspora calendar)
+- Finds matching episodes (Torah portion + Haftarah)
+- Updates pubDates to the next Friday 18:00 Arizona time
+- Regenerates the RSS feed
+- Creates a pull request for review
+
 ## Architecture
 
 ### Data Flow
@@ -56,6 +68,7 @@ bin/order                        # Sort and deduplicate pronunciation-guide.json
 - `commentary.rss`: Auto-generated RSS feed (do not edit manually)
 - `pronunciation-guide.json`: IPA pronunciation mappings for Hebrew/specialized terms
 - `lexicons/*.pls`: PLS (Pronunciation Lexicon Specification) files generated from pronunciation guide
+- `lib/parashot_commentaries.rb`: Shared configuration and utilities for parasha scheduling
 
 ### Pronunciation System
 The project uses a custom pronunciation system for proper Hebrew term pronunciation:
@@ -88,6 +101,7 @@ Tests validate:
 - All referenced audio files exist in `audio/` directory
 - Audio file sizes match the length specified in `commentary.json`
 - `commentary.rss` is well-formed XML
+- Episode titles match parasha names from the `hebrew_date` gem
 
 ## Dependencies
 
@@ -98,6 +112,7 @@ Ruby gems:
 - `nokogiri`: XML/RSS generation
 - `rexml`: XML parsing for lexicons and validation
 - `rspec`: Testing framework
+- `hebrew_date`: Jewish calendar calculations for parasha scheduling
 
 System requirements:
 - Ruby (see `.github/workflows/ruby.yml` for version)
@@ -111,3 +126,5 @@ System requirements:
 - Audio files are stored in the repository (not externally hosted)
 - RSS feed items are sorted by pubDate in descending order (most recent first)
 - File length in commentary.json must exactly match actual file size (tested)
+- Episode titles must match parasha names from `hebrew_date` gem for automated scheduling
+- All times use Arizona timezone (UTC-7 year-round, no DST)

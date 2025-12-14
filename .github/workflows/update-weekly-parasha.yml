@@ -1,0 +1,57 @@
+name: Update Weekly Parasha
+
+on:
+  # Run every Thursday at 10:00 UTC (3:00 AM Arizona time)
+  schedule:
+    - cron: '0 10 * * 4'
+
+  # Allow manual triggering for testing
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  update-parasha:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+          bundler-cache: true
+
+      - name: Run weekly parasha update script
+        id: update
+        run: |
+          bin/update_weekly_parasha
+          echo "Script completed successfully"
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: 'Update weekly parasha schedule'
+          branch: automated-parasha-update
+          delete-branch: true
+          title: 'Update Weekly Parasha Schedule'
+          body: |
+            This is an automated pull request to update the weekly parasha schedule.
+
+            ## Changes
+            - Updated episode pubDates for the current week's Torah portion
+            - Regenerated RSS feed
+            - Updated README timestamp
+
+            Please review and merge if everything looks correct.
+
+            🤖 Generated automatically by GitHub Actions
+          labels: |
+            automation
+            parasha-update
+          assignees: jaysonvirissimo
