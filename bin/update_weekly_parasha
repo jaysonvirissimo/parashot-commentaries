@@ -60,7 +60,13 @@ class WeeklyParashaUpdater
   private
 
   def get_current_parasha
-    hebrew_date = HebrewDate.new(Date.today)
+    # Find the upcoming Saturday (Shabbat) to check the parasha
+    today = Date.today
+    days_until_saturday = (6 - today.wday) % 7
+    days_until_saturday = 7 if days_until_saturday == 0  # If today is Saturday, check next Saturday
+    next_saturday = today + days_until_saturday
+
+    hebrew_date = HebrewDate.new(next_saturday)
     parasha_name = hebrew_date.parsha
 
     if parasha_name.nil?
