@@ -29,7 +29,7 @@ jobs:
       - name: Run weekly parasha update script
         id: update
         run: |
-          bin/update_weekly_parasha
+          bundle exec bin/update_weekly_parasha
           echo "Script completed successfully"
 
       - name: Create Pull Request
