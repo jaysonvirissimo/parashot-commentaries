@@ -24,6 +24,8 @@ GEM
     hebrew_date (1.1.1)
     jmespath (1.6.2)
     multi_json (1.15.0)
+    nokogiri (1.16.2-aarch64-linux)
+      racc (~> 1.4)
     nokogiri (1.16.2-arm64-darwin)
       racc (~> 1.4)
     nokogiri (1.16.2-x86_64-darwin)
@@ -47,6 +49,7 @@ GEM
       multi_json (~> 1.8)
 
 PLATFORMS
+  aarch64-linux
   arm64-darwin-22
   arm64-darwin-24
   x86_64-darwin-20
