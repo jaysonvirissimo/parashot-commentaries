@@ -70,3 +70,7 @@ Your new episode is now live and ready for listeners!
   echo 'export AWS_SECRET_ACCESS_KEY=your_secret_access_key_here' >> ~/.zshrc
   source ~/.zshrc
   ```
+
+<!-- LAST_RUN_TIMESTAMP -->
+**Last automated update:** 2025-12-18 20:46:15 -0700
+<!-- /LAST_RUN_TIMESTAMP -->
