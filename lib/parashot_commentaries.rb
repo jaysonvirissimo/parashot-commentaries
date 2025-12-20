@@ -35,11 +35,19 @@ module ParashotCommentaries
   # Calculate next Friday at 18:00 Arizona time
   # Arizona doesn't observe DST, so it's always UTC-7
   def self.next_friday_1800
-    today = Date.today
-    days_until_friday = (5 - today.wday) % 7
-    days_until_friday = 7 if days_until_friday == 0  # If today is Friday, go to next Friday
+    # Get current time in Arizona timezone
+    now = Time.now.getlocal(ARIZONA_TIMEZONE_OFFSET)
+    current_date = now.to_date
 
-    next_friday = today + days_until_friday
+    days_until_friday = (5 - current_date.wday) % 7
+
+    # If today is Friday, check if we're before or after the 18:00 deadline
+    if days_until_friday == 0
+      # If we're at or past 18:00, target next Friday
+      days_until_friday = 7 if now.hour >= 18
+    end
+
+    next_friday = current_date + days_until_friday
     Time.new(next_friday.year, next_friday.month, next_friday.day, 18, 0, 0, ARIZONA_TIMEZONE_OFFSET)
   end
 
