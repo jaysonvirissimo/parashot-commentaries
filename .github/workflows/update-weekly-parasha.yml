@@ -54,4 +54,4 @@ jobs:
           labels: |
             automation
             parasha-update
-          assignees: jaysonvirissimo
+          assignees: ltviriss
