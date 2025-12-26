@@ -28,6 +28,27 @@
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/korach.mp3" length="73869740" type="audio/mp3"/>
     </item>
     <item>
+      <title>Vayigash</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayigash.m4a</guid>
+      <pubDate>Fri, 26 Dec 2025 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Vayigash" (Genesis 44:18-47:27)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayigash.m4a" length="20383538" type="audio/mp4"/>
+    </item>
+    <item>
+      <title>Haftarah Vayigash</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-vayigash.mp3</guid>
+      <pubDate>Fri, 26 Dec 2025 18:00:00 -0700</pubDate>
+      <description>Commentary on Haftarah portion "Vayigash" (EZEKIEL 37:15-28)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-vayigash.mp3" length="14057891" type="audio/mp3"/>
+    </item>
+    <item>
+      <title>Miketz</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/miketz.m4a</guid>
+      <pubDate>Fri, 19 Dec 2025 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Miketz" (Genesis 41:1-44:17)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/miketz.m4a" length="24281921 " type="audio/mp4"/>
+    </item>
+    <item>
       <title>Haftarah Miketz</title>
       <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-miketz.mp3</guid>
       <pubDate>Fri, 19 Dec 2025 18:00:00 -0700</pubDate>
@@ -334,20 +355,6 @@
       <pubDate>Fri, 10 Jan 2025 18:00:00 -0700</pubDate>
       <description>Commentary on Torah portion "Vayechi" (Genesis 47:28-50:26)</description>
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayechi.m4a" length="20754636" type="audio/mp4"/>
-    </item>
-    <item>
-      <title>Haftarah Vayigash</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-vayigash.mp3</guid>
-      <pubDate>Sat, 04 Jan 2025 18:00:00 -0700</pubDate>
-      <description>Commentary on Haftarah portion "Vayigash" (EZEKIEL 37:15-28)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-vayigash.mp3" length="14057891" type="audio/mp3"/>
-    </item>
-    <item>
-      <title>Vayigash</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayigash.m4a</guid>
-      <pubDate>Fri, 03 Jan 2025 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Vayigash" (Genesis 44:18-47:27)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayigash.m4a" length="20383538" type="audio/mp4"/>
     </item>
     <item>
       <title>Haftarah Vayeshev</title>
