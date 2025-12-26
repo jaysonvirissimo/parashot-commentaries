@@ -16,6 +16,17 @@
   "category": "Religion & Spirituality",
   "items": [
     {
+      "title": "Korach",
+      "guid": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/korach.mp3",
+      "pubDate": "Sat, 20 Jun 2026 18:00:00 -0700",
+      "description": "Commentary on Torah portion \"Korach\" (Numbers 16:1-18:32)",
+      "enclosure": {
+        "url": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/korach.mp3",
+        "length": "73869740",
+        "type": "audio/mp3"
+      }
+    },
+    {
       "title": "Haftarah Shemini",
       "guid": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-shemini.mp3",
       "pubDate": "Fri, 25 Apr 2025 18:00:00 -0700",
