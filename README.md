@@ -56,8 +56,33 @@ The script will automatically:
 4. Review the changes and create the pull request
 5. Once the tests pass, merge the pull request
 
-### 4. Celebrate! 🎉
+### 4. Celebrate!
 Your new episode is now live and ready for listeners!
+
+## Automated Weekly Updates
+
+The repository includes automation that keeps the podcast feed current without manual intervention.
+
+### How It Works
+
+Every Thursday at 3:00 AM Arizona time, a GitHub Actions workflow:
+
+1. Determines the current week's Torah portion using the Hebrew calendar
+2. Finds matching episodes (Torah portion and Haftarah)
+3. Updates their publication dates to the upcoming Friday at 6:00 PM Arizona time
+4. Regenerates the RSS feed
+5. Creates a pull request with the changes
+6. Auto-merges the PR once tests pass
+
+This ensures listeners always see the relevant parasha at the top of their podcast feed each week.
+
+### Manual Trigger
+
+You can also trigger the weekly update manually:
+
+1. Go to the [Actions tab](https://github.com/jaysonvirissimo/parashot-commentaries/actions)
+2. Select "Update Weekly Parasha" workflow
+3. Click "Run workflow"
 
 ## Troubleshooting
 - If you see "permission denied" when running the script, make it executable:

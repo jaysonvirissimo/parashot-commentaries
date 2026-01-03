@@ -52,7 +52,7 @@ The weekly parasha update runs automatically via GitHub Actions every Thursday a
 - Finds matching episodes (Torah portion + Haftarah)
 - Updates pubDates to the next Friday 18:00 Arizona time
 - Regenerates the RSS feed
-- Creates a pull request for review
+- Creates a pull request that auto-merges when tests pass
 
 ## Architecture
 
