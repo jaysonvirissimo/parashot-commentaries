@@ -28,6 +28,27 @@
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/korach.mp3" length="73869740" type="audio/mp3"/>
     </item>
     <item>
+      <title>Shemot</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/shemot.m4a</guid>
+      <pubDate>Fri, 09 Jan 2026 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Shemot" (Exodus 1:1-6:1)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/shemot.m4a" length="30302412" type="audio/mp4"/>
+    </item>
+    <item>
+      <title>Haftarah Shemot (Ashkenazim)</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-shemot-ashkenazim-.mp3</guid>
+      <pubDate>Fri, 09 Jan 2026 18:00:00 -0700</pubDate>
+      <description>Commentary on Haftarah portion "Shemot" (Isaiah 27:6-29:23)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-shemot-ashkenazim-.mp3" length="12370220" type="audio/mp3"/>
+    </item>
+    <item>
+      <title>Haftarah Shemot (Sephardim)</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-shemot-sephardim-.mp3</guid>
+      <pubDate>Fri, 09 Jan 2026 18:00:00 -0700</pubDate>
+      <description>Commentary on Haftarah portion "Shemot" (Jeremiah 1:1-2:30)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-shemot-sephardim-.mp3" length="13102316" type="audio/mp3"/>
+    </item>
+    <item>
       <title>Vayechi</title>
       <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayechi.m4a</guid>
       <pubDate>Fri, 02 Jan 2026 18:00:00 -0700</pubDate>
@@ -327,27 +348,6 @@
       <pubDate>Fri, 24 Jan 2025 18:00:00 -0700</pubDate>
       <description>Commentary on Haftarah portion Vaera Ezekiel 28:25 - 29:21</description>
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-vaera.mp3" length="13688684" type="audio/mp3"/>
-    </item>
-    <item>
-      <title>Haftarah Shemot (Ashkenazim)</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-shemot-ashkenazim-.mp3</guid>
-      <pubDate>Sat, 18 Jan 2025 18:00:00 -0700</pubDate>
-      <description>Commentary on Haftarah portion "Shemot" (Isaiah 27:6-29:23)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-shemot-ashkenazim-.mp3" length="12370220" type="audio/mp3"/>
-    </item>
-    <item>
-      <title>Haftarah Shemot (Sephardim)</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-shemot-sephardim-.mp3</guid>
-      <pubDate>Sat, 18 Jan 2025 18:00:00 -0700</pubDate>
-      <description>Commentary on Haftarah portion "Shemot" (Jeremiah 1:1-2:30)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-shemot-sephardim-.mp3" length="13102316" type="audio/mp3"/>
-    </item>
-    <item>
-      <title>Shemot</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/shemot.m4a</guid>
-      <pubDate>Fri, 17 Jan 2025 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Shemot" (Exodus 1:1-6:1)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/shemot.m4a" length="30302412" type="audio/mp4"/>
     </item>
     <item>
       <title>Haftarah Vayeshev</title>
