@@ -32,23 +32,16 @@ module ParashotCommentaries
     normalize_name(base_name) == normalize_name(parasha_name)
   end
 
-  # Calculate next Friday at 18:00 Arizona time
+  # Calculate same day at 06:00 Arizona time (for Sunday releases)
   # Arizona doesn't observe DST, so it's always UTC-7
-  def self.next_friday_1800
-    # Get current time in Arizona timezone
+  def self.same_day_0600
     now = Time.now.getlocal(ARIZONA_TIMEZONE_OFFSET)
     current_date = now.to_date
 
-    days_until_friday = (5 - current_date.wday) % 7
+    # If we're past 06:00, target tomorrow at 06:00
+    target_date = now.hour >= 6 ? current_date + 1 : current_date
 
-    # If today is Friday, check if we're before or after the 18:00 deadline
-    if days_until_friday == 0
-      # If we're at or past 18:00, target next Friday
-      days_until_friday = 7 if now.hour >= 18
-    end
-
-    next_friday = current_date + days_until_friday
-    Time.new(next_friday.year, next_friday.month, next_friday.day, 18, 0, 0, ARIZONA_TIMEZONE_OFFSET)
+    Time.new(target_date.year, target_date.month, target_date.day, 6, 0, 0, ARIZONA_TIMEZONE_OFFSET)
   end
 
   # Find all episodes matching a parasha name (Torah portion + Haftarah variants)

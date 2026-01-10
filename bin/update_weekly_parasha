@@ -34,13 +34,13 @@ class WeeklyParashaUpdater
       exit 0
     end
 
-    # Calculate next Friday
-    next_friday = ParashotCommentaries.next_friday_1800
-    puts "Next Friday 18:00 Arizona time: #{next_friday.rfc2822}"
+    # Calculate release time (Sunday 6 AM Arizona)
+    release_time = ParashotCommentaries.same_day_0600
+    puts "Release time (Sunday 06:00 Arizona): #{release_time.rfc2822}"
     puts
 
     # Update pubDates
-    updated_count = update_episodes(data, matching_episodes, next_friday)
+    updated_count = update_episodes(data, matching_episodes, release_time)
 
     # Save updated data
     save_commentary_data(data)
@@ -52,7 +52,7 @@ class WeeklyParashaUpdater
     update_readme_timestamp
 
     # Print summary
-    print_summary(current_parasha, matching_episodes, next_friday)
+    print_summary(current_parasha, matching_episodes, release_time)
 
     exit 0
   end
