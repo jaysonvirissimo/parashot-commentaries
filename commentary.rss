@@ -28,6 +28,20 @@
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/korach.mp3" length="73869740" type="audio/mp3"/>
     </item>
     <item>
+      <title>Vaera</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vaera.m4a</guid>
+      <pubDate>Sun, 11 Jan 2026 06:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Vaera" (Exodus 6:2-9:35)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vaera.m4a" length="24079345" type="audio/mp4"/>
+    </item>
+    <item>
+      <title>Haftarah Vaera</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-vaera.mp3</guid>
+      <pubDate>Sun, 11 Jan 2026 06:00:00 -0700</pubDate>
+      <description>Commentary on Haftarah portion Vaera Ezekiel 28:25 - 29:21</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-vaera.mp3" length="13688684" type="audio/mp3"/>
+    </item>
+    <item>
       <title>Shemot</title>
       <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/shemot.m4a</guid>
       <pubDate>Fri, 09 Jan 2026 18:00:00 -0700</pubDate>
@@ -334,20 +348,6 @@
       <pubDate>Fri, 31 Jan 2025 18:00:00 -0700</pubDate>
       <description>Commentary on Haftarah portion Bo Jeremiah 46:13-28</description>
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-bo.mp3" length="16109036" type="audio/mp3"/>
-    </item>
-    <item>
-      <title>Vaera</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vaera.m4a</guid>
-      <pubDate>Fri, 24 Jan 2025 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Vaera" (Exodus 6:2-9:35)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vaera.m4a" length="24079345" type="audio/mp4"/>
-    </item>
-    <item>
-      <title>Haftarah Vaera</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-vaera.mp3</guid>
-      <pubDate>Fri, 24 Jan 2025 18:00:00 -0700</pubDate>
-      <description>Commentary on Haftarah portion Vaera Ezekiel 28:25 - 29:21</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-vaera.mp3" length="13688684" type="audio/mp3"/>
     </item>
     <item>
       <title>Haftarah Vayeshev</title>
