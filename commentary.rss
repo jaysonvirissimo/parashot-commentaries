@@ -28,6 +28,20 @@
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/korach.mp3" length="73869740" type="audio/mp3"/>
     </item>
     <item>
+      <title>Bo</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/bo.m4a</guid>
+      <pubDate>Sun, 18 Jan 2026 06:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Bo" (Exodus 10:1-13:16)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/bo.m4a" length="28602843" type="audio/mp4"/>
+    </item>
+    <item>
+      <title>Haftarah Bo</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-bo.mp3</guid>
+      <pubDate>Sun, 18 Jan 2026 06:00:00 -0700</pubDate>
+      <description>Commentary on Haftarah portion Bo Jeremiah 46:13-28</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-bo.mp3" length="16109036" type="audio/mp3"/>
+    </item>
+    <item>
       <title>Vaera</title>
       <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vaera.m4a</guid>
       <pubDate>Sun, 11 Jan 2026 06:00:00 -0700</pubDate>
@@ -334,20 +348,6 @@
       <pubDate>Fri, 07 Feb 2025 18:00:00 -0700</pubDate>
       <description>Commentary on Haftarah portion "Beshalach" (Judges 4:4-5:31)</description>
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-beshalach.mp3" length="13658732" type="audio/mp3"/>
-    </item>
-    <item>
-      <title>Bo</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/bo.m4a</guid>
-      <pubDate>Fri, 31 Jan 2025 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Bo" (Exodus 10:1-13:16)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/bo.m4a" length="28602843" type="audio/mp4"/>
-    </item>
-    <item>
-      <title>Haftarah Bo</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-bo.mp3</guid>
-      <pubDate>Fri, 31 Jan 2025 18:00:00 -0700</pubDate>
-      <description>Commentary on Haftarah portion Bo Jeremiah 46:13-28</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-bo.mp3" length="16109036" type="audio/mp3"/>
     </item>
     <item>
       <title>Haftarah Vayeshev</title>
