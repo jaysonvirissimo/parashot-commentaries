@@ -28,6 +28,20 @@
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/korach.mp3" length="73869740" type="audio/mp3"/>
     </item>
     <item>
+      <title>Yitro</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/yitro.m4a</guid>
+      <pubDate>Sun, 01 Feb 2026 06:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Yitro" (Exodus 18:1-20:23)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/yitro.m4a" length="35113437" type="audio/mp4"/>
+    </item>
+    <item>
+      <title>Haftarah Yitro</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-yitro.mp3</guid>
+      <pubDate>Sun, 01 Feb 2026 06:00:00 -0700</pubDate>
+      <description>Commentary on Haftarah portion Yitro Isaiah 6:1-7:6; 9:5, 6</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-yitro.mp3" length="29179052" type="audio/mp3"/>
+    </item>
+    <item>
       <title>Bo</title>
       <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/bo.m4a</guid>
       <pubDate>Sun, 18 Jan 2026 06:00:00 -0700</pubDate>
@@ -320,20 +334,6 @@
       <pubDate>Fri, 21 Feb 2025 18:00:00 -0700</pubDate>
       <description>Commentary on Haftarah portion Mishpatim (Jeremiah 33:25-34:22)</description>
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-mishpatim.mp3" length="15044588" type="audio/mp3"/>
-    </item>
-    <item>
-      <title>Yitro</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/yitro.m4a</guid>
-      <pubDate>Fri, 14 Feb 2025 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Yitro" (Exodus 18:1-20:23)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/yitro.m4a" length="35113437" type="audio/mp4"/>
-    </item>
-    <item>
-      <title>Haftarah Yitro</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-yitro.mp3</guid>
-      <pubDate>Fri, 14 Feb 2025 18:00:00 -0700</pubDate>
-      <description>Commentary on Haftarah portion Yitro Isaiah 6:1-7:6; 9:5, 6</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-yitro.mp3" length="29179052" type="audio/mp3"/>
     </item>
     <item>
       <title>Beshalach</title>
