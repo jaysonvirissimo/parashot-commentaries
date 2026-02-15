@@ -28,6 +28,20 @@
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/korach.mp3" length="73869740" type="audio/mp3"/>
     </item>
     <item>
+      <title>Terumah</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/terumah.m4a</guid>
+      <pubDate>Sun, 15 Feb 2026 06:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Terumah" (Exodus 25:1-27:19)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/terumah.m4a" length="26615476" type="audio/mp4"/>
+    </item>
+    <item>
+      <title>Haftarah Terumah</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-terumah.mp3</guid>
+      <pubDate>Sun, 15 Feb 2026 06:00:00 -0700</pubDate>
+      <description>Commentary on Haftarah portion Terumah (1 Kings 5:26-6:13)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-terumah.mp3" length="15209324" type="audio/mp3"/>
+    </item>
+    <item>
       <title>Yitro</title>
       <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/yitro.m4a</guid>
       <pubDate>Sun, 01 Feb 2026 06:00:00 -0700</pubDate>
@@ -306,20 +320,6 @@
       <pubDate>Fri, 07 Mar 2025 18:00:00 -0700</pubDate>
       <description>Commentary on Haftarah portion Tetzaveh (Ezekiel 43:10-27)</description>
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-tetzaveh.mp3" length="14257196" type="audio/mp3"/>
-    </item>
-    <item>
-      <title>Terumah</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/terumah.m4a</guid>
-      <pubDate>Fri, 28 Feb 2025 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Terumah" (Exodus 25:1-27:19)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/terumah.m4a" length="26615476" type="audio/mp4"/>
-    </item>
-    <item>
-      <title>Haftarah Terumah</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-terumah.mp3</guid>
-      <pubDate>Fri, 28 Feb 2025 18:00:00 -0700</pubDate>
-      <description>Commentary on Haftarah portion Terumah (1 Kings 5:26-6:13)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-terumah.mp3" length="15209324" type="audio/mp3"/>
     </item>
     <item>
       <title>Mishpatim</title>
