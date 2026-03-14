@@ -29,7 +29,21 @@ module ParashotCommentaries
                   .sub(/^Haftarah /, '')  # Remove "Haftarah " prefix
                   .sub(/ \((Ashkenazim|Sephardim)\)$/, '')  # Remove tradition suffix
 
-    normalize_name(base_name) == normalize_name(parasha_name)
+    # Strip special Shabbat suffix (e.g., "/Zachor", "/Parah", "/Hachodesh")
+    parasha_base = parasha_name.split('/').first
+
+    normalized_title = normalize_name(base_name)
+    normalized_parasha = normalize_name(parasha_base)
+
+    # Direct match
+    return true if normalized_title == normalized_parasha
+
+    # Combined parashot: match individual parts (e.g., "Vayakhel-Pekudei" matches "Vayakhel" or "Pekudei")
+    if parasha_base.include?('-')
+      parasha_base.split('-').any? { |part| normalize_name(part) == normalized_title }
+    else
+      false
+    end
   end
 
   # Calculate same day at 06:00 Arizona time (for Sunday releases)

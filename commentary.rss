@@ -28,11 +28,18 @@
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/korach.mp3" length="73869740" type="audio/mp3"/>
     </item>
     <item>
-      <title>Terumah</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/terumah.m4a</guid>
-      <pubDate>Sun, 15 Feb 2026 06:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Terumah" (Exodus 25:1-27:19)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/terumah.m4a" length="26615476" type="audio/mp4"/>
+      <title>Vayikra</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayikra.m4a</guid>
+      <pubDate>Sun, 15 Mar 2026 06:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Vayikra" (Leveticus 1:1-5:26)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayikra.m4a" length="33732580" type="audio/mp4"/>
+    </item>
+    <item>
+      <title>Haftarah Vayikra</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-vayikra.mp3</guid>
+      <pubDate>Sun, 15 Mar 2026 06:00:00 -0700</pubDate>
+      <description>Commentary on Haftarah portion "Vayikra" (Isaiah 43:21-44:23)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-vayikra.mp3" length="27170540" type="audio/mp3"/>
     </item>
     <item>
       <title>Haftarah Terumah</title>
@@ -40,6 +47,13 @@
       <pubDate>Sun, 15 Feb 2026 06:00:00 -0700</pubDate>
       <description>Commentary on Haftarah portion Terumah (1 Kings 5:26-6:13)</description>
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-terumah.mp3" length="15209324" type="audio/mp3"/>
+    </item>
+    <item>
+      <title>Terumah</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/terumah.m4a</guid>
+      <pubDate>Sun, 15 Feb 2026 06:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Terumah" (Exodus 25:1-27:19)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/terumah.m4a" length="26615476" type="audio/mp4"/>
     </item>
     <item>
       <title>Haftarah Yitro</title>
@@ -84,6 +98,13 @@
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-vaera.mp3" length="13688684" type="audio/mp3"/>
     </item>
     <item>
+      <title>Haftarah Shemot (Sephardim)</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-shemot-sephardim-.mp3</guid>
+      <pubDate>Fri, 09 Jan 2026 18:00:00 -0700</pubDate>
+      <description>Commentary on Haftarah portion "Shemot" (Jeremiah 1:1-2:30)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-shemot-sephardim-.mp3" length="13102316" type="audio/mp3"/>
+    </item>
+    <item>
       <title>Haftarah Shemot (Ashkenazim)</title>
       <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-shemot-ashkenazim-.mp3</guid>
       <pubDate>Fri, 09 Jan 2026 18:00:00 -0700</pubDate>
@@ -96,13 +117,6 @@
       <pubDate>Fri, 09 Jan 2026 18:00:00 -0700</pubDate>
       <description>Commentary on Torah portion "Shemot" (Exodus 1:1-6:1)</description>
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/shemot.m4a" length="30302412" type="audio/mp4"/>
-    </item>
-    <item>
-      <title>Haftarah Shemot (Sephardim)</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-shemot-sephardim-.mp3</guid>
-      <pubDate>Fri, 09 Jan 2026 18:00:00 -0700</pubDate>
-      <description>Commentary on Haftarah portion "Shemot" (Jeremiah 1:1-2:30)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-shemot-sephardim-.mp3" length="13102316" type="audio/mp3"/>
     </item>
     <item>
       <title>Haftarah Vayechi</title>
@@ -210,13 +224,6 @@
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/emor.m4a" length="32233060" type="audio/mp4"/>
     </item>
     <item>
-      <title>Kedoshim</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/kedoshim.m4a</guid>
-      <pubDate>Fri, 09 May 2025 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Kedoshim" (Leveticus 19:1-20:27)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/kedoshim.m4a" length="30259146" type="audio/mp4"/>
-    </item>
-    <item>
       <title>Achrei Mot</title>
       <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/acharei-mot.m4a</guid>
       <pubDate>Fri, 09 May 2025 18:00:00 -0700</pubDate>
@@ -224,11 +231,11 @@
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/acharei-mot.m4a" length="35041105" type="audio/mp4"/>
     </item>
     <item>
-      <title>Metzora</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/metzora.m4a</guid>
-      <pubDate>Fri, 02 May 2025 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Metzora" (Leveticus 14:1-15:33)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/metzora.m4a" length="29898476" type="audio/mp4"/>
+      <title>Kedoshim</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/kedoshim.m4a</guid>
+      <pubDate>Fri, 09 May 2025 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Kedoshim" (Leveticus 19:1-20:27)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/kedoshim.m4a" length="30259146" type="audio/mp4"/>
     </item>
     <item>
       <title>Tazria</title>
@@ -236,6 +243,13 @@
       <pubDate>Fri, 02 May 2025 18:00:00 -0700</pubDate>
       <description>Commentary on Torah portion "Tazria" (Leveticus 12:1-13:5)</description>
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/tazria.m4a" length="22042187" type="audio/mp4"/>
+    </item>
+    <item>
+      <title>Metzora</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/metzora.m4a</guid>
+      <pubDate>Fri, 02 May 2025 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Metzora" (Leveticus 14:1-15:33)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/metzora.m4a" length="29898476" type="audio/mp4"/>
     </item>
     <item>
       <title>Sh'mini</title>
@@ -264,20 +278,6 @@
       <pubDate>Fri, 11 Apr 2025 18:00:00 -0700</pubDate>
       <description>Commentary on Haftarah portion "Tsav" (Jeremiah 7:21-28; 9:22,23)</description>
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-tsav.mp3" length="14431148" type="audio/mp3"/>
-    </item>
-    <item>
-      <title>Haftarah Vayikra</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-vayikra.mp3</guid>
-      <pubDate>Fri, 04 Apr 2025 18:00:00 -0700</pubDate>
-      <description>Commentary on Haftarah portion "Vayikra" (Isaiah 43:21-44:23)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-vayikra.mp3" length="27170540" type="audio/mp3"/>
-    </item>
-    <item>
-      <title>Vayikra</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayikra.m4a</guid>
-      <pubDate>Fri, 04 Apr 2025 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Vayikra" (Leveticus 1:1-5:26)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayikra.m4a" length="33732580" type="audio/mp4"/>
     </item>
     <item>
       <title>Pekudei</title>
