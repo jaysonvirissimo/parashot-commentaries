@@ -10,7 +10,7 @@ file_content = File.read(json_file)
 data = JSON.parse(file_content)
 
 # Sort items by pubDate in descending order (most recent first)
-data['items'] = data['items'].sort_by { |item| Time.parse(item['pubDate']) }.reverse
+data['items'] = data['items'].sort_by { |item| [-Time.parse(item['pubDate']).to_i, item['title']] }
 
 builder = Nokogiri::XML::Builder.new do |xml|
   xml.rss(version: "2.0", 'xmlns:itunes' => "http://www.itunes.com/dtds/podcast-1.0.dtd", 'xmlns:atom' => "http://www.w3.org/2005/Atom") {

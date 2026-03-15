@@ -117,6 +117,21 @@ RSpec.describe "RSS feed generation" do
     expect(owner_email).to eq(json_data['owner']['email'])
   end
 
+  it "sorts items with the same pubDate deterministically by title" do
+    rss_items = rss_doc.xpath('//item')
+
+    # Group items by pubDate
+    groups = rss_items.group_by { |item| item.xpath('pubDate').text }
+
+    groups.each do |pub_date, items|
+      next if items.length < 2
+
+      titles = items.map { |item| item.xpath('title').text }
+      expect(titles).to eq(titles.sort),
+        "Items with pubDate '#{pub_date}' are not in alphabetical order by title: #{titles.inspect}"
+    end
+  end
+
   it "includes atom:link self-reference" do
     channel = rss_doc.xpath('//channel').first
     atom_ns = 'http://www.w3.org/2005/Atom'
