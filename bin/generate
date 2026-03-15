@@ -24,6 +24,10 @@ builder = Nokogiri::XML::Builder.new do |xml|
       xml['itunes'].summary data['summary']
       xml.description data['description']
 
+      if data['items'] && !data['items'].empty?
+        xml.pubDate data['items'].first['pubDate']
+      end
+
       # Add atom:link for self-referencing feed URL
       xml['atom'].link(href: data['link'], rel: 'self', type: 'application/rss+xml')
 

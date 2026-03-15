@@ -76,6 +76,14 @@ end
 RSpec.describe "Commentary RSS feed" do
   let(:file_path) { File.join(File.dirname(__FILE__), '..', 'commentary.rss') }
 
+  it "has a channel-level pubDate" do
+    file_content = File.read(file_path)
+    doc = REXML::Document.new(file_content)
+    pub_date = doc.root.elements["channel/pubDate"]
+    expect(pub_date).not_to be_nil
+    expect { Time.rfc2822(pub_date.text) }.not_to raise_error
+  end
+
   it "is a well-formed RSS file" do
     file_content = File.read(file_path)
     expect {
