@@ -16,6 +16,17 @@
   "category": "Religion & Spirituality",
   "items": [
     {
+      "title": "Haftarah Balak",
+      "guid": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-balak.mp3",
+      "pubDate": "Mon, 07 Jul 2025 18:00:00 -0700",
+      "description": "Commentary on Haftarah portion \"Balak\" (MICAH 5:6 – 6:8)",
+      "enclosure": {
+        "url": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-balak.mp3",
+        "length": "24118316",
+        "type": "audio/mp3"
+      }
+    },
+    {
       "title": "Balak",
       "guid": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/balak.mp3",
       "pubDate": "Mon, 07 Jul 2025 18:00:00 -0700",
