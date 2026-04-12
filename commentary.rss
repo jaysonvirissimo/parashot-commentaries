@@ -29,6 +29,20 @@
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/korach.mp3" length="73869740" type="audio/mp3"/>
     </item>
     <item>
+      <title>Metzora</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/metzora.m4a</guid>
+      <pubDate>Sun, 12 Apr 2026 06:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Metzora" (Leveticus 14:1-15:33)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/metzora.m4a" length="29898476" type="audio/mp4"/>
+    </item>
+    <item>
+      <title>Tazria</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/tazria.m4a</guid>
+      <pubDate>Sun, 12 Apr 2026 06:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Tazria" (Leveticus 12:1-13:5)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/tazria.m4a" length="22042187" type="audio/mp4"/>
+    </item>
+    <item>
       <title>Sh'mini</title>
       <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/shmini.m4a</guid>
       <pubDate>Sun, 05 Apr 2026 06:00:00 -0700</pubDate>
@@ -258,20 +272,6 @@
       <pubDate>Fri, 09 May 2025 18:00:00 -0700</pubDate>
       <description>Commentary on Torah portion "Kedoshim" (Leveticus 19:1-20:27)</description>
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/kedoshim.m4a" length="30259146" type="audio/mp4"/>
-    </item>
-    <item>
-      <title>Metzora</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/metzora.m4a</guid>
-      <pubDate>Fri, 02 May 2025 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Metzora" (Leveticus 14:1-15:33)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/metzora.m4a" length="29898476" type="audio/mp4"/>
-    </item>
-    <item>
-      <title>Tazria</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/tazria.m4a</guid>
-      <pubDate>Fri, 02 May 2025 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Tazria" (Leveticus 12:1-13:5)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/tazria.m4a" length="22042187" type="audio/mp4"/>
     </item>
     <item>
       <title>Haftarah Shemini</title>
