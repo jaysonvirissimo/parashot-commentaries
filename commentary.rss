@@ -29,6 +29,20 @@
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/korach.mp3" length="73869740" type="audio/mp3"/>
     </item>
     <item>
+      <title>Achrei Mot</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/acharei-mot.m4a</guid>
+      <pubDate>Sun, 19 Apr 2026 06:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Acharei Mot" (Leveticus 16:1-18:30)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/acharei-mot.m4a" length="35041105" type="audio/mp4"/>
+    </item>
+    <item>
+      <title>Kedoshim</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/kedoshim.m4a</guid>
+      <pubDate>Sun, 19 Apr 2026 06:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Kedoshim" (Leveticus 19:1-20:27)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/kedoshim.m4a" length="30259146" type="audio/mp4"/>
+    </item>
+    <item>
       <title>Metzora</title>
       <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/metzora.m4a</guid>
       <pubDate>Sun, 12 Apr 2026 06:00:00 -0700</pubDate>
@@ -258,20 +272,6 @@
       <pubDate>Fri, 16 May 2025 18:00:00 -0700</pubDate>
       <description>Commentary on Torah portion "Emor" (Leveticus 21:1-24:23)</description>
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/emor.m4a" length="32233060" type="audio/mp4"/>
-    </item>
-    <item>
-      <title>Achrei Mot</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/acharei-mot.m4a</guid>
-      <pubDate>Fri, 09 May 2025 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Acharei Mot" (Leveticus 16:1-18:30)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/acharei-mot.m4a" length="35041105" type="audio/mp4"/>
-    </item>
-    <item>
-      <title>Kedoshim</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/kedoshim.m4a</guid>
-      <pubDate>Fri, 09 May 2025 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Kedoshim" (Leveticus 19:1-20:27)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/kedoshim.m4a" length="30259146" type="audio/mp4"/>
     </item>
     <item>
       <title>Haftarah Shemini</title>
