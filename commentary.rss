@@ -29,6 +29,13 @@
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/korach.mp3" length="73869740" type="audio/mp3"/>
     </item>
     <item>
+      <title>Emor</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/emor.m4a</guid>
+      <pubDate>Sun, 26 Apr 2026 06:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Emor" (Leveticus 21:1-24:23)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/emor.m4a" length="32233060" type="audio/mp4"/>
+    </item>
+    <item>
       <title>Achrei Mot</title>
       <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/acharei-mot.m4a</guid>
       <pubDate>Sun, 19 Apr 2026 06:00:00 -0700</pubDate>
@@ -265,13 +272,6 @@
       <pubDate>Fri, 23 May 2025 18:00:00 -0700</pubDate>
       <description>Commentary on Torah portion "Behar" (Leveticus 25:1-26:2)</description>
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/behar.m4a" length="25580261" type="audio/mp4"/>
-    </item>
-    <item>
-      <title>Emor</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/emor.m4a</guid>
-      <pubDate>Fri, 16 May 2025 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Emor" (Leveticus 21:1-24:23)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/emor.m4a" length="32233060" type="audio/mp4"/>
     </item>
     <item>
       <title>Haftarah Shemini</title>
