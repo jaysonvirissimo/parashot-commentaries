@@ -29,6 +29,20 @@
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/korach.mp3" length="73869740" type="audio/mp3"/>
     </item>
     <item>
+      <title>Bechukotai</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/bechukotai.m4a</guid>
+      <pubDate>Sun, 03 May 2026 06:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Bechukotai" (Leveticus 26:3-27:34)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/bechukotai.m4a" length="25212900" type="audio/mp4"/>
+    </item>
+    <item>
+      <title>Behar</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/behar.m4a</guid>
+      <pubDate>Sun, 03 May 2026 06:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Behar" (Leveticus 25:1-26:2)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/behar.m4a" length="25580261" type="audio/mp4"/>
+    </item>
+    <item>
       <title>Emor</title>
       <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/emor.m4a</guid>
       <pubDate>Sun, 26 Apr 2026 06:00:00 -0700</pubDate>
@@ -258,20 +272,6 @@
       <pubDate>Fri, 30 May 2025 18:00:00 -0700</pubDate>
       <description>Commentary on Torah portion "Bamidbar" (Numbers 1:1-4:20)</description>
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/bamidbar.m4a" length="27083920" type="audio/mp4"/>
-    </item>
-    <item>
-      <title>Bechukotai</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/bechukotai.m4a</guid>
-      <pubDate>Fri, 23 May 2025 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Bechukotai" (Leveticus 26:3-27:34)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/bechukotai.m4a" length="25212900" type="audio/mp4"/>
-    </item>
-    <item>
-      <title>Behar</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/behar.m4a</guid>
-      <pubDate>Fri, 23 May 2025 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Behar" (Leveticus 25:1-26:2)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/behar.m4a" length="25580261" type="audio/mp4"/>
     </item>
     <item>
       <title>Haftarah Shemini</title>
