@@ -92,6 +92,13 @@
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/tazria.m4a" length="22042187" type="audio/mp4"/>
     </item>
     <item>
+      <title>Haftarah Shmini</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-shmini.mp3</guid>
+      <pubDate>Sun, 05 Apr 2026 06:00:00 -0700</pubDate>
+      <description>Commentary on Haftarah portion "Shmini" (2 Samuel 6:1-19)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-shmini.mp3" length="18432620" type="audio/mp3"/>
+    </item>
+    <item>
       <title>Shmini</title>
       <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/shmini.m4a</guid>
       <pubDate>Sun, 05 Apr 2026 06:00:00 -0700</pubDate>
@@ -272,13 +279,6 @@
       <pubDate>Fri, 13 Jun 2025 18:00:00 -0700</pubDate>
       <description>Commentary on Torah portion "Beha'alotcha" (Numbers 8:1-12:16)</description>
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/behalotcha.m4a" length="43361414" type="audio/mp4"/>
-    </item>
-    <item>
-      <title>Haftarah Shmini</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-shmini.mp3</guid>
-      <pubDate>Fri, 25 Apr 2025 18:00:00 -0700</pubDate>
-      <description>Commentary on Haftarah portion "Shmini" (2 Samuel 6:1-19)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-shmini.mp3" length="18432620" type="audio/mp3"/>
     </item>
     <item>
       <title>Haftarah Tzav</title>
