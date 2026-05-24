@@ -71,12 +71,12 @@
       }
     },
     {
-      "title": "Haftarah Shemini",
-      "guid": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-shemini.mp3",
+      "title": "Haftarah Shmini",
+      "guid": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-shmini.mp3",
       "pubDate": "Fri, 25 Apr 2025 18:00:00 -0700",
-      "description": "Commentary on Haftarah portion \"Shemini\" (2 Samuel 6:1-19 )",
+      "description": "Commentary on Haftarah portion \"Shmini\" (2 Samuel 6:1-19)",
       "enclosure": {
-        "url": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-shemini.mp3",
+        "url": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-shmini.mp3",
         "length": "18432620",
         "type": "audio/mp3"
       }
@@ -643,10 +643,10 @@
       }
     },
     {
-      "title": "Sh'mini",
+      "title": "Shmini",
       "guid": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/shmini.m4a",
       "pubDate": "Sun, 05 Apr 2026 06:00:00 -0700",
-      "description": "Commentary on Torah portion \"Sh'mini\" (Leveticus 9:1-11:47)",
+      "description": "Commentary on Torah portion \"Shmini\" (Leviticus 9:1-11:47)",
       "enclosure": {
         "url": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/shmini.m4a",
         "length": "30998217",
