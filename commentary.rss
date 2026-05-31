@@ -29,6 +29,13 @@
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/korach.mp3" length="73869740" type="audio/mp3"/>
     </item>
     <item>
+      <title>Beha'alotcha</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/behalotcha.m4a</guid>
+      <pubDate>Sun, 31 May 2026 06:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Beha'alotcha" (Numbers 8:1-12:16)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/behalotcha.m4a" length="43361414" type="audio/mp4"/>
+    </item>
+    <item>
       <title>Nasso</title>
       <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/nasso.m4a</guid>
       <pubDate>Sun, 24 May 2026 06:00:00 -0700</pubDate>
@@ -286,13 +293,6 @@
       <pubDate>Fri, 20 Jun 2025 18:00:00 -0700</pubDate>
       <description>Commentary on Torah portion "Shelach" (Numbers 13:1-15:41)</description>
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/shelach.m4a" length="33773052" type="audio/mp4"/>
-    </item>
-    <item>
-      <title>Beha'alotcha</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/behalotcha.m4a</guid>
-      <pubDate>Fri, 13 Jun 2025 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Beha'alotcha" (Numbers 8:1-12:16)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/behalotcha.m4a" length="43361414" type="audio/mp4"/>
     </item>
     <item>
       <title>Haftarah Pekudei</title>
