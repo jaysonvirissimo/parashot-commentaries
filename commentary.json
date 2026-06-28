@@ -16,6 +16,17 @@
   "category": "Religion & Spirituality",
   "items": [
     {
+      "title": "Haftarah Tazria",
+      "guid": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-tazria.mp3",
+      "pubDate": "Sun, 12 Apr 2026 18:00:00 -0700",
+      "description": "Commentary on haftarah portion \"Tazria\" (2 KINGS 4:42 - 5:19)",
+      "enclosure": {
+        "url": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-tazria.mp3",
+        "length": "19829420",
+        "type": "audio/mp3"
+      }
+    },
+    {
       "title": "Haftarah Balak",
       "guid": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-balak.mp3",
       "pubDate": "Sun, 21 Jun 2026 06:00:00 -0700",

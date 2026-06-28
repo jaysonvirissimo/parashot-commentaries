@@ -113,6 +113,13 @@
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/kedoshim.m4a" length="30259146" type="audio/mp4"/>
     </item>
     <item>
+      <title>Haftarah Tazria</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-tazria.mp3</guid>
+      <pubDate>Sun, 12 Apr 2026 18:00:00 -0700</pubDate>
+      <description>Commentary on haftarah portion "Tazria" (2 KINGS 4:42 - 5:19)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-tazria.mp3" length="19829420" type="audio/mp3"/>
+    </item>
+    <item>
       <title>Metzora</title>
       <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/metzora.m4a</guid>
       <pubDate>Sun, 12 Apr 2026 06:00:00 -0700</pubDate>
