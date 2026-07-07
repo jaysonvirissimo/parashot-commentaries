@@ -16,6 +16,17 @@
   "category": "Religion & Spirituality",
   "items": [
     {
+      "title": "Pinchas",
+      "guid": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/pinchas.mp3",
+      "pubDate": "Sun, 28 Jun 2026 18:00:00 -0700",
+      "description": "Commentary on Torah portion \"Pinchas\" Numbers 25:10-30:1",
+      "enclosure": {
+        "url": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/pinchas.mp3",
+        "length": "100231532",
+        "type": "audio/mp3"
+      }
+    },
+    {
       "title": "Haftarah Tazria",
       "guid": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-tazria.mp3",
       "pubDate": "Sun, 12 Apr 2026 18:00:00 -0700",
