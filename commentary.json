@@ -16,6 +16,17 @@
   "category": "Religion & Spirituality",
   "items": [
     {
+      "title": "Haftarah Pinchas",
+      "guid": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-pinchas.mp3",
+      "pubDate": "Sun, 28 Jun 2026 18:00:00 -0700",
+      "description": "Commentary on Haftarah portion \"Pinchas\" (1 KINGS 18:46 - 19:21)",
+      "enclosure": {
+        "url": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-pinchas.mp3",
+        "length": "22699052",
+        "type": "audio/mp3"
+      }
+    },
+    {
       "title": "Pinchas",
       "guid": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/pinchas.mp3",
       "pubDate": "Sun, 28 Jun 2026 18:00:00 -0700",
