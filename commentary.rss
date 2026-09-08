@@ -12,7 +12,7 @@
     <description>
       A torah commentary reading podcast. Dive deep into the profound and timeless wisdom of the Torah. Join us as we embark on a weekly journey through the pages of 'Bible Commentary Based on Jewish Sources and Thought' by Dr. Richard A. Elofer. Gain a deeper understanding of the Torah, enriched by a Messianic perspective that adds a unique layer of insight. Tune in and let these pearls of wisdom from the Torah illuminate your path.
     </description>
-    <pubDate>Sun, 28 Jun 2026 18:00:00 -0700</pubDate>
+    <pubDate>Tue, 08 Sep 2026 18:00:00 -0700</pubDate>
     <atom:link href="https://sweetjulian.co/pearls-of-torah/" rel="self" type="application/rss+xml"/>
     <itunes:owner>
       <itunes:name>Lizette</itunes:name>
@@ -21,6 +21,13 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/images/commentary.jpeg"/>
     <itunes:category text="Religion &amp; Spirituality"/>
+    <item>
+      <title>Matot</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/matot.mp3</guid>
+      <pubDate>Tue, 08 Sep 2026 18:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Matot" (NUMBERS 30:2 - 32:42)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/matot.mp3" length="75721580" type="audio/mp3"/>
+    </item>
     <item>
       <title>Haftarah Pinchas</title>
       <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-pinchas.mp3</guid>
