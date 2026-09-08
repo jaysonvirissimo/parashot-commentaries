@@ -16,6 +16,17 @@
   "category": "Religion & Spirituality",
   "items": [
     {
+      "title": "Haftarah Matot",
+      "guid": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-matot.mp3",
+      "pubDate": "Tue, 08 Sep 2026 18:00:00 -0700",
+      "description": "Commentary on Haftarah portion \"Matot\" (JEREMIAH 1:1 - 2:3)",
+      "enclosure": {
+        "url": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/haftarah-matot.mp3",
+        "length": "23079212",
+        "type": "audio/mp3"
+      }
+    },
+    {
       "title": "Matot",
       "guid": "https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/matot.mp3",
       "pubDate": "Tue, 08 Sep 2026 18:00:00 -0700",
