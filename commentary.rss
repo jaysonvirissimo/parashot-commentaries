@@ -12,7 +12,7 @@
     <description>
       A torah commentary reading podcast. Dive deep into the profound and timeless wisdom of the Torah. Join us as we embark on a weekly journey through the pages of 'Bible Commentary Based on Jewish Sources and Thought' by Dr. Richard A. Elofer. Gain a deeper understanding of the Torah, enriched by a Messianic perspective that adds a unique layer of insight. Tune in and let these pearls of wisdom from the Torah illuminate your path.
     </description>
-    <pubDate>Sun, 25 Oct 2026 06:00:00 -0700</pubDate>
+    <pubDate>Sun, 08 Nov 2026 06:00:00 -0700</pubDate>
     <atom:link href="https://sweetjulian.co/pearls-of-torah/" rel="self" type="application/rss+xml"/>
     <itunes:owner>
       <itunes:name>Lizette</itunes:name>
@@ -21,6 +21,20 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/images/commentary.jpeg"/>
     <itunes:category text="Religion &amp; Spirituality"/>
+    <item>
+      <title>Haftarah Toldot</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/toldot-haftara.m4a</guid>
+      <pubDate>Sun, 08 Nov 2026 06:00:00 -0700</pubDate>
+      <description>Commentary on Haftara portion "Toldot Haftara"</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/toldot-haftara.m4a" length="9628648" type="audio/mp4"/>
+    </item>
+    <item>
+      <title>Toldot</title>
+      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/toldot.mp3</guid>
+      <pubDate>Sun, 08 Nov 2026 06:00:00 -0700</pubDate>
+      <description>Commentary on Torah portion "Toldot" (Genesis 25:19-28:9)</description>
+      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/toldot.mp3" length="50483955" type="audio/mp3"/>
+    </item>
     <item>
       <title>Haftarah Vayera</title>
       <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayera-haftara.m4a</guid>
@@ -510,20 +524,6 @@
       <pubDate>Fri, 06 Dec 2024 18:00:00 -0700</pubDate>
       <description>Commentary on Torah portion "Vayetze" (Genesis 28:10-32:3)</description>
       <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/vayetze.mp3" length="49604568" type="audio/mp3"/>
-    </item>
-    <item>
-      <title>Haftarah Toldot</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/toldot-haftara.m4a</guid>
-      <pubDate>Fri, 29 Nov 2024 18:00:00 -0700</pubDate>
-      <description>Commentary on Haftara portion "Toldot Haftara"</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/toldot-haftara.m4a" length="9628648" type="audio/mp4"/>
-    </item>
-    <item>
-      <title>Toldot</title>
-      <guid>https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/toldot.mp3</guid>
-      <pubDate>Fri, 29 Nov 2024 18:00:00 -0700</pubDate>
-      <description>Commentary on Torah portion "Toldot" (Genesis 25:19-28:9)</description>
-      <enclosure url="https://github.com/jaysonvirissimo/parashot-commentaries/raw/main/audio/toldot.mp3" length="50483955" type="audio/mp3"/>
     </item>
     <item>
       <title>Haftarah Chayei Sarah</title>
